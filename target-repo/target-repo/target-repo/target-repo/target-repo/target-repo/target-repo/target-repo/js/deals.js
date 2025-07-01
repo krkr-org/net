@@ -3,7 +3,7 @@ const USE_STATIC_DATA = true;
 const DATA_BASE_PATH = 'data/';
 
 // State
-let allPlans = []; // Store all plans for client-side filtering
+let allDeals = []; // Store all deals for client-side filtering
 let currentPlans = [];
 let allProviders = [];
 let selectedProviders = [];
@@ -12,26 +12,22 @@ let pageSize = 20;
 let totalPlans = 0;
 let isLoading = false;
 let currentFilters = {};
-let sortColumn = 'monthly_price';
-let sortDirection = 'asc';
+let sortColumn = 'total_savings';
+let sortDirection = 'desc';
 
 // DOM Elements
 const loadingEl = document.getElementById('loading');
 const errorEl = document.getElementById('error');
 const noResultsEl = document.getElementById('no-results');
 const plansContainer = document.getElementById('plans-container');
-const cardsContainer = document.getElementById('plans-cards-container');
 const providerFilter = document.getElementById('provider-filter');
 const providerOptions = document.getElementById('provider-options');
 const providerList = document.getElementById('provider-list');
 const providerSearch = document.getElementById('provider-search');
 const speedFilter = document.getElementById('speed-filter');
 const priceFilter = document.getElementById('price-filter');
-const contractFilter = document.getElementById('contract-filter');
-const wirelessFilter = document.getElementById('wireless-filter');
-const minDownloadFilter = document.getElementById('min-download-filter');
-const maxDownloadFilter = document.getElementById('max-download-filter');
-const minUploadFilter = document.getElementById('min-upload-filter');
+const promoTypeFilter = document.getElementById('promo-type-filter');
+const minSavingsFilter = document.getElementById('min-savings-filter');
 const firstBtn = document.getElementById('first-btn');
 const prevBtn = document.getElementById('prev-btn');
 const nextBtn = document.getElementById('next-btn');
@@ -40,7 +36,6 @@ const pageInfo = document.getElementById('page-info');
 const pageSizeSelect = document.getElementById('page-size');
 const toggleFiltersBtn = document.getElementById('toggle-filters');
 const filterContainer = document.getElementById('filter-container');
-const mobileSortSelect = document.getElementById('mobile-sort-select');
 
 // Initialize the application
 document.addEventListener('DOMContentLoaded', async () => {
@@ -54,19 +49,19 @@ async function loadStaticData() {
     try {
         showLoading();
         
-        // Load providers and plans
+        // Load providers and deals
         await Promise.all([
             loadProvidersFromJSON(),
-            loadPlansFromJSON()
+            loadDealsFromJSON()
         ]);
         
         // Apply initial filters and render
         applyFiltersAndRender();
         hideLoading();
         
-        console.log('✅ Static data loaded successfully');
+        console.log('✅ Static deals data loaded successfully');
     } catch (error) {
-        console.error('❌ Error loading static data:', error);
+        console.error('❌ Error loading static deals data:', error);
         hideLoading();
         showError();
     }
@@ -89,55 +84,60 @@ async function loadProvidersFromJSON() {
     }
 }
 
-// Load plans from JSON
-async function loadPlansFromJSON() {
+// Load deals from JSON
+async function loadDealsFromJSON() {
     try {
-        const response = await fetch(`${DATA_BASE_PATH}plans.json`);
-        if (!response.ok) throw new Error('Failed to load plans data');
+        const response = await fetch(`${DATA_BASE_PATH}deals.json`);
+        if (!response.ok) throw new Error('Failed to load deals data');
         
         const data = await response.json();
-        allPlans = data.data || data; // Handle both wrapped and unwrapped formats
+        allDeals = data.data || data; // Handle both wrapped and unwrapped formats
         
-        // Calculate promo price for each plan if not provided
-        allPlans.forEach(plan => {
-            if (!plan.promo_price) {
-                plan.promo_price = calculatePromoPrice(plan);
+        // Calculate total savings and promo price for each deal if not provided
+        allDeals.forEach(deal => {
+            if (!deal.total_savings && deal.promo_value) {
+                deal.total_savings = calculateTotalSavings(deal);
+            }
+            if (!deal.promo_price) {
+                deal.promo_price = calculatePromoPrice(deal);
             }
         });
         
-        console.log(`Loaded ${allPlans.length} plans from JSON`);
+        console.log(`Loaded ${allDeals.length} deals from JSON`);
     } catch (error) {
-        console.error('Error loading plans:', error);
+        console.error('Error loading deals:', error);
         throw error;
     }
 }
 
 // Apply filters and render results
 function applyFiltersAndRender() {
-    // Start with all plans
-    let filteredPlans = [...allPlans];
+    // Start with all deals
+    let filteredDeals = [...allDeals];
     
     // Apply filters
-    filteredPlans = applyClientSideFilters(filteredPlans);
+    filteredDeals = applyClientSideFilters(filteredDeals);
     
     // Update total count
-    totalPlans = filteredPlans.length;
+    totalPlans = filteredDeals.length;
     
     // Apply sorting
-    sortPlansArray(filteredPlans);
+    sortPlansArray(filteredDeals);
     
     // Apply pagination
     const startIndex = (currentPage - 1) * pageSize;
     const endIndex = startIndex + pageSize;
-    currentPlans = filteredPlans.slice(startIndex, endIndex);
+    currentPlans = filteredDeals.slice(startIndex, endIndex);
+    
+    // Remove static content only after we have real data
+    document.querySelectorAll('.static-content').forEach(el => el.remove());
     
     // Render results
     renderPlans(currentPlans);
     updatePaginationControls();
     updateSortIcons();
-    updateMobileSortSelect();
     
-    if (filteredPlans.length === 0) {
+    if (filteredDeals.length === 0) {
         showNoResults();
     } else {
         hideNoResults();
@@ -145,65 +145,41 @@ function applyFiltersAndRender() {
 }
 
 // Apply client-side filters
-function applyClientSideFilters(plans) {
-    return plans.filter(plan => {
+function applyClientSideFilters(deals) {
+    return deals.filter(deal => {
         // Provider filter
         if (currentFilters.provider_ids && currentFilters.provider_ids.length > 0) {
-            if (!currentFilters.provider_ids.includes(plan.provider_id?.toString())) {
+            if (!currentFilters.provider_ids.includes(deal.provider_id?.toString())) {
                 return false;
             }
         }
         
         // Speed filter (exact match)
         if (currentFilters.speed) {
-            const planSpeed = plan.download_speed || 0;
-            if (planSpeed !== currentFilters.speed) {
+            const dealSpeed = deal.download_speed || 0;
+            if (dealSpeed !== currentFilters.speed) {
                 return false;
             }
         }
         
         // Max price filter
         if (currentFilters.max_price) {
-            if (plan.monthly_price > currentFilters.max_price) {
+            if (deal.monthly_price > currentFilters.max_price) {
                 return false;
             }
         }
         
-        // Contract length filter
-        if (currentFilters.contract_length !== undefined) {
-            const planContract = plan.contract_length || 0;
-            if (planContract !== currentFilters.contract_length) {
+        // Promo type filter
+        if (currentFilters.promo_type) {
+            if (!deal.promo_type || deal.promo_type.toLowerCase() !== currentFilters.promo_type.toLowerCase()) {
                 return false;
             }
         }
         
-        // Fixed wireless filter
-        if (currentFilters.fixed_wireless !== undefined) {
-            if (plan.fixed_wireless !== currentFilters.fixed_wireless) {
-                return false;
-            }
-        }
-        
-        // Min download speed filter
-        if (currentFilters.min_download_speed) {
-            const planSpeed = plan.download_speed || 0;
-            if (planSpeed < currentFilters.min_download_speed) {
-                return false;
-            }
-        }
-        
-        // Max download speed filter
-        if (currentFilters.max_download_speed) {
-            const planSpeed = plan.download_speed || 0;
-            if (planSpeed > currentFilters.max_download_speed) {
-                return false;
-            }
-        }
-        
-        // Min upload speed filter
-        if (currentFilters.min_upload_speed) {
-            const planSpeed = plan.upload_speed || 0;
-            if (planSpeed < currentFilters.min_upload_speed) {
+        // Min savings filter
+        if (currentFilters.min_savings) {
+            const savings = deal.total_savings || 0;
+            if (savings < currentFilters.min_savings) {
                 return false;
             }
         }
@@ -218,6 +194,38 @@ function goToPage(page) {
     if (page >= 1 && page <= totalPages && page !== currentPage) {
         currentPage = page;
         applyFiltersAndRender();
+    }
+}
+
+// Calculate total savings based on promo type
+function calculateTotalSavings(plan) {
+    if (!plan.promo_value) return 0;
+
+    switch (plan.promo_type?.toLowerCase()) {
+        case 'discount':
+            return plan.promo_value * (plan.promo_duration || 1);
+        case 'free_months':
+            return plan.monthly_price * plan.promo_value;
+        case 'setup_waived':
+            return plan.setup_fee || 0;
+        default:
+            return plan.promo_value;
+    }
+}
+
+// Calculate promotional price (price during promo period)
+function calculatePromoPrice(plan) {
+    if (!plan.promo_value || !plan.promo_type) return plan.monthly_price;
+
+    switch (plan.promo_type?.toLowerCase()) {
+        case 'discount':
+            return Math.max(0, plan.monthly_price - plan.promo_value);
+        case 'free_months':
+            return 0; // Free means $0
+        case 'setup_waived':
+            return plan.monthly_price; // Setup fee doesn't affect monthly price
+        default:
+            return plan.monthly_price;
     }
 }
 
@@ -248,19 +256,7 @@ function setupEventListeners() {
         }
     });
 
-    minDownloadFilter.addEventListener('keypress', (e) => {
-        if (e.key === 'Enter') {
-            applyFilters();
-        }
-    });
-
-    maxDownloadFilter.addEventListener('keypress', (e) => {
-        if (e.key === 'Enter') {
-            applyFilters();
-        }
-    });
-
-    minUploadFilter.addEventListener('keypress', (e) => {
+    minSavingsFilter.addEventListener('keypress', (e) => {
         if (e.key === 'Enter') {
             applyFilters();
         }
@@ -268,13 +264,13 @@ function setupEventListeners() {
 
     // Column sorting
     document.querySelectorAll('.sortable').forEach(header => {
-        header.addEventListener('click', (e) => {
+        header.addEventListener('click', () => {
             const column = header.dataset.sort;
             if (sortColumn === column) {
                 sortDirection = sortDirection === 'asc' ? 'desc' : 'asc';
             } else {
                 sortColumn = column;
-                sortDirection = 'asc';
+                sortDirection = column === 'total_savings' ? 'desc' : 'asc';
             }
             applyFiltersAndRender();
         });
@@ -295,34 +291,13 @@ function setupEventListeners() {
             toggleFiltersBtn.innerHTML = '<span class="toggle-icon">▶</span> Show Filters';
         }
 
-        // Save preference to localStorage
-        localStorage.setItem('filtersExpanded', newExpanded.toString());
-    });
-
-    // Mobile sort dropdown
-    mobileSortSelect.addEventListener('change', (e) => {
-        const [column, direction] = e.target.value.split('-');
-        sortColumn = column;
-        sortDirection = direction;
-        applyFiltersAndRender();
-    });
-
-    // Handle window resize to switch between mobile and desktop layouts
-    let resizeTimer;
-    window.addEventListener('resize', () => {
-        clearTimeout(resizeTimer);
-        resizeTimer = setTimeout(() => {
-            // Re-render plans with the appropriate layout
-            renderPlans(currentPlans);
-            // Update mobile sort dropdown to match current sort
-            updateMobileSortSelect();
-        }, 250);
+        localStorage.setItem('dealsFiltersExpanded', newExpanded.toString());
     });
 }
 
 // Load filter preferences from localStorage
 function loadFilterPreferences() {
-    const filtersExpanded = localStorage.getItem('filtersExpanded');
+    const filtersExpanded = localStorage.getItem('dealsFiltersExpanded');
     const isMobile = window.innerWidth <= 768;
 
     // Default to collapsed on mobile, expanded on desktop
@@ -465,22 +440,6 @@ function updateProviderDisplay() {
     }
 }
 
-// Calculate promotional price (price during promo period)
-function calculatePromoPrice(plan) {
-    if (!plan.promo_value || !plan.promo_type) return plan.monthly_price;
-
-    switch (plan.promo_type?.toLowerCase()) {
-        case 'discount':
-            return Math.max(0, plan.monthly_price - plan.promo_value);
-        case 'free_months':
-            return 0; // Free means $0
-        case 'setup_waived':
-            return plan.monthly_price; // Setup fee doesn't affect monthly price
-        default:
-            return plan.monthly_price;
-    }
-}
-
 // Get total number of pages
 function getTotalPages() {
     return Math.max(1, Math.ceil(totalPlans / pageSize));
@@ -522,26 +481,14 @@ function updateSortIcons() {
     }
 }
 
-// Update mobile sort dropdown to match current sort
-function updateMobileSortSelect() {
-    if (mobileSortSelect) {
-        const sortValue = `${sortColumn}-${sortDirection}`;
-        mobileSortSelect.value = sortValue;
-    }
-}
-
 // Apply filters
 function applyFilters() {
     updateSelectedProviders();
     const speed = speedFilter.value;
     const maxPrice = priceFilter.value;
-    const contractLength = contractFilter.value;
-    const fixedWireless = wirelessFilter.value;
-    const minDownload = minDownloadFilter.value;
-    const maxDownload = maxDownloadFilter.value;
-    const minUpload = minUploadFilter.value;
+    const promoType = promoTypeFilter.value;
+    const minSavings = minSavingsFilter.value;
 
-    // Build filters object
     currentFilters = {};
 
     if (selectedProviders.length > 0) {
@@ -556,27 +503,16 @@ function applyFilters() {
         currentFilters.max_price = parseFloat(maxPrice);
     }
 
-    if (contractLength !== '') {
-        currentFilters.contract_length = parseInt(contractLength);
+    if (promoType) {
+        currentFilters.promo_type = promoType;
     }
 
-    if (fixedWireless) {
-        currentFilters.fixed_wireless = fixedWireless === 'true';
+    if (minSavings) {
+        currentFilters.min_savings = parseFloat(minSavings);
     }
 
-    if (minDownload) {
-        currentFilters.min_download_speed = parseInt(minDownload);
-    }
+    console.log('Applied filters:', currentFilters);
 
-    if (maxDownload) {
-        currentFilters.max_download_speed = parseInt(maxDownload);
-    }
-
-    if (minUpload) {
-        currentFilters.min_upload_speed = parseInt(minUpload);
-    }
-
-    // Reset to first page and apply filters
     currentPage = 1;
     applyFiltersAndRender();
 }
@@ -598,11 +534,8 @@ function clearFilters() {
 
     speedFilter.value = '';
     priceFilter.value = '';
-    contractFilter.value = '';
-    wirelessFilter.value = '';
-    minDownloadFilter.value = '';
-    maxDownloadFilter.value = '';
-    minUploadFilter.value = '';
+    promoTypeFilter.value = '';
+    minSavingsFilter.value = '';
     currentFilters = {};
     currentPage = 1;
     applyFiltersAndRender();
@@ -612,7 +545,7 @@ function clearFilters() {
 function updatePaginationControls() {
     const totalPages = getTotalPages();
 
-    pageInfo.textContent = `Page ${currentPage} of ${totalPages} (${currentPlans.length} plans shown)`;
+    pageInfo.textContent = `Page ${currentPage} of ${totalPages} (${currentPlans.length} deals shown)`;
 
     firstBtn.disabled = currentPage <= 1;
     prevBtn.disabled = currentPage <= 1;
@@ -622,74 +555,14 @@ function updatePaginationControls() {
 
 // Render plans in the table
 function renderPlans(plans) {
-    // Check if we're on mobile (width <= 768px)
-    const isMobile = window.innerWidth <= 768;
-    
-    if (isMobile) {
-        // Create card layout for mobile
-        cardsContainer.innerHTML = plans.map(plan => createPlanCard(plan)).join('');
-        plansContainer.innerHTML = '';
-    } else {
-        // Create table rows for desktop
-        plansContainer.innerHTML = plans.map(plan => createPlanRow(plan)).join('');
-        cardsContainer.innerHTML = '';
-    }
-}
-
-// Create a plan card HTML for mobile
-function createPlanCard(plan) {
-    const hasPromo = plan.promo_value && plan.promo_type;
-    const promoPrice = plan.promo_price || calculatePromoPrice(plan);
-
-    // Create provider cell with link if website is available
-    const providerLink = plan.provider_website
-        ? `<a href="${plan.provider_website}" target="_blank" rel="noopener noreferrer" class="plan-card-provider">${plan.provider_name || 'Unknown'}</a>`
-        : `<div class="plan-card-provider">${plan.provider_name || 'Unknown'}</div>`;
-
-    // Create fixed wireless badge if applicable
-    const fixedWirelessBadge = plan.fixed_wireless
-        ? `<span class="fixed-wireless-badge" title="Fixed Wireless NBN">Fixed Wireless</span>`
-        : '';
-
-    const promoContent = hasPromo 
-        ? `<div class="plan-card-promo">${formatPromotion(plan)}</div>`
-        : '';
-
-    const promoPriceDisplay = hasPromo 
-        ? `<div class="plan-card-promo-price">Promo: $${promoPrice.toFixed(2)}/mo</div>`
-        : '';
-
-    return `
-        <div class="plan-card">
-            <div class="plan-card-header">
-                ${providerLink}
-                <div class="plan-card-price">
-                    $${plan.monthly_price.toFixed(2)}/mo
-                    ${promoPriceDisplay}
-                </div>
-            </div>
-            <div class="plan-card-name">
-                ${plan.plan_name}${fixedWirelessBadge}
-            </div>
-            <div class="plan-card-details">
-                <div class="plan-card-detail">
-                    <div class="plan-card-detail-label">Speed</div>
-                    <div class="plan-card-detail-value">${formatSpeed(plan)}</div>
-                </div>
-                <div class="plan-card-detail">
-                    <div class="plan-card-detail-label">Contract</div>
-                    <div class="plan-card-detail-value">${plan.contract_length ? `${plan.contract_length} months` : 'No lock-in'}</div>
-                </div>
-            </div>
-            ${promoContent}
-        </div>
-    `;
+    plansContainer.innerHTML = plans.map(plan => createPlanRow(plan)).join('');
 }
 
 // Create a plan table row HTML
 function createPlanRow(plan) {
-    const hasPromo = plan.promo_value && plan.promo_type;
+    const totalSavings = plan.total_savings || calculateTotalSavings(plan);
     const promoPrice = plan.promo_price || calculatePromoPrice(plan);
+    const hasPromo = plan.promo_value && plan.promo_type;
 
     // Create provider cell with link if website is available
     const providerCell = plan.provider_website
@@ -704,15 +577,14 @@ function createPlanRow(plan) {
     const planNameCell = `${plan.plan_name}${fixedWirelessIcon}`;
 
     return `
-        <tr>
+        <tr class="deal-row">
             <td class="provider-cell">${providerCell}</td>
             <td class="plan-cell" title="${plan.plan_name}">${planNameCell}</td>
             <td class="speed-cell">${formatSpeed(plan)}</td>
             <td class="price-cell">$${plan.monthly_price.toFixed(2)}</td>
             <td class="promo-price-cell ${hasPromo ? '' : 'no-promo'}">${hasPromo ? `$${promoPrice.toFixed(2)}` : '-'}</td>
-            <td class="promo-cell ${hasPromo ? '' : 'no-promo'}">
-                ${hasPromo ? formatPromotion(plan) : '-'}
-            </td>
+            <td class="promo-cell">${formatPromotion(plan)}</td>
+            <td class="savings-cell">$${totalSavings.toFixed(0)}</td>
             <td class="contract-cell">${plan.contract_length ? `${plan.contract_length}mo` : '-'}</td>
         </tr>
     `;
@@ -734,15 +606,19 @@ function formatSpeed(plan) {
 
 // Format promotion text
 function formatPromotion(plan) {
-    if (!plan.promo_value || !plan.promo_type) return '';
+    if (!plan.promo_value || !plan.promo_type) return 'Special Offer';
 
     switch (plan.promo_type.toLowerCase()) {
         case 'discount':
-            return `$${plan.promo_value.toFixed(2)} off ${plan.promo_duration ? `${plan.promo_duration}mo` : ''}`;
+            return `$${plan.promo_value.toFixed(2)} off ${plan.promo_duration ? `for ${plan.promo_duration}mo` : ''}`;
         case 'free_months':
             return `${plan.promo_value} months free`;
+        case 'setup_waived':
+            return 'Free setup';
+        case 'bonus':
+            return plan.promo_details || 'Bonus inclusion';
         default:
-            return `${plan.promo_type}`;
+            return plan.promo_details || plan.promo_type;
     }
 }
 
@@ -750,7 +626,6 @@ function formatPromotion(plan) {
 function showLoading() {
     loadingEl.classList.remove('hidden');
     plansContainer.innerHTML = '';
-    cardsContainer.innerHTML = '';
 }
 
 function hideLoading() {
@@ -760,7 +635,6 @@ function hideLoading() {
 function showError() {
     errorEl.classList.remove('hidden');
     plansContainer.innerHTML = '';
-    cardsContainer.innerHTML = '';
 }
 
 function hideError() {
@@ -770,17 +644,8 @@ function hideError() {
 function showNoResults() {
     noResultsEl.classList.remove('hidden');
     plansContainer.innerHTML = '';
-    cardsContainer.innerHTML = '';
 }
 
 function hideNoResults() {
     noResultsEl.classList.add('hidden');
-}
-
-// Utility function to format currency
-function formatCurrency(amount) {
-    return new Intl.NumberFormat('en-AU', {
-        style: 'currency',
-        currency: 'AUD'
-    }).format(amount);
 }

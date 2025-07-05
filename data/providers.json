@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2025-07-05T12:24:17.565684",
+    "generated_at": "2025-07-06T08:49:13.877527",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
-    "count": 66
+    "count": 67
   },
   "data": [
     {
@@ -327,6 +327,16 @@
       "created_at": "2025-06-20T02:46:43"
     },
     {
+      "name": "IT'S FUBAR",
+      "website": "https://www.itsfubar.com.au/",
+      "pricing_url": "https://www.itsfubar.com.au/data-services/nbn-tc4/",
+      "logo_url": null,
+      "active": true,
+      "required_browser": false,
+      "id": 154,
+      "created_at": "2025-07-05T09:27:24"
+    },
+    {
       "name": "KINETIX",
       "website": "http://kinetix.net.au",
       "pricing_url": "https://kinetix.net.au/nbn.php?clientType=Residential",
@@ -589,7 +599,7 @@
     {
       "name": "SUPERLOOP",
       "website": "https://superloop.com/consumer/home-broadband/nbn.html",
-      "pricing_url": "https://experience-apigw.superloop.com/api/v1/product-catalog/broadband-offers?filter[product]=RESIDENTIAL&filter[aboveTheLine]=1&filter[provider]=NBN&filter[brand]=SUPERLOOP&filter[customerSegment]=CONSUMER",
+      "pricing_url": "https://www.superloop.com/internet/nbn",
       "logo_url": null,
       "active": true,
       "required_browser": false,

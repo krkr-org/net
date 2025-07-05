@@ -20,6 +20,7 @@ const loadingEl = document.getElementById('loading');
 const errorEl = document.getElementById('error');
 const noResultsEl = document.getElementById('no-results');
 const plansContainer = document.getElementById('plans-container');
+const cardsContainer = document.getElementById('plans-cards-container');
 const providerFilter = document.getElementById('provider-filter');
 const providerOptions = document.getElementById('provider-options');
 const providerList = document.getElementById('provider-list');
@@ -36,6 +37,7 @@ const pageInfo = document.getElementById('page-info');
 const pageSizeSelect = document.getElementById('page-size');
 const toggleFiltersBtn = document.getElementById('toggle-filters');
 const filterContainer = document.getElementById('filter-container');
+const mobileSortSelect = document.getElementById('mobile-sort-select');
 
 // Initialize the application
 document.addEventListener('DOMContentLoaded', async () => {
@@ -136,6 +138,7 @@ function applyFiltersAndRender() {
     renderPlans(currentPlans);
     updatePaginationControls();
     updateSortIcons();
+    updateMobileSortSelect();
     
     if (filteredDeals.length === 0) {
         showNoResults();
@@ -293,6 +296,26 @@ function setupEventListeners() {
         }
 
         localStorage.setItem('dealsFiltersExpanded', newExpanded.toString());
+    });
+
+    // Mobile sort dropdown
+    mobileSortSelect.addEventListener('change', (e) => {
+        const [column, direction] = e.target.value.split('-');
+        sortColumn = column;
+        sortDirection = direction;
+        applyFiltersAndRender();
+    });
+
+    // Handle window resize to switch between mobile and desktop layouts
+    let resizeTimer;
+    window.addEventListener('resize', () => {
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(() => {
+            // Re-render plans with the appropriate layout
+            renderPlans(currentPlans);
+            // Update mobile sort dropdown to match current sort
+            updateMobileSortSelect();
+        }, 150);
     });
 }
 
@@ -482,6 +505,14 @@ function updateSortIcons() {
     }
 }
 
+// Update mobile sort dropdown to match current sort
+function updateMobileSortSelect() {
+    const currentValue = `${sortColumn}-${sortDirection}`;
+    if (mobileSortSelect && mobileSortSelect.value !== currentValue) {
+        mobileSortSelect.value = currentValue;
+    }
+}
+
 // Apply filters
 function applyFilters() {
     updateSelectedProviders();
@@ -554,9 +585,20 @@ function updatePaginationControls() {
     lastBtn.disabled = currentPage >= totalPages;
 }
 
-// Render plans in the table
+// Render plans in the table or cards
 function renderPlans(plans) {
-    plansContainer.innerHTML = plans.map(plan => createPlanRow(plan)).join('');
+    // Check if we're on mobile (width <= 768px)
+    const isMobile = window.innerWidth <= 768;
+    
+    if (isMobile) {
+        // Create card layout for mobile
+        cardsContainer.innerHTML = plans.map(plan => createPlanCard(plan)).join('');
+        plansContainer.innerHTML = '';
+    } else {
+        // Create table rows for desktop
+        plansContainer.innerHTML = plans.map(plan => createPlanRow(plan)).join('');
+        cardsContainer.innerHTML = '';
+    }
 }
 
 // Create a plan table row HTML
@@ -622,6 +664,61 @@ function formatPromotion(plan) {
         default:
             return plan.promo_details || plan.promo_type;
     }
+}
+
+// Create a plan card HTML for mobile
+function createPlanCard(plan) {
+    const totalSavings = plan.total_savings || calculateTotalSavings(plan);
+    const promoPrice = plan.promo_price || calculatePromoPrice(plan);
+    const hasPromo = plan.promo_value && plan.promo_type;
+
+    // Create provider cell with link if website is available
+    const providerLink = plan.provider_website
+        ? `<a href="${plan.provider_website}" target="_blank" rel="noopener noreferrer" class="plan-card-provider">${plan.provider_name || 'Unknown'}</a>`
+        : `<div class="plan-card-provider">${plan.provider_name || 'Unknown'}</div>`;
+
+    // Create fixed wireless badge if applicable
+    const fixedWirelessBadge = plan.fixed_wireless
+        ? `<span class="fixed-wireless-badge" title="Fixed Wireless NBN">Fixed Wireless</span>`
+        : '';
+
+    const promoContent = hasPromo 
+        ? `<div class="plan-card-promo">${formatPromotion(plan)}</div>`
+        : '';
+
+    const promoPriceDisplay = hasPromo 
+        ? `<div class="plan-card-promo-price">Promo: $${promoPrice.toFixed(2)}/mo</div>`
+        : '';
+
+    return `
+        <div class="plan-card">
+            <div class="plan-card-header">
+                ${providerLink}
+                <div class="plan-card-price">
+                    $${plan.monthly_price.toFixed(2)}/mo
+                    ${promoPriceDisplay}
+                </div>
+            </div>
+            <div class="plan-card-name">
+                ${plan.plan_name}${fixedWirelessBadge}
+            </div>
+            <div class="plan-card-details">
+                <div class="plan-card-detail">
+                    <div class="plan-card-detail-label">Speed</div>
+                    <div class="plan-card-detail-value">${formatSpeed(plan)}</div>
+                </div>
+                <div class="plan-card-detail">
+                    <div class="plan-card-detail-label">Total Savings</div>
+                    <div class="plan-card-detail-value">$${totalSavings.toFixed(0)}</div>
+                </div>
+                <div class="plan-card-detail">
+                    <div class="plan-card-detail-label">Contract</div>
+                    <div class="plan-card-detail-value">${plan.contract_length ? `${plan.contract_length} months` : 'No lock-in'}</div>
+                </div>
+            </div>
+            ${promoContent}
+        </div>
+    `;
 }
 
 // UI State Management

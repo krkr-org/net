@@ -98,7 +98,7 @@ async function loadDealsFromJSON() {
             if (!deal.total_savings && deal.promo_value) {
                 deal.total_savings = calculateTotalSavings(deal);
             }
-            if (!deal.promo_price) {
+            if (!deal.promo_price && deal.promo_type) {
                 deal.promo_price = calculatePromoPrice(deal);
             }
         });
@@ -203,7 +203,8 @@ function calculateTotalSavings(plan) {
 
     switch (plan.promo_type?.toLowerCase()) {
         case 'discount':
-            return plan.promo_value * (plan.promo_duration || 1);
+            const duration = plan.promo_duration && plan.promo_duration > 0 ? plan.promo_duration : 1;
+            return plan.promo_value * duration;
         case 'free_months':
             return plan.monthly_price * plan.promo_value;
         case 'setup_waived':
@@ -610,7 +611,8 @@ function formatPromotion(plan) {
 
     switch (plan.promo_type.toLowerCase()) {
         case 'discount':
-            return `$${plan.promo_value.toFixed(2)} off ${plan.promo_duration ? `for ${plan.promo_duration}mo` : ''}`;
+            const duration = plan.promo_duration && plan.promo_duration > 0 ? `for ${plan.promo_duration}mo` : '';
+            return `$${plan.promo_value.toFixed(2)} off ${duration}`.trim();
         case 'free_months':
             return `${plan.promo_value} months free`;
         case 'setup_waived':

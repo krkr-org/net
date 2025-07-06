@@ -711,6 +711,8 @@ function createPlanCard(plan) {
                     <div class="plan-card-detail-label">Total Savings</div>
                     <div class="plan-card-detail-value">$${totalSavings.toFixed(0)}</div>
                 </div>
+            </div>
+            <div class="plan-card-details">
                 <div class="plan-card-detail">
                     <div class="plan-card-detail-label">Contract</div>
                     <div class="plan-card-detail-value">${plan.contract_length ? `${plan.contract_length} months` : 'No lock-in'}</div>

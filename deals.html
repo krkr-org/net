@@ -4,6 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
     <title>NBN Deals & Promotions | Interactive Internet Plan Advisor</title>
     <meta name="description"
         content="Find the best NBN deals and promotions in Australia with our Interactive Internet Plan Advisor. Current offers include free months, discounts, and waived setup fees.">
@@ -228,6 +231,21 @@
                     </tbody>
                 </table>
 
+                <!-- Pagination -->
+                <div class="pagination" id="pagination">
+                    <button id="first-btn" class="btn btn-secondary">First</button>
+                    <button id="prev-btn" class="btn btn-secondary" disabled>Previous</button>
+                    <span id="page-info">Page 1 of 1</span>
+                    <button id="next-btn" class="btn btn-secondary" disabled>Next</button>
+                    <button id="last-btn" class="btn btn-secondary">Last</button>
+                    <select id="page-size">
+                        <option value="10">10 per page</option>
+                        <option value="20" selected>20 per page</option>
+                        <option value="50">50 per page</option>
+                    </select>
+                </div>
+            </section>
+
             <!-- Mobile Sort Controls -->
             <section class="mobile-sort-controls" id="mobile-sort-controls">
                 <div class="mobile-sort-group">
@@ -252,21 +270,6 @@
             <!-- Mobile Cards Container -->
             <section class="plans-cards-container" id="plans-cards-container">
                 <!-- Mobile cards will be dynamically inserted here -->
-            </section>
-
-                <!-- Pagination -->
-                <div class="pagination" id="pagination">
-                    <button id="first-btn" class="btn btn-secondary">First</button>
-                    <button id="prev-btn" class="btn btn-secondary" disabled>Previous</button>
-                    <span id="page-info">Page 1 of 1</span>
-                    <button id="next-btn" class="btn btn-secondary" disabled>Next</button>
-                    <button id="last-btn" class="btn btn-secondary">Last</button>
-                    <select id="page-size">
-                        <option value="10">10 per page</option>
-                        <option value="20" selected>20 per page</option>
-                        <option value="50">50 per page</option>
-                    </select>
-                </div>
             </section>
 
             <!-- No Results Message -->
@@ -297,7 +300,7 @@
     </main>
 
 
-    <script src="js/deals.js?v=20250706"></script>
+    <script src="js/deals.js?v=20250706c"></script>
 </body>
 
 </html>

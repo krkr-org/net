@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2025-07-18T12:43:06.138474",
+    "generated_at": "2025-07-19T12:34:02.198189",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
-    "count": 67
+    "count": 77
   },
   "data": [
     {
@@ -25,6 +25,16 @@
       "required_browser": false,
       "id": 3,
       "created_at": "2025-06-20T02:46:43"
+    },
+    {
+      "name": "8NETWORKS",
+      "website": "https://8networks.com.au/",
+      "pricing_url": "https://8networks.com.au/plans/#nbn-plans",
+      "logo_url": null,
+      "active": true,
+      "required_browser": false,
+      "id": 156,
+      "created_at": "2025-07-18T10:43:05"
     },
     {
       "name": "ACE INTERNET",
@@ -185,6 +195,16 @@
       "required_browser": false,
       "id": 51,
       "created_at": "2025-06-20T02:46:43"
+    },
+    {
+      "name": "ELEVATE",
+      "website": "https://www.elevateinternet.com.au/",
+      "pricing_url": "https://www.elevateinternet.com.au/nbn",
+      "logo_url": null,
+      "active": true,
+      "required_browser": false,
+      "id": 157,
+      "created_at": "2025-07-18T10:55:41"
     },
     {
       "name": "ESCAPENET",
@@ -417,6 +437,16 @@
       "created_at": "2025-06-20T02:46:43"
     },
     {
+      "name": "MATE",
+      "website": "https://www.letsbemates.com.au",
+      "pricing_url": "https://www.letsbemates.com.au/nbn/",
+      "logo_url": null,
+      "active": true,
+      "required_browser": false,
+      "id": 90,
+      "created_at": "2025-06-20T02:46:43"
+    },
+    {
       "name": "MATILDA",
       "website": "https://www.matilda.net.au/nbn",
       "pricing_url": "https://matilda.net.au/matilda-internet-nbn/",
@@ -425,6 +455,16 @@
       "required_browser": false,
       "id": 91,
       "created_at": "2025-06-20T02:46:43"
+    },
+    {
+      "name": "MAXO TELECOMMUNICATIONS",
+      "website": "https://www.maxo.com.au/",
+      "pricing_url": "https://www.maxo.com.au/nbn-plans",
+      "logo_url": null,
+      "active": true,
+      "required_browser": false,
+      "id": 158,
+      "created_at": "2025-07-18T11:02:28"
     },
     {
       "name": "MELBOURNE PHONE",
@@ -507,6 +547,16 @@
       "created_at": "2025-06-20T02:46:43"
     },
     {
+      "name": "OZOT",
+      "website": "https://ozot.com.au/",
+      "pricing_url": "https://ozot.com.au/plans.php",
+      "logo_url": null,
+      "active": true,
+      "required_browser": false,
+      "id": 159,
+      "created_at": "2025-07-18T11:06:31"
+    },
+    {
       "name": "PEAR",
       "website": "https://peartelco.com.au/service/nbn",
       "pricing_url": "https://peartelco.com.au/service/nbn",
@@ -555,6 +605,16 @@
       "required_browser": false,
       "id": 120,
       "created_at": "2025-06-20T02:46:43"
+    },
+    {
+      "name": "SOLITARY TECHNOLOGY",
+      "website": "https://solitarytech.com.au/",
+      "pricing_url": "https://solitarytech.com.au/coffs-harbour-nbn-plans/",
+      "logo_url": null,
+      "active": true,
+      "required_browser": false,
+      "id": 160,
+      "created_at": "2025-07-18T11:38:14"
     },
     {
       "name": "SOUTHERN PHONE",
@@ -607,6 +667,26 @@
       "created_at": "2025-06-20T02:46:43"
     },
     {
+      "name": "SWOOP",
+      "website": "https://swoop.com.au/",
+      "pricing_url": "https://swoop.com.au/nbn",
+      "logo_url": null,
+      "active": true,
+      "required_browser": false,
+      "id": 128,
+      "created_at": "2025-06-20T02:46:43"
+    },
+    {
+      "name": "TANGERINE TELECOM",
+      "website": "https://www.tangerine.com.au/",
+      "pricing_url": "https://www.tangerine.com.au/nbn/nbn-broadband",
+      "logo_url": null,
+      "active": true,
+      "required_browser": false,
+      "id": 130,
+      "created_at": "2025-06-20T02:46:43"
+    },
+    {
       "name": "TASMANET",
       "website": "https://www.tasmanet.com.au/connect/internet/friends-family",
       "pricing_url": "https://www.tasmanet.com.au/products/internet/home",
@@ -614,6 +694,26 @@
       "active": true,
       "required_browser": false,
       "id": 131,
+      "created_at": "2025-06-20T02:46:43"
+    },
+    {
+      "name": "TELSIM",
+      "website": "https://www.telsim.com.au/",
+      "pricing_url": "https://nbn.telsim.com.au/",
+      "logo_url": null,
+      "active": true,
+      "required_browser": false,
+      "id": 155,
+      "created_at": "2025-07-18T10:36:52"
+    },
+    {
+      "name": "TELSTRA",
+      "website": "https://www.telstra.com.au/internet/nbn",
+      "pricing_url": "https://www.telstra.com.au/internet/nbn",
+      "logo_url": null,
+      "active": true,
+      "required_browser": false,
+      "id": 133,
       "created_at": "2025-06-20T02:46:43"
     },
     {

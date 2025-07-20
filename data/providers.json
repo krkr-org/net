@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2025-07-19T12:34:02.198189",
+    "generated_at": "2025-07-20T12:50:07.640359",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
-    "count": 77
+    "count": 75
   },
   "data": [
     {
@@ -667,16 +667,6 @@
       "created_at": "2025-06-20T02:46:43"
     },
     {
-      "name": "SWOOP",
-      "website": "https://swoop.com.au/",
-      "pricing_url": "https://swoop.com.au/nbn",
-      "logo_url": null,
-      "active": true,
-      "required_browser": false,
-      "id": 128,
-      "created_at": "2025-06-20T02:46:43"
-    },
-    {
       "name": "TANGERINE TELECOM",
       "website": "https://www.tangerine.com.au/",
       "pricing_url": "https://www.tangerine.com.au/nbn/nbn-broadband",
@@ -705,16 +695,6 @@
       "required_browser": false,
       "id": 155,
       "created_at": "2025-07-18T10:36:52"
-    },
-    {
-      "name": "TELSTRA",
-      "website": "https://www.telstra.com.au/internet/nbn",
-      "pricing_url": "https://www.telstra.com.au/internet/nbn",
-      "logo_url": null,
-      "active": true,
-      "required_browser": false,
-      "id": 133,
-      "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "THE GEORGE BAINI GROUP",

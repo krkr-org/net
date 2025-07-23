@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-07-22T12:42:26.539061",
+    "generated_at": "2025-07-23T12:43:36.566048",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 75
@@ -9,750 +9,600 @@
     {
       "name": "10MATES",
       "website": "https://10mates.com.au/nbn/",
-      "pricing_url": "https://10mates.com.au/packages/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 1,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "2IT TECHNOLOGY",
       "website": "https://www.2ittech.com.au/NBN",
-      "pricing_url": "https://www.2ittech.com.au/nbn-services/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 3,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "8NETWORKS",
       "website": "https://8networks.com.au/",
-      "pricing_url": "https://8networks.com.au/plans/#nbn-plans",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 156,
       "created_at": "2025-07-18T10:43:05"
     },
     {
       "name": "ACE INTERNET",
       "website": "https://ace.com.au/internet/nbn/",
-      "pricing_url": "https://ace.com.au/internet/nbn/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 5,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "ADVANTAGE COMMUNICATION & DATA",
       "website": "https://www.advantagecom.com.au/nbn",
-      "pricing_url": "https://www.advantagecom.com.au/nbn",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 9,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "AGL TELECOMMUNICATIONS",
       "website": "https://www.agl.com.au/get-connected/internet-plans",
-      "pricing_url": "https://www.agl.com.au/get-connected/internet-plans?cide=aff|202000516",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 10,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "ANT",
       "website": "http://www.ant.com.au/nbn/",
-      "pricing_url": "https://ant.com.au/nbn/nbn-fibre/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 14,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "AQUA MOBILE",
       "website": "https://www.aquamobile.net.au/nbn",
-      "pricing_url": "https://www.aquamobile.net.au/nbn-plan",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 15,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "AUS INTERNET",
       "website": "https://ausinternet.com.au/nbn-fibre/",
-      "pricing_url": "https://ausinternet.com.au/nbn-fibre/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 18,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "AUSSIE BROADBAND",
       "website": "https://www.aussiebroadband.com.au/nbn-plans/",
-      "pricing_url": "https://www.aussiebroadband.com.au/internet/nbn-plans/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 20,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "BELONG",
       "website": "https://www.belong.com.au/nbn",
-      "pricing_url": "https://www.belong.com.au/nbn",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 27,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "BUDDY TELCO",
       "website": "https://Buddytelco.com.au",
-      "pricing_url": "https://www.buddytelco.com.au/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 32,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "CARBON COMMS",
       "website": "https://carboncomms.com.au/nbn-plans",
-      "pricing_url": "https://carboncomms.com.au/pages/carbon-comms-nbn-plans",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 37,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "CLICK ACCESS",
       "website": "https://www.clickaccess.com.au/nbn-plans/",
-      "pricing_url": "https://www.clickaccess.com.au/nbn-plans/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 41,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "CMOBILE",
       "website": "https://www.cmobile.com.au/nbn-fibre/",
-      "pricing_url": "https://www.cmobile.com.au/nbn-plans/?tab=blue-plans",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 42,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "CONNECTED AUSTRALIA",
       "website": "https://www.connectedoz.com.au/nbn/",
-      "pricing_url": "https://signups.connectedoz.com.au/api/v1/speed-plans?wholesaler=NBN",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 43,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "DATALIFE PTY LTD",
       "website": "https://datalife.net.au/about-nbn/",
-      "pricing_url": "https://datalife.net.au/nbn-bundles/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 46,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "DODO",
       "website": "https://www.dodo.com/nbn",
-      "pricing_url": "https://www.dodo.com/nbn",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 48,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "EHW TECHNOLOGY",
       "website": "https://www.ehw.net.au/products/internet-services/",
-      "pricing_url": "https://ehw.net.au/nbn-residential/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 51,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "ELEVATE",
       "website": "https://www.elevateinternet.com.au/",
-      "pricing_url": "https://www.elevateinternet.com.au/nbn",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 157,
       "created_at": "2025-07-18T10:55:41"
     },
     {
       "name": "ESCAPENET",
       "website": "https://www.esc.net.au/nbn",
-      "pricing_url": "https://www.esc.net.au/nbn",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 52,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "EXETEL",
       "website": "http://www.exetel.com.au/broadband/nbn",
-      "pricing_url": "https://www.exetel.com.au/api/getDefaultPlansNbn",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 53,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "FANTEL",
       "website": "http://fantel.com.au/nbn-plans/",
-      "pricing_url": "http://fantel.com.au/nbn-plans/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 55,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "FLIP",
       "website": "https://www.flipconnect.com.au",
-      "pricing_url": "https://www.flipconnect.com.au/api/nbn",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 57,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "FRANKSTON INTERNET",
       "website": "http://franktel.com.au/pricing",
-      "pricing_url": "http://franktel.com.au/pricing",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 59,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "FUTURE BROADBAND",
       "website": "https://futurebroadband.com.au/nbn/",
-      "pricing_url": "https://futurebroadband.com.au/nbn/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 60,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "GOINTERNET",
       "website": "http://www.gointernet.net.au/internet/nbn-plans/",
-      "pricing_url": "http://www.gointernet.net.au/internet/nbn-plans/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 64,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "GOODTEL",
       "website": "https://www.goodtel.com.au/good-nbn",
-      "pricing_url": "https://www.goodtel.com.au/good-nbn",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 65,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "HARBOUR ISP",
       "website": "https://harbourisp.com.au/internet/nbn",
-      "pricing_url": "https://harbourisp.com.au/#plans",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 67,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "I.NET.AU",
       "website": "http://www.i.net.au/nbn/",
-      "pricing_url": "http://www.i.net.au/nbn/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 69,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "IIG",
       "website": "https://www.iig.com.au/NBN",
-      "pricing_url": "https://iig.au/get-connected",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 71,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "INSPIRED BROADBAND",
       "website": "http://www.inspiredbroadband.com.au/residential/nbn-plan",
-      "pricing_url": "http://www.inspiredbroadband.com.au/nbn-services",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 74,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "INTERNATIONAL EXCHANGE PTY LTD",
       "website": "https://intxchange.com.au/about-nbn/",
-      "pricing_url": "https://intxchange.com.au/nbn-plans/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 75,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "IPRIMUS - 1300 FIBRE 1",
       "website": "https://www.iprimus.com.au/",
-      "pricing_url": "https://www.iprimus.com.au/nbn-plans",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 77,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "IT'S FUBAR",
       "website": "https://www.itsfubar.com.au/",
-      "pricing_url": "https://www.itsfubar.com.au/data-services/nbn-tc4/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 154,
       "created_at": "2025-07-05T09:27:24"
     },
     {
       "name": "KINETIX",
       "website": "http://kinetix.net.au",
-      "pricing_url": "https://kinetix.net.au/nbn.php?clientType=Residential",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 81,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "KLOUDPHONE",
       "website": "https://kloudphone.com.au/internet-pricing-nbn/",
-      "pricing_url": "https://kloudphone.com.au/#internet-plans",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 82,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "KOGAN",
       "website": "https://www.koganinternet.com.au/leads/location/",
-      "pricing_url": "https://www.koganinternet.com.au/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 83,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "LAUNTEL",
       "website": "https://launtel.net.au/",
-      "pricing_url": "https://residential.launtel.net.au/signup/residential/?locid=LOC000033288252",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 84,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "LEAPTEL",
       "website": "https://leaptel.com.au/nbn-plans/",
-      "pricing_url": "https://leaptel.com.au/plans/?provider=nbn",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 85,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "LIGHTNING IP",
       "website": "https://www.lightningip.com.au/services/nbn-plans",
-      "pricing_url": "https://www.lightningip.com.au/services/nbn-plans",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 86,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "LIZZY INTERNET",
       "website": "https://www.lizzy.com.au/nbnfibre",
-      "pricing_url": "https://www.lizzy.com.au/services/nbn.html",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 88,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "MAD OVER TECH",
       "website": "https://madovertech.com.au/nbn/",
-      "pricing_url": "https://madovertech.com.au/nbn/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 89,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "MATE",
       "website": "https://www.letsbemates.com.au",
-      "pricing_url": "https://www.letsbemates.com.au/nbn/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 90,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "MATILDA",
       "website": "https://www.matilda.net.au/nbn",
-      "pricing_url": "https://matilda.net.au/matilda-internet-nbn/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 91,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "MAXO TELECOMMUNICATIONS",
       "website": "https://www.maxo.com.au/",
-      "pricing_url": "https://www.maxo.com.au/nbn-plans",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 158,
       "created_at": "2025-07-18T11:02:28"
     },
     {
       "name": "MELBOURNE PHONE",
       "website": "https://mphone.com.au/about-nbn/",
-      "pricing_url": "https://mphone.com.au/nbn-plans-2/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 92,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "MOOSE MOBILE",
       "website": "https://moosemobile.com.au/nbn",
-      "pricing_url": "https://moosemobile.com.au/nbn",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 96,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "MORE",
       "website": "https://www.more.com.au",
-      "pricing_url": "https://www.more.com.au/personal/nbn-plans",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 97,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "MYOWN TEL",
       "website": "https://www.myowntel.net.au/nbn",
-      "pricing_url": "https://www.myowntel.net.au/nbn/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 101,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "NEPTUNE",
       "website": "https://www.neptune.net.au/",
-      "pricing_url": "https://www.neptune.net.au/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 153,
       "created_at": "2025-06-23T03:37:08"
     },
     {
       "name": "NEW SPROUT",
       "website": "https://www.newsprout.com.au/internet/nbn/",
-      "pricing_url": "https://www.newsprout.com.au/internet/nbn/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 103,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "OPTUS",
       "website": "https://www.optus.com.au/broadband-nbn/home-broadband/plans/shop",
-      "pricing_url": "https://www.optus.com.au/broadband-nbn/home-broadband/plans/shop",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 110,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "ORIGIN BROADBAND",
       "website": "https://www.originenergy.com.au/internet/plans/nbn/",
-      "pricing_url": "https://www.originenergy.com.au/internet/plans/nbn/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 111,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "OZOT",
       "website": "https://ozot.com.au/",
-      "pricing_url": "https://ozot.com.au/plans.php",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 159,
       "created_at": "2025-07-18T11:06:31"
     },
     {
       "name": "PEAR",
       "website": "https://peartelco.com.au/service/nbn",
-      "pricing_url": "https://peartelco.com.au/service/nbn",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 112,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "PENTANET",
       "website": "https://pentanet.com.au/for-home/nbn",
-      "pricing_url": "https://pentanet.com.au/for-home/nbn",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 113,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "QURED",
       "website": "http://www.qured.com.au/index.php",
-      "pricing_url": "https://www.qured.com.au/index.php?option=com_sppagebuilder&view=page&id=7&Itemid=180",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 117,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "REAL WORLD TECHNOLOGY SOLUTIONS",
       "website": "https://rwts.com.au/nbn/",
-      "pricing_url": "https://rwts.com.au/nbn/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 118,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "SKYMESH",
       "website": "https://get.skymesh.net.au/sky-muster-nbn-referral/",
-      "pricing_url": "https://www.skymesh.net.au/nbn-services/nbn-fibre",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 120,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "SOLITARY TECHNOLOGY",
       "website": "https://solitarytech.com.au/",
-      "pricing_url": "https://solitarytech.com.au/coffs-harbour-nbn-plans/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 160,
       "created_at": "2025-07-18T11:38:14"
     },
     {
       "name": "SOUTHERN PHONE",
       "website": "https://www.southernphone.com.au/personal/broadband/nbn-broadband",
-      "pricing_url": "https://www.southernphone.com.au/backend/api/v1/get-all-products",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 121,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "SPINTEL",
       "website": "https://www.spintel.net.au/home-internet/nbn",
-      "pricing_url": "https://www.spintel.net.au/home-internet/nbn",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 122,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "STEELE TECHNOLOGY",
       "website": "https://www.stech.com.au/internet/",
-      "pricing_url": "https://www.stech.com.au/nbn/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 124,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "SUMO",
       "website": "https://www.sumo.com.au/sign-up/",
-      "pricing_url": "https://www.sumo.com.au/internet/nbn-plans",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 125,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "SUPERLOOP",
       "website": "https://superloop.com/consumer/home-broadband/nbn.html",
-      "pricing_url": "https://www.superloop.com/internet/nbn",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 126,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "TANGERINE TELECOM",
       "website": "https://www.tangerine.com.au/",
-      "pricing_url": "https://www.tangerine.com.au/nbn/nbn-broadband",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 130,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "TASMANET",
       "website": "https://www.tasmanet.com.au/connect/internet/friends-family",
-      "pricing_url": "https://www.tasmanet.com.au/products/internet/home",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 131,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "TELSIM",
       "website": "https://www.telsim.com.au/",
-      "pricing_url": "https://nbn.telsim.com.au/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 155,
       "created_at": "2025-07-18T10:36:52"
     },
     {
       "name": "THE GEORGE BAINI GROUP",
       "website": "https://www.gb.com.au/personal/internet/nbn",
-      "pricing_url": "https://www.gb.com.au/personal/internet/nbn",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 134,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "THE INTERNET PROVIDER",
       "website": "http://theinternetprovider.com.au/internet-services/nbn/",
-      "pricing_url": "https://www.theinternetprovider.com.au/internet-services/nbn/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 135,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "TPG",
       "website": "https://www.tpg.com.au/nbn",
-      "pricing_url": "https://www.tpg.com.au/nbn",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 138,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "VEETEL",
       "website": "http://www.veetel.com.au/nbn-plans.html",
-      "pricing_url": "https://veetel.com.au/nbn",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 144,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "VOIPEX",
       "website": "https://www.voipex.com.au/residential/nbn/",
-      "pricing_url": "https://voipex.com.au/residential/nbn/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 147,
       "created_at": "2025-06-20T02:46:43"
     },
     {
       "name": "ZETTANET",
       "website": "http://www.zetta.net.au/services/internet/nbn-broadband/",
-      "pricing_url": "https://www.zettagrid.com/all-products/nbn-broadband/",
       "logo_url": null,
       "active": true,
-      "required_browser": false,
       "id": 152,
       "created_at": "2025-06-20T02:46:43"
     }

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2025-07-22T12:42:26.553217",
+    "generated_at": "2025-07-23T12:43:36.575120",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
-    "count": 128
+    "count": 129
   },
   "data": [
     {
@@ -292,7 +292,7 @@
       "last_updated": null
     },
     {
-      "id": 6475,
+      "id": 6721,
       "provider_id": 83,
       "provider_name": "KOGAN",
       "provider_website": "https://www.koganinternet.com.au/leads/location/",
@@ -301,8 +301,8 @@
       "setup_fee": 0.0,
       "contract_length": 0,
       "download_speed": 25,
-      "upload_speed": 8,
-      "speed_tier": "25/8",
+      "upload_speed": 5,
+      "speed_tier": "25/5",
       "fixed_wireless": false,
       "promo_type": "discount",
       "promo_value": 22.000000000000007,
@@ -444,6 +444,25 @@
       "last_updated": null
     },
     {
+      "id": 6782,
+      "provider_id": 153,
+      "provider_name": "NEPTUNE",
+      "provider_website": "https://www.neptune.net.au/",
+      "plan_name": "Home Fast 25/10",
+      "monthly_price": 75.0,
+      "setup_fee": 0.0,
+      "contract_length": 0,
+      "download_speed": 25,
+      "upload_speed": 10,
+      "speed_tier": "25/10",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 20.0,
+      "promo_duration": 12,
+      "promo_details": null,
+      "last_updated": null
+    },
+    {
       "id": 6688,
       "provider_id": 138,
       "provider_name": "TPG",
@@ -520,7 +539,7 @@
       "last_updated": null
     },
     {
-      "id": 6476,
+      "id": 6722,
       "provider_id": 83,
       "provider_name": "KOGAN",
       "provider_website": "https://www.koganinternet.com.au/leads/location/",
@@ -529,8 +548,8 @@
       "setup_fee": 0.0,
       "contract_length": 0,
       "download_speed": 50,
-      "upload_speed": 17,
-      "speed_tier": "50/17",
+      "upload_speed": 20,
+      "speed_tier": "50/20",
       "fixed_wireless": false,
       "promo_type": "discount",
       "promo_value": 19.000000000000007,
@@ -748,7 +767,7 @@
       "last_updated": null
     },
     {
-      "id": 6477,
+      "id": 6723,
       "provider_id": 83,
       "provider_name": "KOGAN",
       "provider_website": "https://www.koganinternet.com.au/leads/location/",
@@ -757,8 +776,8 @@
       "setup_fee": 0.0,
       "contract_length": 0,
       "download_speed": 100,
-      "upload_speed": 17,
-      "speed_tier": "100/17",
+      "upload_speed": 20,
+      "speed_tier": "100/20",
       "fixed_wireless": false,
       "promo_type": "discount",
       "promo_value": 18.0,
@@ -1337,7 +1356,7 @@
       "last_updated": null
     },
     {
-      "id": 6478,
+      "id": 6724,
       "provider_id": 83,
       "provider_name": "KOGAN",
       "provider_website": "https://www.koganinternet.com.au/leads/location/",
@@ -1346,8 +1365,8 @@
       "setup_fee": 0.0,
       "contract_length": 0,
       "download_speed": 250,
-      "upload_speed": 21,
-      "speed_tier": "250/21",
+      "upload_speed": 25,
+      "speed_tier": "250/25",
       "fixed_wireless": false,
       "promo_type": "discount",
       "promo_value": 10.0,
@@ -1546,11 +1565,11 @@
       "last_updated": null
     },
     {
-      "id": 6543,
+      "id": 6791,
       "provider_id": 153,
       "provider_name": "NEPTUNE",
       "provider_website": "https://www.neptune.net.au/",
-      "plan_name": "NBN 500/50",
+      "plan_name": "Home Ultrafast 1000/50",
       "monthly_price": 98.0,
       "setup_fee": 0.0,
       "contract_length": 0,
@@ -1559,7 +1578,7 @@
       "speed_tier": "500/50",
       "fixed_wireless": false,
       "promo_type": "discount",
-      "promo_value": 13.0,
+      "promo_value": 12.0,
       "promo_duration": 3,
       "promo_details": null,
       "last_updated": null
@@ -1964,7 +1983,7 @@
       "last_updated": null
     },
     {
-      "id": 6479,
+      "id": 6725,
       "provider_id": 83,
       "provider_name": "KOGAN",
       "provider_website": "https://www.koganinternet.com.au/leads/location/",
@@ -1972,9 +1991,9 @@
       "monthly_price": 108.9,
       "setup_fee": 0.0,
       "contract_length": 0,
-      "download_speed": 800,
-      "upload_speed": 43,
-      "speed_tier": "800/43",
+      "download_speed": 1000,
+      "upload_speed": 50,
+      "speed_tier": "1000/50",
       "fixed_wireless": false,
       "promo_type": "discount",
       "promo_value": 10.0,
@@ -2059,25 +2078,6 @@
       "last_updated": null
     },
     {
-      "id": 6544,
-      "provider_id": 153,
-      "provider_name": "NEPTUNE",
-      "provider_website": "https://www.neptune.net.au/",
-      "plan_name": "NBN 750/50",
-      "monthly_price": 109.0,
-      "setup_fee": 0.0,
-      "contract_length": 0,
-      "download_speed": 750,
-      "upload_speed": 50,
-      "speed_tier": "750/50",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 14.0,
-      "promo_duration": 3,
-      "promo_details": null,
-      "last_updated": null
-    },
-    {
       "id": 6660,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
@@ -2093,6 +2093,25 @@
       "promo_type": "discount",
       "promo_value": 24.0,
       "promo_duration": 6,
+      "promo_details": null,
+      "last_updated": null
+    },
+    {
+      "id": 6793,
+      "provider_id": 153,
+      "provider_name": "NEPTUNE",
+      "provider_website": "https://www.neptune.net.au/",
+      "plan_name": "Home Ultrafast 1000/50",
+      "monthly_price": 109.0,
+      "setup_fee": 0.0,
+      "contract_length": 0,
+      "download_speed": 750,
+      "upload_speed": 50,
+      "speed_tier": "750/50",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 13.0,
+      "promo_duration": 3,
       "promo_details": null,
       "last_updated": null
     },

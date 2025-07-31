@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2025-07-30T12:47:13.484046",
+    "generated_at": "2025-07-31T12:45:50.689000",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
-    "count": 134
+    "count": 132
   },
   "data": [
     {
-      "id": 8868,
+      "id": 9299,
       "provider_id": 144,
       "provider_name": "VEETEL",
       "provider_website": "http://www.veetel.com.au/nbn-plans.html",
@@ -26,11 +26,11 @@
       "last_updated": null
     },
     {
-      "id": 8804,
+      "id": 9238,
       "provider_id": 121,
       "provider_name": "SOUTHERN PHONE",
       "provider_website": "https://www.southernphone.com.au/personal/broadband/nbn-broadband",
-      "plan_name": "Basic",
+      "plan_name": "nbn® Basic Broadband Plan",
       "monthly_price": 59.0,
       "setup_fee": 0.0,
       "contract_length": 0,
@@ -45,11 +45,11 @@
       "last_updated": null
     },
     {
-      "id": 8812,
+      "id": 9245,
       "provider_id": 121,
       "provider_name": "SOUTHERN PHONE",
       "provider_website": "https://www.southernphone.com.au/personal/broadband/nbn-broadband",
-      "plan_name": "Fixed Wireless",
+      "plan_name": "nbn® Fixed Wireless Broadband Plan",
       "monthly_price": 59.0,
       "setup_fee": 0.0,
       "contract_length": 0,
@@ -64,7 +64,26 @@
       "last_updated": null
     },
     {
-      "id": 8688,
+      "id": 9251,
+      "provider_id": 121,
+      "provider_name": "SOUTHERN PHONE",
+      "provider_website": "https://www.southernphone.com.au/personal/broadband/nbn-broadband",
+      "plan_name": "nbn® Basic Business Plan",
+      "monthly_price": 59.0,
+      "setup_fee": 0.0,
+      "contract_length": 0,
+      "download_speed": 25,
+      "upload_speed": 5,
+      "speed_tier": "25/5",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 14.0,
+      "promo_duration": 12,
+      "promo_details": null,
+      "last_updated": null
+    },
+    {
+      "id": 9149,
       "provider_id": 96,
       "provider_name": "MOOSE MOBILE",
       "provider_website": "https://moosemobile.com.au/nbn",
@@ -83,7 +102,7 @@
       "last_updated": null
     },
     {
-      "id": 8540,
+      "id": 9039,
       "provider_id": 57,
       "provider_name": "FLIP",
       "provider_website": "https://www.flipconnect.com.au",
@@ -102,7 +121,7 @@
       "last_updated": null
     },
     {
-      "id": 8689,
+      "id": 9150,
       "provider_id": 96,
       "provider_name": "MOOSE MOBILE",
       "provider_website": "https://moosemobile.com.au/nbn",
@@ -121,7 +140,7 @@
       "last_updated": null
     },
     {
-      "id": 8869,
+      "id": 9300,
       "provider_id": 144,
       "provider_name": "VEETEL",
       "provider_website": "http://www.veetel.com.au/nbn-plans.html",
@@ -140,11 +159,11 @@
       "last_updated": null
     },
     {
-      "id": 8841,
+      "id": 9276,
       "provider_id": 155,
       "provider_name": "TELSIM",
       "provider_website": "https://www.telsim.com.au/",
-      "plan_name": "NBN® Home Standard",
+      "plan_name": "NBN Home Standard",
       "monthly_price": 62.9,
       "setup_fee": 0.0,
       "contract_length": 0,
@@ -159,7 +178,7 @@
       "last_updated": null
     },
     {
-      "id": 8814,
+      "id": 9252,
       "provider_id": 122,
       "provider_name": "SPINTEL",
       "provider_website": "https://www.spintel.net.au/home-internet/nbn",
@@ -178,7 +197,7 @@
       "last_updated": null
     },
     {
-      "id": 8815,
+      "id": 9253,
       "provider_id": 122,
       "provider_name": "SPINTEL",
       "provider_website": "https://www.spintel.net.au/home-internet/nbn",
@@ -216,25 +235,6 @@
       "last_updated": null
     },
     {
-      "id": 8513,
-      "provider_id": 48,
-      "provider_name": "DODO",
-      "provider_website": "https://www.dodo.com/nbn",
-      "plan_name": "NBN 25",
-      "monthly_price": 68.9,
-      "setup_fee": 0.0,
-      "contract_length": 0,
-      "download_speed": 25,
-      "upload_speed": 5,
-      "speed_tier": "25/5",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 15.000000000000007,
-      "promo_duration": 6,
-      "promo_details": null,
-      "last_updated": null
-    },
-    {
       "id": 8634,
       "provider_id": 83,
       "provider_name": "KOGAN",
@@ -254,7 +254,7 @@
       "last_updated": null
     },
     {
-      "id": 8835,
+      "id": 9270,
       "provider_id": 130,
       "provider_name": "TANGERINE TELECOM",
       "provider_website": "https://www.tangerine.com.au/",
@@ -273,7 +273,7 @@
       "last_updated": null
     },
     {
-      "id": 8649,
+      "id": 9125,
       "provider_id": 85,
       "provider_name": "LEAPTEL",
       "provider_website": "https://leaptel.com.au/nbn-plans/",
@@ -292,7 +292,26 @@
       "last_updated": null
     },
     {
-      "id": 8828,
+      "id": 9023,
+      "provider_id": 48,
+      "provider_name": "DODO",
+      "provider_website": "https://www.dodo.com/nbn",
+      "plan_name": "NBN 25",
+      "monthly_price": 71.99,
+      "setup_fee": 0.0,
+      "contract_length": 0,
+      "download_speed": 25,
+      "upload_speed": 5,
+      "speed_tier": "25/5",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 14.999999999999993,
+      "promo_duration": 6,
+      "promo_details": null,
+      "last_updated": null
+    },
+    {
+      "id": 9263,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/consumer/home-broadband/nbn.html",
@@ -306,44 +325,6 @@
       "fixed_wireless": false,
       "promo_type": "discount",
       "promo_value": 17.0,
-      "promo_duration": 6,
-      "promo_details": null,
-      "last_updated": null
-    },
-    {
-      "id": 8434,
-      "provider_id": 10,
-      "provider_name": "AGL TELECOMMUNICATIONS",
-      "provider_website": "https://www.agl.com.au/get-connected/internet-plans",
-      "plan_name": "Home Basic",
-      "monthly_price": 74.0,
-      "setup_fee": 0.0,
-      "contract_length": 0,
-      "download_speed": 25,
-      "upload_speed": 5,
-      "speed_tier": "25/5",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 29.0,
-      "promo_duration": 6,
-      "promo_details": null,
-      "last_updated": null
-    },
-    {
-      "id": 8439,
-      "provider_id": 10,
-      "provider_name": "AGL TELECOMMUNICATIONS",
-      "provider_website": "https://www.agl.com.au/get-connected/internet-plans",
-      "plan_name": "Fixed Wireless",
-      "monthly_price": 74.0,
-      "setup_fee": 0.0,
-      "contract_length": 0,
-      "download_speed": 25,
-      "upload_speed": 5,
-      "speed_tier": "25/5",
-      "fixed_wireless": true,
-      "promo_type": "discount",
-      "promo_value": 29.0,
       "promo_duration": 6,
       "promo_details": null,
       "last_updated": null
@@ -368,7 +349,45 @@
       "last_updated": null
     },
     {
-      "id": 8860,
+      "id": 8950,
+      "provider_id": 10,
+      "provider_name": "AGL TELECOMMUNICATIONS",
+      "provider_website": "https://www.agl.com.au/get-connected/internet-plans",
+      "plan_name": "Home Basic",
+      "monthly_price": 74.0,
+      "setup_fee": 0.0,
+      "contract_length": 0,
+      "download_speed": 25,
+      "upload_speed": 5,
+      "speed_tier": "25/5",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 29.0,
+      "promo_duration": 6,
+      "promo_details": null,
+      "last_updated": null
+    },
+    {
+      "id": 8955,
+      "provider_id": 10,
+      "provider_name": "AGL TELECOMMUNICATIONS",
+      "provider_website": "https://www.agl.com.au/get-connected/internet-plans",
+      "plan_name": "Fixed Wireless",
+      "monthly_price": 74.0,
+      "setup_fee": 0.0,
+      "contract_length": 0,
+      "download_speed": 25,
+      "upload_speed": 5,
+      "speed_tier": "25/5",
+      "fixed_wireless": true,
+      "promo_type": "discount",
+      "promo_value": 29.0,
+      "promo_duration": 6,
+      "promo_details": null,
+      "last_updated": null
+    },
+    {
+      "id": 9291,
       "provider_id": 138,
       "provider_name": "TPG",
       "provider_website": "https://www.tpg.com.au/nbn",
@@ -387,7 +406,7 @@
       "last_updated": null
     },
     {
-      "id": 8866,
+      "id": 9297,
       "provider_id": 138,
       "provider_name": "TPG",
       "provider_website": "https://www.tpg.com.au/nbn",
@@ -406,11 +425,11 @@
       "last_updated": null
     },
     {
-      "id": 8710,
+      "id": 9171,
       "provider_id": 153,
       "provider_name": "NEPTUNE",
       "provider_website": "https://www.neptune.net.au/",
-      "plan_name": "25mbps Download | 10mbps Upload",
+      "plan_name": "25/10",
       "monthly_price": 75.0,
       "setup_fee": 0.0,
       "contract_length": 0,
@@ -425,7 +444,7 @@
       "last_updated": null
     },
     {
-      "id": 8665,
+      "id": 9132,
       "provider_id": 90,
       "provider_name": "MATE",
       "provider_website": "https://www.letsbemates.com.au",
@@ -444,7 +463,7 @@
       "last_updated": null
     },
     {
-      "id": 8861,
+      "id": 9292,
       "provider_id": 138,
       "provider_name": "TPG",
       "provider_website": "https://www.tpg.com.au/nbn",
@@ -463,7 +482,7 @@
       "last_updated": null
     },
     {
-      "id": 8867,
+      "id": 9298,
       "provider_id": 138,
       "provider_name": "TPG",
       "provider_website": "https://www.tpg.com.au/nbn",
@@ -482,7 +501,7 @@
       "last_updated": null
     },
     {
-      "id": 8541,
+      "id": 9040,
       "provider_id": 57,
       "provider_name": "FLIP",
       "provider_website": "https://www.flipconnect.com.au",
@@ -501,7 +520,7 @@
       "last_updated": null
     },
     {
-      "id": 8870,
+      "id": 9301,
       "provider_id": 144,
       "provider_name": "VEETEL",
       "provider_website": "http://www.veetel.com.au/nbn-plans.html",
@@ -558,7 +577,7 @@
       "last_updated": null
     },
     {
-      "id": 8450,
+      "id": 8966,
       "provider_id": 15,
       "provider_name": "AQUA MOBILE",
       "provider_website": "https://www.aquamobile.net.au/nbn",
@@ -577,45 +596,7 @@
       "last_updated": null
     },
     {
-      "id": 8732,
-      "provider_id": 110,
-      "provider_name": "OPTUS",
-      "provider_website": "https://www.optus.com.au/broadband-nbn/home-broadband/plans/shop",
-      "plan_name": "Basic plan",
-      "monthly_price": 79.0,
-      "setup_fee": 0.0,
-      "contract_length": 0,
-      "download_speed": 25,
-      "upload_speed": 5,
-      "speed_tier": "25/5",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 15.0,
-      "promo_duration": 12,
-      "promo_details": null,
-      "last_updated": null
-    },
-    {
-      "id": 8811,
-      "provider_id": 121,
-      "provider_name": "SOUTHERN PHONE",
-      "provider_website": "https://www.southernphone.com.au/personal/broadband/nbn-broadband",
-      "plan_name": "Fixed Wireless Plus",
-      "monthly_price": 79.0,
-      "setup_fee": 0.0,
-      "contract_length": 0,
-      "download_speed": 95,
-      "upload_speed": 10,
-      "speed_tier": "95/10",
-      "fixed_wireless": true,
-      "promo_type": "discount",
-      "promo_value": 14.0,
-      "promo_duration": 12,
-      "promo_details": null,
-      "last_updated": null
-    },
-    {
-      "id": 8690,
+      "id": 9151,
       "provider_id": 96,
       "provider_name": "MOOSE MOBILE",
       "provider_website": "https://moosemobile.com.au/nbn",
@@ -634,7 +615,7 @@
       "last_updated": null
     },
     {
-      "id": 8817,
+      "id": 9255,
       "provider_id": 122,
       "provider_name": "SPINTEL",
       "provider_website": "https://www.spintel.net.au/home-internet/nbn",
@@ -653,7 +634,7 @@
       "last_updated": null
     },
     {
-      "id": 8646,
+      "id": 9122,
       "provider_id": 85,
       "provider_name": "LEAPTEL",
       "provider_website": "https://leaptel.com.au/nbn-plans/",
@@ -672,7 +653,7 @@
       "last_updated": null
     },
     {
-      "id": 8650,
+      "id": 9126,
       "provider_id": 85,
       "provider_name": "LEAPTEL",
       "provider_website": "https://leaptel.com.au/nbn-plans/",
@@ -687,44 +668,6 @@
       "promo_type": "discount",
       "promo_value": 8.0,
       "promo_duration": 6,
-      "promo_details": null,
-      "last_updated": null
-    },
-    {
-      "id": 8514,
-      "provider_id": 48,
-      "provider_name": "DODO",
-      "provider_website": "https://www.dodo.com/nbn",
-      "plan_name": "NBN 50",
-      "monthly_price": 83.9,
-      "setup_fee": 0.0,
-      "contract_length": 0,
-      "download_speed": 50,
-      "upload_speed": 20,
-      "speed_tier": "50/20",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 21.000000000000007,
-      "promo_duration": 6,
-      "promo_details": null,
-      "last_updated": null
-    },
-    {
-      "id": 8542,
-      "provider_id": 57,
-      "provider_name": "FLIP",
-      "provider_website": "https://www.flipconnect.com.au",
-      "plan_name": "Turbo Boost",
-      "monthly_price": 83.9,
-      "setup_fee": 0.0,
-      "contract_length": 0,
-      "download_speed": 100,
-      "upload_speed": 17,
-      "speed_tier": "100/17",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 14.900000000000006,
-      "promo_duration": 4,
       "promo_details": null,
       "last_updated": null
     },
@@ -744,6 +687,25 @@
       "promo_type": "discount",
       "promo_value": 18.0,
       "promo_duration": 6,
+      "promo_details": null,
+      "last_updated": null
+    },
+    {
+      "id": 9041,
+      "provider_id": 57,
+      "provider_name": "FLIP",
+      "provider_website": "https://www.flipconnect.com.au",
+      "plan_name": "Turbo Boost",
+      "monthly_price": 83.9,
+      "setup_fee": 0.0,
+      "contract_length": 0,
+      "download_speed": 100,
+      "upload_speed": 17,
+      "speed_tier": "100/17",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 14.900000000000006,
+      "promo_duration": 4,
       "promo_details": null,
       "last_updated": null
     },
@@ -786,7 +748,7 @@
       "last_updated": null
     },
     {
-      "id": 8691,
+      "id": 9152,
       "provider_id": 96,
       "provider_name": "MOOSE MOBILE",
       "provider_website": "https://moosemobile.com.au/nbn",
@@ -805,7 +767,7 @@
       "last_updated": null
     },
     {
-      "id": 8836,
+      "id": 9271,
       "provider_id": 130,
       "provider_name": "TANGERINE TELECOM",
       "provider_website": "https://www.tangerine.com.au/",
@@ -824,7 +786,7 @@
       "last_updated": null
     },
     {
-      "id": 8818,
+      "id": 9256,
       "provider_id": 122,
       "provider_name": "SPINTEL",
       "provider_website": "https://www.spintel.net.au/home-internet/nbn",
@@ -843,7 +805,7 @@
       "last_updated": null
     },
     {
-      "id": 8862,
+      "id": 9293,
       "provider_id": 138,
       "provider_name": "TPG",
       "provider_website": "https://www.tpg.com.au/nbn",
@@ -862,7 +824,7 @@
       "last_updated": null
     },
     {
-      "id": 8829,
+      "id": 9264,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/consumer/home-broadband/nbn.html",
@@ -881,11 +843,11 @@
       "last_updated": null
     },
     {
-      "id": 8842,
+      "id": 9277,
       "provider_id": 155,
       "provider_name": "TELSIM",
       "provider_website": "https://www.telsim.com.au/",
-      "plan_name": "NBN® Home Standard Plus",
+      "plan_name": "NBN Home Standard Plus",
       "monthly_price": 85.9,
       "setup_fee": 0.0,
       "contract_length": 0,
@@ -900,7 +862,26 @@
       "last_updated": null
     },
     {
-      "id": 8666,
+      "id": 9024,
+      "provider_id": 48,
+      "provider_name": "DODO",
+      "provider_website": "https://www.dodo.com/nbn",
+      "plan_name": "NBN 50",
+      "monthly_price": 85.99,
+      "setup_fee": 0.0,
+      "contract_length": 0,
+      "download_speed": 50,
+      "upload_speed": 20,
+      "speed_tier": "50/20",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 21.0,
+      "promo_duration": 6,
+      "promo_details": null,
+      "last_updated": null
+    },
+    {
+      "id": 9133,
       "provider_id": 90,
       "provider_name": "MATE",
       "provider_website": "https://www.letsbemates.com.au",
@@ -919,7 +900,7 @@
       "last_updated": null
     },
     {
-      "id": 8816,
+      "id": 9254,
       "provider_id": 122,
       "provider_name": "SPINTEL",
       "provider_website": "https://www.spintel.net.au/home-internet/nbn",
@@ -938,7 +919,7 @@
       "last_updated": null
     },
     {
-      "id": 8819,
+      "id": 9257,
       "provider_id": 122,
       "provider_name": "SPINTEL",
       "provider_website": "https://www.spintel.net.au/home-internet/nbn",
@@ -957,26 +938,7 @@
       "last_updated": null
     },
     {
-      "id": 8515,
-      "provider_id": 48,
-      "provider_name": "DODO",
-      "provider_website": "https://www.dodo.com/nbn",
-      "plan_name": "NBN 100",
-      "monthly_price": 88.9,
-      "setup_fee": 0.0,
-      "contract_length": 0,
-      "download_speed": 100,
-      "upload_speed": 20,
-      "speed_tier": "100/20",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 23.0,
-      "promo_duration": 6,
-      "promo_details": null,
-      "last_updated": null
-    },
-    {
-      "id": 8837,
+      "id": 9272,
       "provider_id": 130,
       "provider_name": "TANGERINE TELECOM",
       "provider_website": "https://www.tangerine.com.au/",
@@ -995,7 +957,7 @@
       "last_updated": null
     },
     {
-      "id": 8699,
+      "id": 9160,
       "provider_id": 101,
       "provider_name": "MYOWN TEL",
       "provider_website": "https://www.myowntel.net.au/nbn",
@@ -1014,7 +976,7 @@
       "last_updated": null
     },
     {
-      "id": 8708,
+      "id": 9169,
       "provider_id": 101,
       "provider_name": "MYOWN TEL",
       "provider_website": "https://www.myowntel.net.au/nbn",
@@ -1033,7 +995,7 @@
       "last_updated": null
     },
     {
-      "id": 8737,
+      "id": 9198,
       "provider_id": 111,
       "provider_name": "ORIGIN BROADBAND",
       "provider_website": "https://www.originenergy.com.au/internet/plans/nbn/",
@@ -1052,11 +1014,11 @@
       "last_updated": null
     },
     {
-      "id": 8808,
+      "id": 9242,
       "provider_id": 121,
       "provider_name": "SOUTHERN PHONE",
       "provider_website": "https://www.southernphone.com.au/personal/broadband/nbn-broadband",
-      "plan_name": "Fast",
+      "plan_name": "nbn® Fast Broadband Plan",
       "monthly_price": 89.0,
       "setup_fee": 0.0,
       "contract_length": 0,
@@ -1071,11 +1033,11 @@
       "last_updated": null
     },
     {
-      "id": 8809,
+      "id": 9243,
       "provider_id": 121,
       "provider_name": "SOUTHERN PHONE",
       "provider_website": "https://www.southernphone.com.au/personal/broadband/nbn-broadband",
-      "plan_name": "Fixed Wireless Fast",
+      "plan_name": "nbn® Fixed Wireless Fast",
       "monthly_price": 89.0,
       "setup_fee": 0.0,
       "contract_length": 0,
@@ -1090,11 +1052,11 @@
       "last_updated": null
     },
     {
-      "id": 8813,
+      "id": 9247,
       "provider_id": 121,
       "provider_name": "SOUTHERN PHONE",
       "provider_website": "https://www.southernphone.com.au/personal/broadband/nbn-broadband",
-      "plan_name": "Online Saver Fast",
+      "plan_name": "Online Saver nbn® Fast Plan",
       "monthly_price": 89.0,
       "setup_fee": 0.0,
       "contract_length": 0,
@@ -1109,7 +1071,26 @@
       "last_updated": null
     },
     {
-      "id": 8568,
+      "id": 9250,
+      "provider_id": 121,
+      "provider_name": "SOUTHERN PHONE",
+      "provider_website": "https://www.southernphone.com.au/personal/broadband/nbn-broadband",
+      "plan_name": "nbn® Fast Business Plan",
+      "monthly_price": 89.0,
+      "setup_fee": 0.0,
+      "contract_length": 0,
+      "download_speed": 100,
+      "upload_speed": 20,
+      "speed_tier": "100/20",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 24.0,
+      "promo_duration": 12,
+      "promo_details": null,
+      "last_updated": null
+    },
+    {
+      "id": 9070,
       "provider_id": 65,
       "provider_name": "GOODTEL",
       "provider_website": "https://www.goodtel.com.au/good-nbn",
@@ -1147,7 +1128,7 @@
       "last_updated": null
     },
     {
-      "id": 8820,
+      "id": 9258,
       "provider_id": 122,
       "provider_name": "SPINTEL",
       "provider_website": "https://www.spintel.net.au/home-internet/nbn",
@@ -1166,11 +1147,11 @@
       "last_updated": null
     },
     {
-      "id": 8843,
+      "id": 9278,
       "provider_id": 155,
       "provider_name": "TELSIM",
       "provider_website": "https://www.telsim.com.au/",
-      "plan_name": "NBN® Home Fast",
+      "plan_name": "NBN Home Fast",
       "monthly_price": 92.9,
       "setup_fee": 0.0,
       "contract_length": 0,
@@ -1185,7 +1166,7 @@
       "last_updated": null
     },
     {
-      "id": 8647,
+      "id": 9123,
       "provider_id": 85,
       "provider_name": "LEAPTEL",
       "provider_website": "https://leaptel.com.au/nbn-plans/",
@@ -1204,7 +1185,7 @@
       "last_updated": null
     },
     {
-      "id": 8651,
+      "id": 9127,
       "provider_id": 85,
       "provider_name": "LEAPTEL",
       "provider_website": "https://leaptel.com.au/nbn-plans/",
@@ -1219,6 +1200,25 @@
       "promo_type": "discount",
       "promo_value": 13.0,
       "promo_duration": 12,
+      "promo_details": null,
+      "last_updated": null
+    },
+    {
+      "id": 9025,
+      "provider_id": 48,
+      "provider_name": "DODO",
+      "provider_website": "https://www.dodo.com/nbn",
+      "plan_name": "NBN 100",
+      "monthly_price": 92.99,
+      "setup_fee": 0.0,
+      "contract_length": 0,
+      "download_speed": 100,
+      "upload_speed": 20,
+      "speed_tier": "100/20",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 23.0,
+      "promo_duration": 6,
       "promo_details": null,
       "last_updated": null
     },
@@ -1242,44 +1242,6 @@
       "last_updated": null
     },
     {
-      "id": 8435,
-      "provider_id": 10,
-      "provider_name": "AGL TELECOMMUNICATIONS",
-      "provider_website": "https://www.agl.com.au/get-connected/internet-plans",
-      "plan_name": "Home Standard",
-      "monthly_price": 94.0,
-      "setup_fee": 0.0,
-      "contract_length": 0,
-      "download_speed": 50,
-      "upload_speed": 20,
-      "speed_tier": "50/20",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 15.0,
-      "promo_duration": null,
-      "promo_details": null,
-      "last_updated": null
-    },
-    {
-      "id": 8440,
-      "provider_id": 10,
-      "provider_name": "AGL TELECOMMUNICATIONS",
-      "provider_website": "https://www.agl.com.au/get-connected/internet-plans",
-      "plan_name": "Fixed Wireless Plus",
-      "monthly_price": 94.0,
-      "setup_fee": 0.0,
-      "contract_length": 0,
-      "download_speed": 75,
-      "upload_speed": 10,
-      "speed_tier": "75/10",
-      "fixed_wireless": true,
-      "promo_type": "discount",
-      "promo_value": 29.0,
-      "promo_duration": 6,
-      "promo_details": null,
-      "last_updated": null
-    },
-    {
       "id": 8601,
       "provider_id": 77,
       "provider_name": "IPRIMUS - 1300 FIBRE 1",
@@ -1299,21 +1261,21 @@
       "last_updated": null
     },
     {
-      "id": 8543,
-      "provider_id": 57,
-      "provider_name": "FLIP",
-      "provider_website": "https://www.flipconnect.com.au",
-      "plan_name": "Super Speed",
-      "monthly_price": 94.9,
+      "id": 8956,
+      "provider_id": 10,
+      "provider_name": "AGL TELECOMMUNICATIONS",
+      "provider_website": "https://www.agl.com.au/get-connected/internet-plans",
+      "plan_name": "Fixed Wireless Plus",
+      "monthly_price": 94.0,
       "setup_fee": 0.0,
       "contract_length": 0,
-      "download_speed": 250,
-      "upload_speed": 21,
-      "speed_tier": "250/21",
-      "fixed_wireless": false,
+      "download_speed": 75,
+      "upload_speed": 10,
+      "speed_tier": "75/10",
+      "fixed_wireless": true,
       "promo_type": "discount",
-      "promo_value": 15.900000000000006,
-      "promo_duration": 4,
+      "promo_value": 29.0,
+      "promo_duration": 6,
       "promo_details": null,
       "last_updated": null
     },
@@ -1337,7 +1299,26 @@
       "last_updated": null
     },
     {
-      "id": 8821,
+      "id": 9042,
+      "provider_id": 57,
+      "provider_name": "FLIP",
+      "provider_website": "https://www.flipconnect.com.au",
+      "plan_name": "Super Speed",
+      "monthly_price": 94.9,
+      "setup_fee": 0.0,
+      "contract_length": 0,
+      "download_speed": 250,
+      "upload_speed": 21,
+      "speed_tier": "250/21",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 15.900000000000006,
+      "promo_duration": 4,
+      "promo_details": null,
+      "last_updated": null
+    },
+    {
+      "id": 9259,
       "provider_id": 122,
       "provider_name": "SPINTEL",
       "provider_website": "https://www.spintel.net.au/home-internet/nbn",
@@ -1356,7 +1337,7 @@
       "last_updated": null
     },
     {
-      "id": 8871,
+      "id": 9302,
       "provider_id": 144,
       "provider_name": "VEETEL",
       "provider_website": "http://www.veetel.com.au/nbn-plans.html",
@@ -1375,7 +1356,7 @@
       "last_updated": null
     },
     {
-      "id": 8863,
+      "id": 9294,
       "provider_id": 138,
       "provider_name": "TPG",
       "provider_website": "https://www.tpg.com.au/nbn",
@@ -1432,7 +1413,7 @@
       "last_updated": null
     },
     {
-      "id": 8700,
+      "id": 9161,
       "provider_id": 101,
       "provider_name": "MYOWN TEL",
       "provider_website": "https://www.myowntel.net.au/nbn",
@@ -1451,26 +1432,7 @@
       "last_updated": null
     },
     {
-      "id": 8733,
-      "provider_id": 110,
-      "provider_name": "OPTUS",
-      "provider_website": "https://www.optus.com.au/broadband-nbn/home-broadband/plans/shop",
-      "plan_name": "Everyday plan",
-      "monthly_price": 95.0,
-      "setup_fee": 0.0,
-      "contract_length": 0,
-      "download_speed": 50,
-      "upload_speed": 20,
-      "speed_tier": "50/20",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 15.0,
-      "promo_duration": 12,
-      "promo_details": null,
-      "last_updated": null
-    },
-    {
-      "id": 8768,
+      "id": 9229,
       "provider_id": 113,
       "provider_name": "PENTANET",
       "provider_website": "https://pentanet.com.au/for-home/nbn",
@@ -1489,11 +1451,11 @@
       "last_updated": null
     },
     {
-      "id": 8807,
+      "id": 9241,
       "provider_id": 121,
       "provider_name": "SOUTHERN PHONE",
       "provider_website": "https://www.southernphone.com.au/personal/broadband/nbn-broadband",
-      "plan_name": "Superfast",
+      "plan_name": "nbn® Superfast Broadband Plan",
       "monthly_price": 95.0,
       "setup_fee": 0.0,
       "contract_length": 0,
@@ -1508,11 +1470,11 @@
       "last_updated": null
     },
     {
-      "id": 8810,
+      "id": 9244,
       "provider_id": 121,
       "provider_name": "SOUTHERN PHONE",
       "provider_website": "https://www.southernphone.com.au/personal/broadband/nbn-broadband",
-      "plan_name": "Fixed Wireless Superfast",
+      "plan_name": "nbn® Fixed Wireless Superfast",
       "monthly_price": 95.0,
       "setup_fee": 0.0,
       "contract_length": 0,
@@ -1527,7 +1489,26 @@
       "last_updated": null
     },
     {
-      "id": 8830,
+      "id": 9249,
+      "provider_id": 121,
+      "provider_name": "SOUTHERN PHONE",
+      "provider_website": "https://www.southernphone.com.au/personal/broadband/nbn-broadband",
+      "plan_name": "nbn® Superfast Business Plan",
+      "monthly_price": 95.0,
+      "setup_fee": 0.0,
+      "contract_length": 0,
+      "download_speed": 250,
+      "upload_speed": 25,
+      "speed_tier": "250/25",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 20.0,
+      "promo_duration": 12,
+      "promo_details": null,
+      "last_updated": null
+    },
+    {
+      "id": 9265,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/consumer/home-broadband/nbn.html",
@@ -1546,7 +1527,7 @@
       "last_updated": null
     },
     {
-      "id": 8667,
+      "id": 9134,
       "provider_id": 90,
       "provider_name": "MATE",
       "provider_website": "https://www.letsbemates.com.au",
@@ -1565,11 +1546,11 @@
       "last_updated": null
     },
     {
-      "id": 8719,
+      "id": 9180,
       "provider_id": 153,
       "provider_name": "NEPTUNE",
       "provider_website": "https://www.neptune.net.au/",
-      "plan_name": "500mbps Download | 50mbps Upload",
+      "plan_name": "500/50",
       "monthly_price": 98.0,
       "setup_fee": 0.0,
       "contract_length": 0,
@@ -1584,26 +1565,7 @@
       "last_updated": null
     },
     {
-      "id": 8516,
-      "provider_id": 48,
-      "provider_name": "DODO",
-      "provider_website": "https://www.dodo.com/nbn",
-      "plan_name": "NBN Home Superfast",
-      "monthly_price": 98.9,
-      "setup_fee": 0.0,
-      "contract_length": 0,
-      "download_speed": 250,
-      "upload_speed": 25,
-      "speed_tier": "250/25",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 20.0,
-      "promo_duration": 6,
-      "promo_details": null,
-      "last_updated": null
-    },
-    {
-      "id": 8448,
+      "id": 8964,
       "provider_id": 15,
       "provider_name": "AQUA MOBILE",
       "provider_website": "https://www.aquamobile.net.au/nbn",
@@ -1622,7 +1584,7 @@
       "last_updated": null
     },
     {
-      "id": 8449,
+      "id": 8965,
       "provider_id": 15,
       "provider_name": "AQUA MOBILE",
       "provider_website": "https://www.aquamobile.net.au/nbn",
@@ -1641,26 +1603,7 @@
       "last_updated": null
     },
     {
-      "id": 8734,
-      "provider_id": 110,
-      "provider_name": "OPTUS",
-      "provider_website": "https://www.optus.com.au/broadband-nbn/home-broadband/plans/shop",
-      "plan_name": "Fast plan",
-      "monthly_price": 99.0,
-      "setup_fee": 0.0,
-      "contract_length": 0,
-      "download_speed": 100,
-      "upload_speed": 20,
-      "speed_tier": "100/20",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 15.0,
-      "promo_duration": 12,
-      "promo_details": null,
-      "last_updated": null
-    },
-    {
-      "id": 8831,
+      "id": 9266,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/consumer/home-broadband/nbn.html",
@@ -1679,7 +1622,7 @@
       "last_updated": null
     },
     {
-      "id": 8833,
+      "id": 9268,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/consumer/home-broadband/nbn.html",
@@ -1698,7 +1641,26 @@
       "last_updated": null
     },
     {
-      "id": 8864,
+      "id": 9026,
+      "provider_id": 48,
+      "provider_name": "DODO",
+      "provider_website": "https://www.dodo.com/nbn",
+      "plan_name": "Home Superfast",
+      "monthly_price": 99.99,
+      "setup_fee": 0.0,
+      "contract_length": 0,
+      "download_speed": 250,
+      "upload_speed": 25,
+      "speed_tier": "250/25",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 20.0,
+      "promo_duration": 6,
+      "promo_details": null,
+      "last_updated": null
+    },
+    {
+      "id": 9295,
       "provider_id": 138,
       "provider_name": "TPG",
       "provider_website": "https://www.tpg.com.au/nbn",
@@ -1736,25 +1698,6 @@
       "last_updated": null
     },
     {
-      "id": 8738,
-      "provider_id": 111,
-      "provider_name": "ORIGIN BROADBAND",
-      "provider_website": "https://www.originenergy.com.au/internet/plans/nbn/",
-      "plan_name": "Experience nbn 50",
-      "monthly_price": 103.0,
-      "setup_fee": 0.0,
-      "contract_length": 0,
-      "download_speed": 50,
-      "upload_speed": 20,
-      "speed_tier": "50/20",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 25.0,
-      "promo_duration": 4,
-      "promo_details": null,
-      "last_updated": null
-    },
-    {
       "id": 8826,
       "provider_id": 125,
       "provider_name": "SUMO",
@@ -1774,11 +1717,30 @@
       "last_updated": null
     },
     {
-      "id": 8844,
+      "id": 9199,
+      "provider_id": 111,
+      "provider_name": "ORIGIN BROADBAND",
+      "provider_website": "https://www.originenergy.com.au/internet/plans/nbn/",
+      "plan_name": "Experience nbn 50",
+      "monthly_price": 103.0,
+      "setup_fee": 0.0,
+      "contract_length": 0,
+      "download_speed": 50,
+      "upload_speed": 20,
+      "speed_tier": "50/20",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 25.0,
+      "promo_duration": 4,
+      "promo_details": null,
+      "last_updated": null
+    },
+    {
+      "id": 9279,
       "provider_id": 155,
       "provider_name": "TELSIM",
       "provider_website": "https://www.telsim.com.au/",
-      "plan_name": "NBN® Home Fast Plus",
+      "plan_name": "NBN Home Fast Plus",
       "monthly_price": 103.9,
       "setup_fee": 0.0,
       "contract_length": 0,
@@ -1789,25 +1751,6 @@
       "promo_type": "discount",
       "promo_value": 64.0,
       "promo_duration": 1,
-      "promo_details": null,
-      "last_updated": null
-    },
-    {
-      "id": 8436,
-      "provider_id": 10,
-      "provider_name": "AGL TELECOMMUNICATIONS",
-      "provider_website": "https://www.agl.com.au/get-connected/internet-plans",
-      "plan_name": "Home Fast",
-      "monthly_price": 104.0,
-      "setup_fee": 0.0,
-      "contract_length": 0,
-      "download_speed": 100,
-      "upload_speed": 20,
-      "speed_tier": "100/20",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 39.0,
-      "promo_duration": 6,
       "promo_details": null,
       "last_updated": null
     },
@@ -1831,7 +1774,26 @@
       "last_updated": null
     },
     {
-      "id": 8652,
+      "id": 8952,
+      "provider_id": 10,
+      "provider_name": "AGL TELECOMMUNICATIONS",
+      "provider_website": "https://www.agl.com.au/get-connected/internet-plans",
+      "plan_name": "Home Fast",
+      "monthly_price": 104.0,
+      "setup_fee": 0.0,
+      "contract_length": 0,
+      "download_speed": 100,
+      "upload_speed": 20,
+      "speed_tier": "100/20",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 39.0,
+      "promo_duration": 6,
+      "promo_details": null,
+      "last_updated": null
+    },
+    {
+      "id": 9128,
       "provider_id": 85,
       "provider_name": "LEAPTEL",
       "provider_website": "https://leaptel.com.au/nbn-plans/",
@@ -1850,7 +1812,7 @@
       "last_updated": null
     },
     {
-      "id": 8832,
+      "id": 9267,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/consumer/home-broadband/nbn.html",
@@ -1869,7 +1831,7 @@
       "last_updated": null
     },
     {
-      "id": 8544,
+      "id": 9043,
       "provider_id": 57,
       "provider_name": "FLIP",
       "provider_website": "https://www.flipconnect.com.au",
@@ -1888,7 +1850,7 @@
       "last_updated": null
     },
     {
-      "id": 8648,
+      "id": 9124,
       "provider_id": 85,
       "provider_name": "LEAPTEL",
       "provider_website": "https://leaptel.com.au/nbn-plans/",
@@ -1907,7 +1869,7 @@
       "last_updated": null
     },
     {
-      "id": 8701,
+      "id": 9162,
       "provider_id": 101,
       "provider_name": "MYOWN TEL",
       "provider_website": "https://www.myowntel.net.au/nbn",
@@ -1926,7 +1888,7 @@
       "last_updated": null
     },
     {
-      "id": 8769,
+      "id": 9230,
       "provider_id": 113,
       "provider_name": "PENTANET",
       "provider_website": "https://pentanet.com.au/for-home/nbn",
@@ -1945,11 +1907,11 @@
       "last_updated": null
     },
     {
-      "id": 8806,
+      "id": 9240,
       "provider_id": 121,
       "provider_name": "SOUTHERN PHONE",
       "provider_website": "https://www.southernphone.com.au/personal/broadband/nbn-broadband",
-      "plan_name": "Ultrafast",
+      "plan_name": "nbn® Ultrafast Broadband Plan",
       "monthly_price": 105.0,
       "setup_fee": 0.0,
       "contract_length": 0,
@@ -1964,7 +1926,26 @@
       "last_updated": null
     },
     {
-      "id": 8668,
+      "id": 9248,
+      "provider_id": 121,
+      "provider_name": "SOUTHERN PHONE",
+      "provider_website": "https://www.southernphone.com.au/personal/broadband/nbn-broadband",
+      "plan_name": "nbn® Ultrafast Business Plan",
+      "monthly_price": 105.0,
+      "setup_fee": 0.0,
+      "contract_length": 0,
+      "download_speed": 1000,
+      "upload_speed": 50,
+      "speed_tier": "1000/50",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 20.0,
+      "promo_duration": 12,
+      "promo_details": null,
+      "last_updated": null
+    },
+    {
+      "id": 9135,
       "provider_id": 90,
       "provider_name": "MATE",
       "provider_website": "https://www.letsbemates.com.au",
@@ -1983,7 +1964,7 @@
       "last_updated": null
     },
     {
-      "id": 8739,
+      "id": 9200,
       "provider_id": 111,
       "provider_name": "ORIGIN BROADBAND",
       "provider_website": "https://www.originenergy.com.au/internet/plans/nbn/",
@@ -2021,7 +2002,7 @@
       "last_updated": null
     },
     {
-      "id": 8447,
+      "id": 8963,
       "provider_id": 15,
       "provider_name": "AQUA MOBILE",
       "provider_website": "https://www.aquamobile.net.au/nbn",
@@ -2040,11 +2021,11 @@
       "last_updated": null
     },
     {
-      "id": 8721,
+      "id": 9182,
       "provider_id": 153,
       "provider_name": "NEPTUNE",
       "provider_website": "https://www.neptune.net.au/",
-      "plan_name": "750mbps Download | 50mbps Upload",
+      "plan_name": "750/50",
       "monthly_price": 109.0,
       "setup_fee": 0.0,
       "contract_length": 0,
@@ -2059,7 +2040,7 @@
       "last_updated": null
     },
     {
-      "id": 8834,
+      "id": 9269,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/consumer/home-broadband/nbn.html",
@@ -2078,11 +2059,11 @@
       "last_updated": null
     },
     {
-      "id": 8845,
+      "id": 9280,
       "provider_id": 155,
       "provider_name": "TELSIM",
       "provider_website": "https://www.telsim.com.au/",
-      "plan_name": "NBN® Home Superfast",
+      "plan_name": "NBN Home Superfast",
       "monthly_price": 109.9,
       "setup_fee": 0.0,
       "contract_length": 0,
@@ -2097,7 +2078,7 @@
       "last_updated": null
     },
     {
-      "id": 8865,
+      "id": 9296,
       "provider_id": 138,
       "provider_name": "TPG",
       "provider_website": "https://www.tpg.com.au/nbn",
@@ -2116,7 +2097,7 @@
       "last_updated": null
     },
     {
-      "id": 8437,
+      "id": 8953,
       "provider_id": 10,
       "provider_name": "AGL TELECOMMUNICATIONS",
       "provider_website": "https://www.agl.com.au/get-connected/internet-plans",
@@ -2135,7 +2116,7 @@
       "last_updated": null
     },
     {
-      "id": 8653,
+      "id": 9129,
       "provider_id": 85,
       "provider_name": "LEAPTEL",
       "provider_website": "https://leaptel.com.au/nbn-plans/",
@@ -2173,7 +2154,7 @@
       "last_updated": null
     },
     {
-      "id": 8702,
+      "id": 9163,
       "provider_id": 101,
       "provider_name": "MYOWN TEL",
       "provider_website": "https://www.myowntel.net.au/nbn",
@@ -2192,7 +2173,7 @@
       "last_updated": null
     },
     {
-      "id": 8735,
+      "id": 9196,
       "provider_id": 110,
       "provider_name": "OPTUS",
       "provider_website": "https://www.optus.com.au/broadband-nbn/home-broadband/plans/shop",
@@ -2201,8 +2182,8 @@
       "setup_fee": 0.0,
       "contract_length": 0,
       "download_speed": 100,
-      "upload_speed": 20,
-      "speed_tier": "100/20",
+      "upload_speed": 18,
+      "speed_tier": "100/18",
       "fixed_wireless": false,
       "promo_type": "discount",
       "promo_value": 10.0,
@@ -2211,7 +2192,7 @@
       "last_updated": null
     },
     {
-      "id": 8740,
+      "id": 9201,
       "provider_id": 111,
       "provider_name": "ORIGIN BROADBAND",
       "provider_website": "https://www.originenergy.com.au/internet/plans/nbn/",
@@ -2230,7 +2211,7 @@
       "last_updated": null
     },
     {
-      "id": 8770,
+      "id": 9231,
       "provider_id": 113,
       "provider_name": "PENTANET",
       "provider_website": "https://pentanet.com.au/for-home/nbn",
@@ -2268,7 +2249,7 @@
       "last_updated": null
     },
     {
-      "id": 8669,
+      "id": 9136,
       "provider_id": 90,
       "provider_name": "MATE",
       "provider_website": "https://www.letsbemates.com.au",
@@ -2282,25 +2263,6 @@
       "fixed_wireless": false,
       "promo_type": "discount",
       "promo_value": 30.0,
-      "promo_duration": 6,
-      "promo_details": null,
-      "last_updated": null
-    },
-    {
-      "id": 8438,
-      "provider_id": 10,
-      "provider_name": "AGL TELECOMMUNICATIONS",
-      "provider_website": "https://www.agl.com.au/get-connected/internet-plans",
-      "plan_name": "Home Ultrafast",
-      "monthly_price": 124.0,
-      "setup_fee": 0.0,
-      "contract_length": 0,
-      "download_speed": 1000,
-      "upload_speed": 50,
-      "speed_tier": "1000/50",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 39.0,
       "promo_duration": 6,
       "promo_details": null,
       "last_updated": null
@@ -2325,6 +2287,25 @@
       "last_updated": null
     },
     {
+      "id": 8954,
+      "provider_id": 10,
+      "provider_name": "AGL TELECOMMUNICATIONS",
+      "provider_website": "https://www.agl.com.au/get-connected/internet-plans",
+      "plan_name": "Home Ultrafast",
+      "monthly_price": 124.0,
+      "setup_fee": 0.0,
+      "contract_length": 0,
+      "download_speed": 1000,
+      "upload_speed": 50,
+      "speed_tier": "1000/50",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 39.0,
+      "promo_duration": 6,
+      "promo_details": null,
+      "last_updated": null
+    },
+    {
       "id": 8827,
       "provider_id": 125,
       "provider_name": "SUMO",
@@ -2344,11 +2325,11 @@
       "last_updated": null
     },
     {
-      "id": 8846,
+      "id": 9281,
       "provider_id": 155,
       "provider_name": "TELSIM",
       "provider_website": "https://www.telsim.com.au/",
-      "plan_name": "NBN® Home Ultrafast",
+      "plan_name": "NBN Home Ultrafast",
       "monthly_price": 125.9,
       "setup_fee": 0.0,
       "contract_length": 0,
@@ -2363,7 +2344,7 @@
       "last_updated": null
     },
     {
-      "id": 8670,
+      "id": 9137,
       "provider_id": 90,
       "provider_name": "MATE",
       "provider_website": "https://www.letsbemates.com.au",
@@ -2401,7 +2382,7 @@
       "last_updated": null
     },
     {
-      "id": 8705,
+      "id": 9166,
       "provider_id": 101,
       "provider_name": "MYOWN TEL",
       "provider_website": "https://www.myowntel.net.au/nbn",
@@ -2420,26 +2401,7 @@
       "last_updated": null
     },
     {
-      "id": 8736,
-      "provider_id": 110,
-      "provider_name": "OPTUS",
-      "provider_website": "https://www.optus.com.au/broadband-nbn/home-broadband/plans/shop",
-      "plan_name": "Ultrafast plan",
-      "monthly_price": 129.0,
-      "setup_fee": 0.0,
-      "contract_length": 0,
-      "download_speed": 1000,
-      "upload_speed": 50,
-      "speed_tier": "1000/50",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 15.0,
-      "promo_duration": 12,
-      "promo_details": null,
-      "last_updated": null
-    },
-    {
-      "id": 8741,
+      "id": 9202,
       "provider_id": 111,
       "provider_name": "ORIGIN BROADBAND",
       "provider_website": "https://www.originenergy.com.au/internet/plans/nbn/",
@@ -2458,7 +2420,7 @@
       "last_updated": null
     },
     {
-      "id": 8771,
+      "id": 9232,
       "provider_id": 113,
       "provider_name": "PENTANET",
       "provider_website": "https://pentanet.com.au/for-home/nbn",
@@ -2477,7 +2439,7 @@
       "last_updated": null
     },
     {
-      "id": 8703,
+      "id": 9164,
       "provider_id": 101,
       "provider_name": "MYOWN TEL",
       "provider_website": "https://www.myowntel.net.au/nbn",
@@ -2496,7 +2458,7 @@
       "last_updated": null
     },
     {
-      "id": 8742,
+      "id": 9203,
       "provider_id": 111,
       "provider_name": "ORIGIN BROADBAND",
       "provider_website": "https://www.originenergy.com.au/internet/plans/nbn/",
@@ -2515,7 +2477,7 @@
       "last_updated": null
     },
     {
-      "id": 8704,
+      "id": 9165,
       "provider_id": 101,
       "provider_name": "MYOWN TEL",
       "provider_website": "https://www.myowntel.net.au/nbn",
@@ -2534,7 +2496,7 @@
       "last_updated": null
     },
     {
-      "id": 8706,
+      "id": 9167,
       "provider_id": 101,
       "provider_name": "MYOWN TEL",
       "provider_website": "https://www.myowntel.net.au/nbn",

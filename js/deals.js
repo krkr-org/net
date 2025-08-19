@@ -72,7 +72,7 @@ async function loadStaticData() {
 // Load providers from JSON
 async function loadProvidersFromJSON() {
     try {
-        const response = await fetch(`${DATA_BASE_PATH}providers.json`);
+        const response = await fetch(`${DATA_BASE_PATH}providers.json?v=${Date.now()}`);
         if (!response.ok) throw new Error('Failed to load providers data');
         
         const data = await response.json();
@@ -89,7 +89,7 @@ async function loadProvidersFromJSON() {
 // Load deals from JSON
 async function loadDealsFromJSON() {
     try {
-        const response = await fetch(`${DATA_BASE_PATH}deals.json`);
+        const response = await fetch(`${DATA_BASE_PATH}deals.json?v=${Date.now()}`);
         if (!response.ok) throw new Error('Failed to load deals data');
         
         const data = await response.json();

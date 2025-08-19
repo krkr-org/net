@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-08-19T20:14:50.156773",
+    "generated_at": "2025-08-19T20:32:05.649116",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 87
@@ -122,7 +122,7 @@
       "logo_url": null,
       "active": true,
       "support_email": "",
-      "support_phone": "1300880905",
+      "support_phone": "1300 880 905",
       "id": 20,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -154,13 +154,8 @@
       "website": "https://carboncomms.com.au/",
       "logo_url": null,
       "active": true,
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "hello@carboncomms.com.au",
       "support_phone": "1800 10 10 50",
->>>>>>> db2cfa9 (changes to endpoints)
       "id": 37,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -170,13 +165,8 @@
       "website": "https://www.clickaccess.com.au/",
       "logo_url": null,
       "active": true,
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "info@clickaccess.com.au",
       "support_phone": "07 5315 5440",
->>>>>>> db2cfa9 (changes to endpoints)
       "id": 41,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -186,13 +176,8 @@
       "website": "https://www.cmobile.com.au/",
       "logo_url": null,
       "active": true,
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "support@cmobile.com.au",
       "support_phone": "1300 545 000",
->>>>>>> db2cfa9 (changes to endpoints)
       "id": 42,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -202,13 +187,8 @@
       "website": "https://www.connectedoz.com.au/",
       "logo_url": null,
       "active": true,
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": "",
-=======
       "support_email": "support@connectedoz.com.au",
       "support_phone": "1300 859 778",
->>>>>>> db2cfa9 (changes to endpoints)
       "id": 43,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -218,13 +198,8 @@
       "website": "https://www.dodo.com/",
       "logo_url": null,
       "active": true,
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "",
       "support_phone": "13 36 36",
->>>>>>> db2cfa9 (changes to endpoints)
       "id": 48,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -234,13 +209,8 @@
       "website": "https://www.ehw.net.au/",
       "logo_url": null,
       "active": true,
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "sales@ehwtech.net.au",
       "support_phone": "(07) 4944 0111",
->>>>>>> db2cfa9 (changes to endpoints)
       "id": 51,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -250,13 +220,8 @@
       "website": "https://www.elevateinternet.com.au/",
       "logo_url": null,
       "active": true,
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "support@elevateinternet.com.au",
       "support_phone": "1300 191 845",
->>>>>>> db2cfa9 (changes to endpoints)
       "id": 157,
       "created_at": "2025-07-18T10:55:41Z",
       "network_details": []
@@ -266,13 +231,8 @@
       "website": "https://www.esc.net.au/",
       "logo_url": null,
       "active": true,
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "support@team.esc.net.au",
       "support_phone": "1300 135 235",
->>>>>>> db2cfa9 (changes to endpoints)
       "id": 52,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -293,13 +253,8 @@
       "website": "http://fantel.com.au/",
       "logo_url": null,
       "active": true,
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "support@fantel.com.au",
       "support_phone": "+61 2 8332 3030",
->>>>>>> db2cfa9 (changes to endpoints)
       "id": 55,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -309,13 +264,8 @@
       "website": "https://www.flipconnect.com.au",
       "logo_url": null,
       "active": true,
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "",
       "support_phone": "1300 354 788",
->>>>>>> db2cfa9 (changes to endpoints)
       "id": 57,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -325,13 +275,8 @@
       "website": "http://franktel.com.au/",
       "logo_url": null,
       "active": true,
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "",
       "support_phone": "03 9039 5550",
->>>>>>> db2cfa9 (changes to endpoints)
       "id": 59,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -341,13 +286,8 @@
       "website": "https://futurebroadband.com.au/",
       "logo_url": null,
       "active": true,
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "",
       "support_phone": "08 6117 0600",
->>>>>>> db2cfa9 (changes to endpoints)
       "id": 60,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -357,13 +297,8 @@
       "website": "http://www.gointernet.net.au/",
       "logo_url": null,
       "active": true,
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "support@gointernet.net.au",
       "support_phone": "1300 467 283",
->>>>>>> db2cfa9 (changes to endpoints)
       "id": 64,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -373,13 +308,8 @@
       "website": "https://www.goodtel.com.au/",
       "logo_url": null,
       "active": true,
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "",
       "support_phone": "1800 114 663",
->>>>>>> db2cfa9 (changes to endpoints)
       "id": 65,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -389,13 +319,8 @@
       "website": "https://harbourisp.com.au",
       "logo_url": null,
       "active": true,
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "support@harbourisp.com.au",
       "support_phone": "1300 579 403",
->>>>>>> db2cfa9 (changes to endpoints)
       "id": 67,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -405,13 +330,8 @@
       "website": "https://www.iig.com.au/",
       "logo_url": null,
       "active": true,
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "",
       "support_phone": "1300 552 795",
->>>>>>> db2cfa9 (changes to endpoints)
       "id": 71,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -476,8 +396,8 @@
       "website": "https://www.itsfubar.com.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "support@itsfubar.com.au",
+      "support_phone": "(03) 5292 3655",
       "id": 154,
       "created_at": "2025-07-05T09:27:24Z",
       "network_details": []
@@ -608,8 +528,8 @@
       "website": "https://moosemobile.com.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "admin@moosemobile.com.au",
+      "support_phone": "1300 566 673",
       "id": 96,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -663,13 +583,8 @@
       "website": "https://www.neptune.net.au/",
       "logo_url": null,
       "active": true,
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "support@neptune.net.au",
       "support_phone": "",
->>>>>>> db2cfa9 (changes to endpoints)
       "id": 153,
       "created_at": "2025-06-23T03:37:08Z",
       "network_details": []
@@ -690,8 +605,8 @@
       "website": "http://occom.com.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "support@occom.com.au",
+      "support_phone": "1300 299 999",
       "id": 108,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -734,8 +649,8 @@
       "website": "https://peartelco.com.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "hello@peartelco.com.au",
+      "support_phone": "1300 007 327",
       "id": 112,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -811,8 +726,8 @@
       "website": "https://www.southernphone.com.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "",
+      "support_phone": "13 14 64",
       "id": 121,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -822,13 +737,8 @@
       "website": "https://www.spintel.net.au/",
       "logo_url": null,
       "active": true,
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "",
       "support_phone": "13 22 10",
->>>>>>> db2cfa9 (changes to endpoints)
       "id": 122,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": [
@@ -885,13 +795,8 @@
       "website": "https://swoop.com.au/",
       "logo_url": null,
       "active": true,
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "support@swoop.com.au",
       "support_phone": "1300 66 55 75",
->>>>>>> db2cfa9 (changes to endpoints)
       "id": 128,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -923,8 +828,8 @@
       "website": "https://www.telsim.com.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "",
+      "support_phone": "1300 835 746",
       "id": 155,
       "created_at": "2025-07-18T10:36:52Z",
       "network_details": []
@@ -1011,8 +916,8 @@
       "website": "http://www.veetel.com.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "enquiries@veetel.com.au",
+      "support_phone": "1300 833 835",
       "id": 144,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []

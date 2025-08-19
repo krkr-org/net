@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2025-08-18T12:42:36.296911",
+    "generated_at": "2025-08-19T12:21:39.251196",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
-    "count": 90
+    "count": 87
   },
   "data": [
     {
@@ -14,7 +14,8 @@
       "support_email": "support@10MATES.com.au",
       "support_phone": "1300 030 692",
       "id": 1,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "2IT TECHNOLOGY",
@@ -22,119 +23,131 @@
       "logo_url": null,
       "active": true,
       "support_email": null,
-      "support_phone": "",
+      "support_phone": "07 4911 4161",
       "id": 3,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "8NETWORKS",
       "website": "https://8networks.com.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "info@8networks.com.au",
+      "support_phone": "1800 921 212",
       "id": 156,
-      "created_at": "2025-07-18T10:43:05"
+      "created_at": "2025-07-18T10:43:05Z",
+      "network_details": []
     },
     {
       "name": "ACE INTERNET",
       "website": "https://ace.com.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "info@ace.com.au",
+      "support_phone": "1300 360 979",
       "id": 5,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "ACTIV8ME",
       "website": "https://www.activ8me.net.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "",
+      "support_phone": "13 22 88",
       "id": 6,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "ADVANTAGE COMMUNICATION & DATA",
       "website": "https://www.advantagecom.com.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "servicedesk@advantagecom.com.au",
+      "support_phone": "1300 264 860",
       "id": 9,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "AGL TELECOMMUNICATIONS",
       "website": "https://www.agl.com.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "",
+      "support_phone": "131 245",
       "id": 10,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "ANT",
       "website": "http://www.ant.com.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "",
+      "support_phone": "1300 268 266",
       "id": 14,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "AQUA MOBILE",
       "website": "https://www.aquamobile.net.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "support@aquamobile.net.au",
+      "support_phone": "1300 097 819",
       "id": 15,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "AUS INTERNET",
       "website": "https://ausinternet.com.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": "",
+      "support_email": "support@ausinternet.com.au",
+      "support_phone": "07 4222-1111 ",
       "id": 18,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "AUSSIE BROADBAND",
       "website": "https://www.aussiebroadband.com.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "",
+      "support_phone": "1300880905",
       "id": 20,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "BELONG",
       "website": "https://www.belong.com.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "",
+      "support_phone": "1300 235 664",
       "id": 27,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "BUDDY TELCO",
       "website": "https://Buddytelco.com.au",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "Unknown",
+      "support_phone": "",
       "id": 32,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "CARBON COMMS",
@@ -144,7 +157,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 37,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "CLICK ACCESS",
@@ -154,7 +168,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 41,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "CMOBILE",
@@ -164,7 +179,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 42,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "CONNECTED AUSTRALIA",
@@ -174,17 +190,8 @@
       "support_email": null,
       "support_phone": "",
       "id": 43,
-      "created_at": "2025-06-20T02:46:43"
-    },
-    {
-      "name": "DATALIFE PTY LTD",
-      "website": "https://datalife.net.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": null,
-      "support_phone": null,
-      "id": 46,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "DODO",
@@ -194,7 +201,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 48,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "EHW TECHNOLOGY",
@@ -204,7 +212,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 51,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "ELEVATE",
@@ -214,7 +223,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 157,
-      "created_at": "2025-07-18T10:55:41"
+      "created_at": "2025-07-18T10:55:41Z",
+      "network_details": []
     },
     {
       "name": "ESCAPENET",
@@ -224,7 +234,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 52,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "EXETEL",
@@ -234,7 +245,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 53,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "FANTEL",
@@ -244,7 +256,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 55,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "FLIP",
@@ -254,7 +267,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 57,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "FRANKSTON INTERNET",
@@ -264,7 +278,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 59,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "FUTURE BROADBAND",
@@ -274,7 +289,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 60,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "GOINTERNET",
@@ -284,7 +300,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 64,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "GOODTEL",
@@ -294,7 +311,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 65,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "HARBOUR ISP",
@@ -304,17 +322,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 67,
-      "created_at": "2025-06-20T02:46:43"
-    },
-    {
-      "name": "I.NET.AU",
-      "website": "http://www.i.net.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": null,
-      "support_phone": null,
-      "id": 69,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "IIG",
@@ -324,7 +333,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 71,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "IINET",
@@ -334,7 +344,19 @@
       "support_email": null,
       "support_phone": null,
       "id": 72,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
+    },
+    {
+      "name": "I.NET.AU",
+      "website": "http://www.i.net.au/",
+      "logo_url": null,
+      "active": true,
+      "support_email": null,
+      "support_phone": null,
+      "id": 69,
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "INFINET BROADBAND",
@@ -344,7 +366,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 73,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "INSPIRED BROADBAND",
@@ -354,17 +377,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 74,
-      "created_at": "2025-06-20T02:46:43"
-    },
-    {
-      "name": "INTERNATIONAL EXCHANGE PTY LTD",
-      "website": "https://intxchange.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": null,
-      "support_phone": null,
-      "id": 75,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "IPRIMUS - 1300 FIBRE 1",
@@ -374,7 +388,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 77,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "IT'S FUBAR",
@@ -384,7 +399,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 154,
-      "created_at": "2025-07-05T09:27:24"
+      "created_at": "2025-07-05T09:27:24Z",
+      "network_details": []
     },
     {
       "name": "KINETIX",
@@ -394,7 +410,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 81,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "KLOUDPHONE",
@@ -404,7 +421,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 82,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "KOGAN",
@@ -414,7 +432,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 83,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "LAUNTEL",
@@ -424,7 +443,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 84,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "LEAPTEL",
@@ -434,7 +454,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 85,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "LIGHTNING IP",
@@ -444,7 +465,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 86,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "LIZZY INTERNET",
@@ -454,7 +476,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 88,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "MAD OVER TECH",
@@ -464,7 +487,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 89,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "MATE",
@@ -474,7 +498,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 90,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "MATILDA",
@@ -484,7 +509,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 91,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "MAXO TELECOMMUNICATIONS",
@@ -494,17 +520,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 158,
-      "created_at": "2025-07-18T11:02:28"
-    },
-    {
-      "name": "MELBOURNE PHONE",
-      "website": "https://mphone.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": null,
-      "support_phone": null,
-      "id": 92,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-07-18T11:02:28Z",
+      "network_details": []
     },
     {
       "name": "MOOSE MOBILE",
@@ -514,7 +531,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 96,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "MORE",
@@ -524,7 +542,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 97,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "MPHONE",
@@ -534,7 +553,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 168,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "MYOWN TEL",
@@ -544,7 +564,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 101,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "NATAN",
@@ -554,7 +575,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 167,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "NEPTUNE",
@@ -564,7 +586,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 153,
-      "created_at": "2025-06-23T03:37:08"
+      "created_at": "2025-06-23T03:37:08Z",
+      "network_details": []
     },
     {
       "name": "NEW SPROUT",
@@ -574,7 +597,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 103,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "OCCOM",
@@ -584,7 +608,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 108,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "OPTUS",
@@ -594,7 +619,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 110,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "ORIGIN BROADBAND",
@@ -604,7 +630,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 111,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "OZOT",
@@ -614,7 +641,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 159,
-      "created_at": "2025-07-18T11:06:31"
+      "created_at": "2025-07-18T11:06:31Z",
+      "network_details": []
     },
     {
       "name": "PEAR",
@@ -624,7 +652,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 112,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "PENTANET",
@@ -634,7 +663,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 113,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "QUOKKA NET",
@@ -644,7 +674,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 166,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "QURED",
@@ -654,7 +685,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 117,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "REAL WORLD TECHNOLOGY SOLUTIONS",
@@ -664,7 +696,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 118,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "SKYMESH",
@@ -674,17 +707,19 @@
       "support_email": null,
       "support_phone": null,
       "id": 120,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "SOLITARY TECHNOLOGY",
       "website": "https://solitarytech.com.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "hello@solitarytech.com.au",
+      "support_phone": "1300 914 278",
       "id": 160,
-      "created_at": "2025-07-18T11:38:14"
+      "created_at": "2025-07-18T11:38:14Z",
+      "network_details": []
     },
     {
       "name": "SOUTHERN PHONE",
@@ -694,7 +729,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 121,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "SPINTEL",
@@ -704,7 +740,22 @@
       "support_email": null,
       "support_phone": null,
       "id": 122,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": [
+        {
+          "provider_id": 122,
+          "connection_method": "DHCP",
+          "vlan_required": true,
+          "vlan_id": 0,
+          "ipv6_supported": true,
+          "default_ipv4_type": "CGNAT",
+          "static_ip_cost": 0.0,
+          "policy_notes": "string",
+          "id": 1,
+          "created_at": "2025-08-15T12:56:43.730016Z",
+          "updated_at": "2025-08-15T12:56:43.730016Z"
+        }
+      ]
     },
     {
       "name": "STEELE TECHNOLOGY",
@@ -714,7 +765,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 124,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "SUMO",
@@ -724,7 +776,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 125,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "SUPERLOOP",
@@ -734,7 +787,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 126,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "SWOOP",
@@ -744,7 +798,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 128,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "TANGERINE TELECOM",
@@ -754,7 +809,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 130,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "TASMANET",
@@ -764,7 +820,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 131,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "TELSIM",
@@ -774,7 +831,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 155,
-      "created_at": "2025-07-18T10:36:52"
+      "created_at": "2025-07-18T10:36:52Z",
+      "network_details": []
     },
     {
       "name": "TELSTRA",
@@ -784,7 +842,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 133,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "THE GEORGE BAINI GROUP",
@@ -794,7 +853,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 134,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "THE INTERNET PROVIDER",
@@ -804,7 +864,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 135,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "TPG",
@@ -814,7 +875,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 138,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "UPLINK ME",
@@ -824,7 +886,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 163,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "URL NETWORKS",
@@ -834,7 +897,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 142,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "VALVE NETWORKS",
@@ -844,7 +908,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 164,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "VEETEL",
@@ -854,7 +919,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 144,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "VODAFONE",
@@ -864,7 +930,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 146,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "VOIPEX",
@@ -874,7 +941,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 147,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "YOMOJO",
@@ -884,17 +952,19 @@
       "support_email": null,
       "support_phone": null,
       "id": 162,
-      "created_at": "2025-07-18T11:45:32"
+      "created_at": "2025-07-18T11:45:32Z",
+      "network_details": []
     },
     {
-      "name": "ZETTANET",
+      "name": "ZETTAGRID",
       "website": "http://www.zetta.net.au/",
       "logo_url": null,
       "active": true,
       "support_email": null,
       "support_phone": null,
       "id": 152,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     },
     {
       "name": "ZIP CONNECT",
@@ -904,7 +974,8 @@
       "support_email": null,
       "support_phone": null,
       "id": 165,
-      "created_at": "2025-06-20T02:46:43"
+      "created_at": "2025-06-20T02:46:43Z",
+      "network_details": []
     }
   ]
 }

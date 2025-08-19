@@ -1,20 +1,5 @@
 {
   "metadata": {
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 6e8ae54 (updates 19-8)
-    "generated_at": "2025-08-19T12:21:39.267908",
-    "generator": "Interactive Internet Plan Advisor Data Fetcher",
-    "version": "1.0",
-    "count": 0
-<<<<<<< HEAD
-  },
-  "data": []
-=======
-  },
-  "data": []
-=======
     "generated_at": "2025-08-19T20:14:50.164130",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
@@ -4449,6 +4434,4 @@
       "last_updated": null
     }
   ]
->>>>>>> db2cfa9 (changes to endpoints)
->>>>>>> 6e8ae54 (updates 19-8)
 }

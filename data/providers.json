@@ -1,14 +1,6 @@
 {
   "metadata": {
-<<<<<<< HEAD
-    "generated_at": "2025-08-19T12:21:39.251196",
-=======
-<<<<<<< HEAD
-    "generated_at": "2025-08-19T12:21:39.251196",
-=======
     "generated_at": "2025-08-19T20:14:50.156773",
->>>>>>> db2cfa9 (changes to endpoints)
->>>>>>> 6e8ae54 (updates 19-8)
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 87
@@ -166,14 +158,9 @@
       "support_email": null,
       "support_phone": null,
 =======
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "hello@carboncomms.com.au",
       "support_phone": "1800 10 10 50",
 >>>>>>> db2cfa9 (changes to endpoints)
->>>>>>> 6e8ae54 (updates 19-8)
       "id": 37,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -187,14 +174,9 @@
       "support_email": null,
       "support_phone": null,
 =======
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "info@clickaccess.com.au",
       "support_phone": "07 5315 5440",
 >>>>>>> db2cfa9 (changes to endpoints)
->>>>>>> 6e8ae54 (updates 19-8)
       "id": 41,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -208,14 +190,9 @@
       "support_email": null,
       "support_phone": null,
 =======
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "support@cmobile.com.au",
       "support_phone": "1300 545 000",
 >>>>>>> db2cfa9 (changes to endpoints)
->>>>>>> 6e8ae54 (updates 19-8)
       "id": 42,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -229,14 +206,9 @@
       "support_email": null,
       "support_phone": "",
 =======
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": "",
-=======
       "support_email": "support@connectedoz.com.au",
       "support_phone": "1300 859 778",
 >>>>>>> db2cfa9 (changes to endpoints)
->>>>>>> 6e8ae54 (updates 19-8)
       "id": 43,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -250,14 +222,9 @@
       "support_email": null,
       "support_phone": null,
 =======
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "",
       "support_phone": "13 36 36",
 >>>>>>> db2cfa9 (changes to endpoints)
->>>>>>> 6e8ae54 (updates 19-8)
       "id": 48,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -271,14 +238,9 @@
       "support_email": null,
       "support_phone": null,
 =======
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "sales@ehwtech.net.au",
       "support_phone": "(07) 4944 0111",
 >>>>>>> db2cfa9 (changes to endpoints)
->>>>>>> 6e8ae54 (updates 19-8)
       "id": 51,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -292,14 +254,9 @@
       "support_email": null,
       "support_phone": null,
 =======
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "support@elevateinternet.com.au",
       "support_phone": "1300 191 845",
 >>>>>>> db2cfa9 (changes to endpoints)
->>>>>>> 6e8ae54 (updates 19-8)
       "id": 157,
       "created_at": "2025-07-18T10:55:41Z",
       "network_details": []
@@ -313,14 +270,9 @@
       "support_email": null,
       "support_phone": null,
 =======
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "support@team.esc.net.au",
       "support_phone": "1300 135 235",
 >>>>>>> db2cfa9 (changes to endpoints)
->>>>>>> 6e8ae54 (updates 19-8)
       "id": 52,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -345,14 +297,9 @@
       "support_email": null,
       "support_phone": null,
 =======
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "support@fantel.com.au",
       "support_phone": "+61 2 8332 3030",
 >>>>>>> db2cfa9 (changes to endpoints)
->>>>>>> 6e8ae54 (updates 19-8)
       "id": 55,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -366,14 +313,9 @@
       "support_email": null,
       "support_phone": null,
 =======
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "",
       "support_phone": "1300 354 788",
 >>>>>>> db2cfa9 (changes to endpoints)
->>>>>>> 6e8ae54 (updates 19-8)
       "id": 57,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -387,14 +329,9 @@
       "support_email": null,
       "support_phone": null,
 =======
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "",
       "support_phone": "03 9039 5550",
 >>>>>>> db2cfa9 (changes to endpoints)
->>>>>>> 6e8ae54 (updates 19-8)
       "id": 59,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -408,14 +345,9 @@
       "support_email": null,
       "support_phone": null,
 =======
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "",
       "support_phone": "08 6117 0600",
 >>>>>>> db2cfa9 (changes to endpoints)
->>>>>>> 6e8ae54 (updates 19-8)
       "id": 60,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -429,14 +361,9 @@
       "support_email": null,
       "support_phone": null,
 =======
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "support@gointernet.net.au",
       "support_phone": "1300 467 283",
 >>>>>>> db2cfa9 (changes to endpoints)
->>>>>>> 6e8ae54 (updates 19-8)
       "id": 64,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -450,14 +377,9 @@
       "support_email": null,
       "support_phone": null,
 =======
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "",
       "support_phone": "1800 114 663",
 >>>>>>> db2cfa9 (changes to endpoints)
->>>>>>> 6e8ae54 (updates 19-8)
       "id": 65,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -471,14 +393,9 @@
       "support_email": null,
       "support_phone": null,
 =======
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "support@harbourisp.com.au",
       "support_phone": "1300 579 403",
 >>>>>>> db2cfa9 (changes to endpoints)
->>>>>>> 6e8ae54 (updates 19-8)
       "id": 67,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -492,14 +409,9 @@
       "support_email": null,
       "support_phone": null,
 =======
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "",
       "support_phone": "1300 552 795",
 >>>>>>> db2cfa9 (changes to endpoints)
->>>>>>> 6e8ae54 (updates 19-8)
       "id": 71,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -755,14 +667,9 @@
       "support_email": null,
       "support_phone": null,
 =======
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "support@neptune.net.au",
       "support_phone": "",
 >>>>>>> db2cfa9 (changes to endpoints)
->>>>>>> 6e8ae54 (updates 19-8)
       "id": 153,
       "created_at": "2025-06-23T03:37:08Z",
       "network_details": []
@@ -919,14 +826,9 @@
       "support_email": null,
       "support_phone": null,
 =======
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "",
       "support_phone": "13 22 10",
 >>>>>>> db2cfa9 (changes to endpoints)
->>>>>>> 6e8ae54 (updates 19-8)
       "id": 122,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": [
@@ -987,14 +889,9 @@
       "support_email": null,
       "support_phone": null,
 =======
-<<<<<<< HEAD
-      "support_email": null,
-      "support_phone": null,
-=======
       "support_email": "support@swoop.com.au",
       "support_phone": "1300 66 55 75",
 >>>>>>> db2cfa9 (changes to endpoints)
->>>>>>> 6e8ae54 (updates 19-8)
       "id": 128,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []

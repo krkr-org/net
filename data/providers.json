@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-08-19T20:32:05.649116",
+    "generated_at": "2025-08-20T12:20:01.166242",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 87
@@ -363,8 +363,8 @@
       "website": "https://www.infinetbroadband.com.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "sales@infinetbroadband.com.au",
+      "support_phone": "1300 101 414",
       "id": 73,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -418,8 +418,8 @@
       "website": "https://kloudphone.com.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "sales@kloudphone.com.au",
+      "support_phone": "1300 525 563",
       "id": 82,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -517,8 +517,8 @@
       "website": "https://www.maxo.com.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "",
+      "support_phone": "1800 12 12 10",
       "id": 158,
       "created_at": "2025-07-18T11:02:28Z",
       "network_details": []
@@ -671,8 +671,8 @@
       "website": "https://quokkanet.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "qwerty@quokkanet.au",
+      "support_phone": "1800 663 977",
       "id": 166,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -894,8 +894,8 @@
       "website": "http://www.url.net.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "support@url.net.au",
+      "support_phone": "1300 33 11 78",
       "id": 142,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -938,8 +938,8 @@
       "website": "https://www.voipex.com.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "support@voipex.com.au",
+      "support_phone": "02 4957 8997",
       "id": 147,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
@@ -971,8 +971,8 @@
       "website": "https://zipconnect.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "info@zipconnect.au",
+      "support_phone": "1300 296 655",
       "id": 165,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-08-23T12:13:57.000435",
+    "generated_at": "2025-08-24T12:29:30.316135",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 87
@@ -638,8 +638,8 @@
       "website": "https://ozot.com.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "support@ozot.com.au",
+      "support_phone": "",
       "id": 159,
       "created_at": "2025-07-18T11:06:31Z",
       "network_details": []

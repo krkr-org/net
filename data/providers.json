@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-08-28T12:14:16.567351",
+    "generated_at": "2025-08-29T12:14:31.059578",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 87
@@ -451,8 +451,8 @@
       "website": "https://leaptel.com.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "",
+      "support_phone": "1300 205 327",
       "id": 85,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []

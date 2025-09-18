@@ -91,10 +91,10 @@ async function loadDealsFromJSON() {
     try {
         const response = await fetch(`${DATA_BASE_PATH}deals.json?v=${Date.now()}`);
         if (!response.ok) throw new Error('Failed to load deals data');
-        
+
         const data = await response.json();
         allDeals = data.data || data; // Handle both wrapped and unwrapped formats
-        
+
         // Calculate total savings and promo price for each deal if not provided
         allDeals.forEach(deal => {
             if (!deal.total_savings && deal.promo_value) {
@@ -104,7 +104,10 @@ async function loadDealsFromJSON() {
                 deal.promo_price = calculatePromoPrice(deal);
             }
         });
-        
+
+        // Populate speed filter with actual speeds from data
+        populateSpeedFilter();
+
         console.log(`Loaded ${allDeals.length} deals from JSON`);
     } catch (error) {
         console.error('Error loading deals:', error);
@@ -363,6 +366,28 @@ function populateProviderFilter() {
 
     // Add event listeners for multi-select
     setupMultiSelectEvents();
+}
+
+// Populate speed filter dropdown with actual speeds from data
+function populateSpeedFilter() {
+    // Extract unique download speeds from all deals
+    const speeds = [...new Set(allDeals
+        .map(deal => deal.download_speed)
+        .filter(speed => speed && speed > 0))]
+        .sort((a, b) => a - b);
+
+    // Clear existing options except the first "All Speeds" option
+    speedFilter.innerHTML = '<option value="">All Speeds</option>';
+
+    // Add speed options
+    speeds.forEach(speed => {
+        const option = document.createElement('option');
+        option.value = speed;
+        option.textContent = `NBN ${speed}`;
+        speedFilter.appendChild(option);
+    });
+
+    console.log(`Populated speed filter with ${speeds.length} speed options:`, speeds);
 }
 
 // Setup multi-select events

@@ -94,17 +94,20 @@ async function loadPlansFromJSON() {
     try {
         const response = await fetch(`${DATA_BASE_PATH}plans.json?v=${Date.now()}`);
         if (!response.ok) throw new Error('Failed to load plans data');
-        
+
         const data = await response.json();
         allPlans = data.data || data; // Handle both wrapped and unwrapped formats
-        
+
         // Calculate promo price for each plan if not provided
         allPlans.forEach(plan => {
             if (!plan.promo_price) {
                 plan.promo_price = calculatePromoPrice(plan);
             }
         });
-        
+
+        // Populate speed filter with actual speeds from data
+        populateSpeedFilter();
+
         console.log(`Loaded ${allPlans.length} plans from JSON`);
     } catch (error) {
         console.error('Error loading plans:', error);
@@ -364,6 +367,28 @@ function populateProviderFilter() {
 
     // Add event listeners for multi-select
     setupMultiSelectEvents();
+}
+
+// Populate speed filter dropdown with actual speeds from data
+function populateSpeedFilter() {
+    // Extract unique download speeds from all plans
+    const speeds = [...new Set(allPlans
+        .map(plan => plan.download_speed)
+        .filter(speed => speed && speed > 0))]
+        .sort((a, b) => a - b);
+
+    // Clear existing options except the first "All Speeds" option
+    speedFilter.innerHTML = '<option value="">All Speeds</option>';
+
+    // Add speed options
+    speeds.forEach(speed => {
+        const option = document.createElement('option');
+        option.value = speed;
+        option.textContent = `NBN ${speed}`;
+        speedFilter.appendChild(option);
+    });
+
+    console.log(`Populated speed filter with ${speeds.length} speed options:`, speeds);
 }
 
 // Setup multi-select events

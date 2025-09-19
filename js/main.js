@@ -900,6 +900,28 @@ function formatRatingStars(rating) {
     return stars;
 }
 
+// Redistribute neutral reviews to ensure ratings always add up to 100%
+function redistributeRatings(positive, negative, neutral) {
+    if (neutral === 0) {
+        return { positive, negative };
+    }
+
+    const total = positive + negative;
+    if (total === 0) {
+        // Edge case: only neutral reviews - split 50/50
+        return { positive: 50, negative: 50 };
+    }
+
+    // Distribute neutrals proportionally between positive and negative
+    const neutralToPositive = Math.round((positive / total) * neutral);
+    const neutralToNegative = neutral - neutralToPositive;
+
+    return {
+        positive: positive + neutralToPositive,
+        negative: negative + neutralToNegative
+    };
+}
+
 // Format rating display with tooltip
 // Format percentage-based rating display (new ProductReview system)
 function formatPercentageRating(providerId, compact = false) {
@@ -908,9 +930,15 @@ function formatPercentageRating(providerId, compact = false) {
         return compact ? '' : '<span class="rating-unavailable">No rating</span>';
     }
 
-    const positive = ratingData.positive_percent;
-    const negative = ratingData.negative_percent;
+    const originalPositive = ratingData.positive_percent;
+    const originalNegative = ratingData.negative_percent;
+    const originalNeutral = ratingData.neutral_percent || 0;
     const total = ratingData.total_reviews;
+
+    // Redistribute neutral reviews to ensure 100% total
+    const redistributed = redistributeRatings(originalPositive, originalNegative, originalNeutral);
+    const positive = redistributed.positive;
+    const negative = redistributed.negative;
 
     if (compact) {
         return `

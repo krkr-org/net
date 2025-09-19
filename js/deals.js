@@ -427,7 +427,7 @@ function populateProviderFilter() {
 function populateSpeedFilter() {
     // Extract unique download speeds from all deals
     const speeds = [...new Set(allDeals
-        .map(deal => deal.download_speed)
+        .map(plan => plan.download_speed)
         .filter(speed => speed && speed > 0))]
         .sort((a, b) => a - b);
 

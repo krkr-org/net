@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2025-09-19T10:18:22.049698",
-    "total_providers_matched": 34,
-    "generator": "ProductReview API Rating System",
+    "generated_at": "2025-09-19T12:03:33.221103",
+    "total_providers_matched": 46,
+    "generator": "Master Rating System (All Sources)",
     "version": "1.0"
   },
   "ratings": {
@@ -14,7 +14,7 @@
       "neutral_percent": 1,
       "total_reviews": 14404,
       "average_rating": 4.5,
-      "last_updated": "2025-09-19T10:18:22.022706"
+      "last_updated": "2025-09-19T11:40:53.018878"
     },
     "20": {
       "name": "AUSSIE BROADBAND",
@@ -24,7 +24,7 @@
       "neutral_percent": 2,
       "total_reviews": 9611,
       "average_rating": 4.5,
-      "last_updated": "2025-09-19T10:18:22.022737"
+      "last_updated": "2025-09-19T11:40:53.018908"
     },
     "126": {
       "name": "SUPERLOOP",
@@ -34,7 +34,7 @@
       "neutral_percent": 1,
       "total_reviews": 6354,
       "average_rating": 4.5,
-      "last_updated": "2025-09-19T10:18:22.022794"
+      "last_updated": "2025-09-19T11:40:53.018963"
     },
     "128": {
       "name": "SWOOP",
@@ -44,7 +44,7 @@
       "neutral_percent": 1,
       "total_reviews": 2603,
       "average_rating": 4.8,
-      "last_updated": "2025-09-19T10:18:22.022852"
+      "last_updated": "2025-09-19T11:40:53.019021"
     },
     "84": {
       "name": "LAUNTEL",
@@ -54,7 +54,7 @@
       "neutral_percent": 1,
       "total_reviews": 1746,
       "average_rating": 4.9,
-      "last_updated": "2025-09-19T10:18:22.022889"
+      "last_updated": "2025-09-19T11:40:53.019057"
     },
     "130": {
       "name": "TANGERINE TELECOM",
@@ -64,7 +64,7 @@
       "neutral_percent": 2,
       "total_reviews": 8678,
       "average_rating": 4.2,
-      "last_updated": "2025-09-19T10:18:22.022945"
+      "last_updated": "2025-09-19T11:40:53.019113"
     },
     "90": {
       "name": "MATE",
@@ -74,7 +74,7 @@
       "neutral_percent": 4,
       "total_reviews": 3671,
       "average_rating": 4,
-      "last_updated": "2025-09-19T10:18:22.023857"
+      "last_updated": "2025-09-19T11:40:53.020019"
     },
     "83": {
       "name": "KOGAN",
@@ -84,7 +84,7 @@
       "neutral_percent": 3,
       "total_reviews": 2547,
       "average_rating": 4.2,
-      "last_updated": "2025-09-19T10:18:22.024265"
+      "last_updated": "2025-09-19T11:40:53.020415"
     },
     "97": {
       "name": "MORE",
@@ -94,7 +94,7 @@
       "neutral_percent": 2,
       "total_reviews": 1663,
       "average_rating": 4.2,
-      "last_updated": "2025-09-19T10:18:22.024308"
+      "last_updated": "2025-09-19T11:40:53.020458"
     },
     "108": {
       "name": "OCCOM",
@@ -104,7 +104,7 @@
       "neutral_percent": 1,
       "total_reviews": 751,
       "average_rating": 4.5,
-      "last_updated": "2025-09-19T10:18:22.024353"
+      "last_updated": "2025-09-19T11:40:53.020504"
     },
     "48": {
       "name": "DODO",
@@ -114,7 +114,7 @@
       "neutral_percent": 6,
       "total_reviews": 6131,
       "average_rating": 3.6,
-      "last_updated": "2025-09-19T10:18:22.026470"
+      "last_updated": "2025-09-19T11:40:53.022684"
     },
     "57": {
       "name": "FLIP",
@@ -124,7 +124,7 @@
       "neutral_percent": 4,
       "total_reviews": 1813,
       "average_rating": 3.9,
-      "last_updated": "2025-09-19T10:18:22.026500"
+      "last_updated": "2025-09-19T11:40:53.022710"
     },
     "85": {
       "name": "LEAPTEL",
@@ -134,7 +134,7 @@
       "neutral_percent": 1,
       "total_reviews": 363,
       "average_rating": 4.5,
-      "last_updated": "2025-09-19T10:18:22.027510"
+      "last_updated": "2025-09-19T11:40:53.024250"
     },
     "72": {
       "name": "IINET",
@@ -144,7 +144,7 @@
       "neutral_percent": 4,
       "total_reviews": 9611,
       "average_rating": 3.1,
-      "last_updated": "2025-09-19T10:18:22.027549"
+      "last_updated": "2025-09-19T11:40:53.024299"
     },
     "96": {
       "name": "MOOSE MOBILE",
@@ -154,7 +154,7 @@
       "neutral_percent": 1,
       "total_reviews": 124,
       "average_rating": 4.4,
-      "last_updated": "2025-09-19T10:18:22.029003"
+      "last_updated": "2025-09-19T11:40:53.025884"
     },
     "65": {
       "name": "GOODTEL",
@@ -164,7 +164,7 @@
       "neutral_percent": 2,
       "total_reviews": 70,
       "average_rating": 4.7,
-      "last_updated": "2025-09-19T10:18:22.029034"
+      "last_updated": "2025-09-19T11:40:53.025921"
     },
     "53": {
       "name": "EXETEL",
@@ -174,7 +174,7 @@
       "neutral_percent": 3,
       "total_reviews": 2496,
       "average_rating": 3.1,
-      "last_updated": "2025-09-19T10:18:22.029925"
+      "last_updated": "2025-09-19T11:40:53.026861"
     },
     "120": {
       "name": "SKYMESH",
@@ -184,7 +184,7 @@
       "neutral_percent": 4,
       "total_reviews": 1624,
       "average_rating": 3.2,
-      "last_updated": "2025-09-19T10:18:22.031160"
+      "last_updated": "2025-09-19T11:40:53.027793"
     },
     "60": {
       "name": "FUTURE BROADBAND",
@@ -194,7 +194,7 @@
       "neutral_percent": 0,
       "total_reviews": 50,
       "average_rating": 4.9,
-      "last_updated": "2025-09-19T10:18:22.031212"
+      "last_updated": "2025-09-19T11:40:53.027820"
     },
     "153": {
       "name": "NEPTUNE",
@@ -204,7 +204,7 @@
       "neutral_percent": 0,
       "total_reviews": 43,
       "average_rating": 5,
-      "last_updated": "2025-09-19T10:18:22.031279"
+      "last_updated": "2025-09-19T11:40:53.027864"
     },
     "113": {
       "name": "PENTANET",
@@ -214,7 +214,7 @@
       "neutral_percent": 1,
       "total_reviews": 194,
       "average_rating": 4,
-      "last_updated": "2025-09-19T10:18:22.032407"
+      "last_updated": "2025-09-19T11:40:53.029016"
     },
     "32": {
       "name": "BUDDY TELCO",
@@ -224,7 +224,7 @@
       "neutral_percent": 2,
       "total_reviews": 87,
       "average_rating": 4.3,
-      "last_updated": "2025-09-19T10:18:22.032426"
+      "last_updated": "2025-09-19T11:40:53.029033"
     },
     "88": {
       "name": "LIZZY INTERNET",
@@ -234,7 +234,7 @@
       "neutral_percent": 0,
       "total_reviews": 46,
       "average_rating": 4.6,
-      "last_updated": "2025-09-19T10:18:22.032464"
+      "last_updated": "2025-09-19T11:40:53.029070"
     },
     "15": {
       "name": "AQUA MOBILE",
@@ -244,17 +244,25 @@
       "neutral_percent": 3,
       "total_reviews": 31,
       "average_rating": 4.6,
-      "last_updated": "2025-09-19T10:18:22.035791"
+      "last_updated": "2025-09-19T11:40:53.032738"
     },
     "6": {
       "name": "ACTIV8ME",
-      "api_name": "Activ8me",
+      "api_name": "ACTIV8ME",
       "positive_percent": 48,
       "negative_percent": 49,
       "neutral_percent": 3,
       "total_reviews": 810,
       "average_rating": 2.9,
-      "last_updated": "2025-09-19T10:18:22.037749"
+      "last_updated": "2025-09-19T12:03:20.689810",
+      "capture_method": "tree_endpoint_json",
+      "raw_distribution": [
+        354,
+        40,
+        24,
+        106,
+        286
+      ]
     },
     "77": {
       "name": "IPRIMUS - 1300 FIBRE 1",
@@ -264,7 +272,7 @@
       "neutral_percent": 3,
       "total_reviews": 1447,
       "average_rating": 2.7,
-      "last_updated": "2025-09-19T10:18:22.038628"
+      "last_updated": "2025-09-19T11:40:53.035688"
     },
     "159": {
       "name": "OZOT",
@@ -274,7 +282,7 @@
       "neutral_percent": 0,
       "total_reviews": 18,
       "average_rating": 4.7,
-      "last_updated": "2025-09-19T10:18:22.038688"
+      "last_updated": "2025-09-19T11:40:53.035748"
     },
     "157": {
       "name": "ELEVATE",
@@ -284,7 +292,7 @@
       "neutral_percent": 0,
       "total_reviews": 11,
       "average_rating": 4.4,
-      "last_updated": "2025-09-19T10:18:22.042153"
+      "last_updated": "2025-09-19T11:40:53.040461"
     },
     "160": {
       "name": "SOLITARY TECHNOLOGY",
@@ -294,7 +302,7 @@
       "neutral_percent": 0,
       "total_reviews": 11,
       "average_rating": 4.3,
-      "last_updated": "2025-09-19T10:18:22.043114"
+      "last_updated": "2025-09-19T11:40:53.041484"
     },
     "101": {
       "name": "MYOWN TEL",
@@ -304,7 +312,7 @@
       "neutral_percent": 4,
       "total_reviews": 22,
       "average_rating": 3.6,
-      "last_updated": "2025-09-19T10:18:22.043165"
+      "last_updated": "2025-09-19T11:40:53.041535"
     },
     "138": {
       "name": "TPG",
@@ -314,7 +322,7 @@
       "neutral_percent": 3,
       "total_reviews": 4985,
       "average_rating": 1.8,
-      "last_updated": "2025-09-19T10:18:22.045312"
+      "last_updated": "2025-09-19T11:40:53.043525"
     },
     "74": {
       "name": "INSPIRED BROADBAND",
@@ -324,7 +332,7 @@
       "neutral_percent": 0,
       "total_reviews": 64,
       "average_rating": 2.9,
-      "last_updated": "2025-09-19T10:18:22.045350"
+      "last_updated": "2025-09-19T11:40:53.043560"
     },
     "146": {
       "name": "VODAFONE",
@@ -334,7 +342,7 @@
       "neutral_percent": 6,
       "total_reviews": 535,
       "average_rating": 2.1,
-      "last_updated": "2025-09-19T10:18:22.046282"
+      "last_updated": "2025-09-19T11:40:53.044459"
     },
     "27": {
       "name": "BELONG",
@@ -344,7 +352,223 @@
       "neutral_percent": 2,
       "total_reviews": 3979,
       "average_rating": 1.7,
-      "last_updated": "2025-09-19T10:18:22.047019"
+      "last_updated": "2025-09-19T11:40:53.045213"
+    },
+    "10": {
+      "name": "AGL TELECOMMUNICATIONS",
+      "api_name": "AGL TELECOMMUNICATIONS",
+      "positive_percent": 17,
+      "negative_percent": 79,
+      "neutral_percent": 4,
+      "total_reviews": 616,
+      "average_rating": 1.8,
+      "last_updated": "2025-09-19T12:03:20.689022",
+      "capture_method": "tree_endpoint_json",
+      "raw_distribution": [
+        458,
+        31,
+        23,
+        28,
+        76
+      ]
+    },
+    "133": {
+      "name": "TELSTRA",
+      "api_name": "TELSTRA",
+      "positive_percent": 14,
+      "negative_percent": 81,
+      "neutral_percent": 5,
+      "total_reviews": 2190,
+      "average_rating": 1.7,
+      "last_updated": "2025-09-19T12:03:20.689179",
+      "capture_method": "tree_endpoint_json",
+      "raw_distribution": [
+        1636,
+        126,
+        119,
+        146,
+        163
+      ]
+    },
+    "110": {
+      "name": "OPTUS",
+      "api_name": "OPTUS",
+      "positive_percent": 10,
+      "negative_percent": 86,
+      "neutral_percent": 4,
+      "total_reviews": 2447,
+      "average_rating": 1.5,
+      "last_updated": "2025-09-19T12:03:20.689277",
+      "capture_method": "tree_endpoint_json",
+      "raw_distribution": [
+        1934,
+        158,
+        109,
+        117,
+        129
+      ]
+    },
+    "121": {
+      "name": "SOUTHERN PHONE",
+      "api_name": "SOUTHERN PHONE",
+      "positive_percent": 14,
+      "negative_percent": 84,
+      "neutral_percent": 2,
+      "total_reviews": 1253,
+      "average_rating": 1.6,
+      "last_updated": "2025-09-19T12:03:20.689376",
+      "capture_method": "tree_endpoint_json",
+      "raw_distribution": [
+        982,
+        70,
+        28,
+        65,
+        108
+      ]
+    },
+    "37": {
+      "name": "CARBON COMMS",
+      "api_name": "CARBON COMMS",
+      "positive_percent": 100,
+      "negative_percent": 0,
+      "neutral_percent": 0,
+      "total_reviews": 1,
+      "average_rating": 5,
+      "last_updated": "2025-09-19T12:03:20.689421",
+      "capture_method": "tree_endpoint_json",
+      "raw_distribution": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "125": {
+      "name": "SUMO",
+      "api_name": "SUMO",
+      "positive_percent": 3,
+      "negative_percent": 95,
+      "neutral_percent": 2,
+      "total_reviews": 108,
+      "average_rating": 1.2,
+      "last_updated": "2025-09-19T12:03:20.689474",
+      "capture_method": "tree_endpoint_json",
+      "raw_distribution": [
+        101,
+        2,
+        2,
+        0,
+        3
+      ]
+    },
+    "162": {
+      "name": "YOMOJO",
+      "api_name": "YOMOJO",
+      "positive_percent": 76,
+      "negative_percent": 20,
+      "neutral_percent": 4,
+      "total_reviews": 501,
+      "average_rating": 4,
+      "last_updated": "2025-09-19T12:03:20.689513",
+      "capture_method": "tree_endpoint_json",
+      "raw_distribution": [
+        86,
+        17,
+        19,
+        67,
+        312
+      ]
+    },
+    "14": {
+      "name": "ANT",
+      "api_name": "ANT",
+      "positive_percent": 34,
+      "negative_percent": 63,
+      "neutral_percent": 3,
+      "total_reviews": 35,
+      "average_rating": 2.6,
+      "last_updated": "2025-09-19T12:03:20.689596",
+      "capture_method": "tree_endpoint_json",
+      "raw_distribution": [
+        16,
+        6,
+        1,
+        1,
+        11
+      ]
+    },
+    "42": {
+      "name": "CMOBILE",
+      "api_name": "CMOBILE",
+      "positive_percent": 91,
+      "negative_percent": 7,
+      "neutral_percent": 2,
+      "total_reviews": 304,
+      "average_rating": 4.6,
+      "last_updated": "2025-09-19T12:03:20.689635",
+      "capture_method": "tree_endpoint_json",
+      "raw_distribution": [
+        13,
+        8,
+        6,
+        35,
+        242
+      ]
+    },
+    "52": {
+      "name": "ESCAPENET",
+      "api_name": "ESCAPENET",
+      "positive_percent": 31,
+      "negative_percent": 69,
+      "neutral_percent": 0,
+      "total_reviews": 16,
+      "average_rating": 2.4,
+      "last_updated": "2025-09-19T12:03:20.689688",
+      "capture_method": "tree_endpoint_json",
+      "raw_distribution": [
+        8,
+        3,
+        0,
+        1,
+        4
+      ]
+    },
+    "155": {
+      "name": "TELSIM",
+      "api_name": "TELSIM",
+      "positive_percent": 13,
+      "negative_percent": 87,
+      "neutral_percent": 0,
+      "total_reviews": 88,
+      "average_rating": 1.5,
+      "last_updated": "2025-09-19T12:03:20.689726",
+      "capture_method": "tree_endpoint_json",
+      "raw_distribution": [
+        73,
+        4,
+        0,
+        0,
+        11
+      ]
+    },
+    "158": {
+      "name": "MAXO TELECOMMUNICATIONS",
+      "api_name": "MAXO TELECOMMUNICATIONS",
+      "positive_percent": 94,
+      "negative_percent": 6,
+      "neutral_percent": 0,
+      "total_reviews": 16,
+      "average_rating": 4.8,
+      "last_updated": "2025-09-19T12:03:20.689848",
+      "capture_method": "tree_endpoint_json",
+      "raw_distribution": [
+        1,
+        0,
+        0,
+        0,
+        15
+      ]
     }
   }
 }

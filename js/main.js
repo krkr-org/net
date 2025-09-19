@@ -6,6 +6,7 @@ const DATA_BASE_PATH = 'data/';
 let allPlans = []; // Store all plans for client-side filtering
 let currentPlans = [];
 let allProviders = [];
+let allRatings = {}; // Store provider ratings data
 let selectedProviders = [];
 let currentPage = 1;
 let pageSize = 20;
@@ -54,10 +55,11 @@ async function loadStaticData() {
     try {
         showLoading();
         
-        // Load providers and plans
+        // Load providers, plans, and ratings
         await Promise.all([
             loadProvidersFromJSON(),
-            loadPlansFromJSON()
+            loadPlansFromJSON(),
+            loadRatingsFromJSON()
         ]);
         
         // Apply initial filters and render
@@ -77,12 +79,14 @@ async function loadProvidersFromJSON() {
     try {
         const response = await fetch(`${DATA_BASE_PATH}providers.json?v=${Date.now()}`);
         if (!response.ok) throw new Error('Failed to load providers data');
-        
+
         const data = await response.json();
         allProviders = data.data || data; // Handle both wrapped and unwrapped formats
         populateProviderFilter();
-        
-        console.log(`Loaded ${allProviders.length} providers from JSON`);
+
+        // Log rating statistics
+        const providersWithRatings = allProviders.filter(p => p.review_data && p.review_data.rating);
+        console.log(`Loaded ${allProviders.length} providers from JSON (${providersWithRatings.length} with ratings)`);
     } catch (error) {
         console.error('Error loading providers:', error);
         throw error;
@@ -112,6 +116,25 @@ async function loadPlansFromJSON() {
     } catch (error) {
         console.error('Error loading plans:', error);
         throw error;
+    }
+}
+
+// Load ratings from JSON
+async function loadRatingsFromJSON() {
+    try {
+        const response = await fetch(`${DATA_BASE_PATH}ratings.json?v=${Date.now()}`);
+        if (!response.ok) {
+            console.warn('⚠️ Ratings data not available - continuing without ratings');
+            allRatings = {};
+            return;
+        }
+        const data = await response.json();
+        allRatings = data.ratings || {}; // Handle wrapped format
+        const ratingsCount = Object.keys(allRatings).length;
+        console.log(`✅ Loaded ratings for ${ratingsCount} providers`);
+    } catch (error) {
+        console.warn('⚠️ Error loading ratings (continuing without ratings):', error);
+        allRatings = {};
     }
 }
 
@@ -358,6 +381,7 @@ function populateProviderFilter() {
         option.className = 'multi-select-option';
         option.setAttribute('for', `provider-${provider.id}`);
         option.setAttribute('data-provider-name', provider.name.toLowerCase());
+
         option.innerHTML = `
             <input type="checkbox" id="provider-${provider.id}" value="${provider.id}">
             <span>${provider.name}</span>
@@ -514,8 +538,24 @@ function getTotalPages() {
 // Sort plans array
 function sortPlansArray(plans) {
     plans.sort((a, b) => {
-        let aValue = a[sortColumn];
-        let bValue = b[sortColumn];
+        let aValue, bValue;
+
+        // Special handling for provider_rating column
+        if (sortColumn === 'provider_rating') {
+            const aProvider = getProviderById(a.provider_id);
+            const bProvider = getProviderById(b.provider_id);
+
+            // Get rating values (prefer NBN-specific rating)
+            aValue = (aProvider && aProvider.review_data)
+                ? (aProvider.review_data.nbn_rating || aProvider.review_data.rating || 0)
+                : 0;
+            bValue = (bProvider && bProvider.review_data)
+                ? (bProvider.review_data.nbn_rating || bProvider.review_data.rating || 0)
+                : 0;
+        } else {
+            aValue = a[sortColumn];
+            bValue = b[sortColumn];
+        }
 
         // Handle null/undefined values
         if (aValue === null || aValue === undefined) aValue = sortDirection === 'asc' ? Infinity : -Infinity;
@@ -666,8 +706,12 @@ function createPlanCard(plan) {
     const hasPromo = plan.promo_value && plan.promo_type;
     const promoPrice = plan.promo_price || calculatePromoPrice(plan);
 
-    // Create provider cell with link if website is available
-    const providerLink = plan.provider_website
+    // Get provider data for rating
+    const provider = getProviderById(plan.provider_id);
+    const hasRating = provider && provider.review_data && (provider.review_data.rating || provider.review_data.nbn_rating);
+
+    // Create provider cell with link (rating will be in separate card detail)
+    const providerContent = plan.provider_website
         ? `<a href="${plan.provider_website}" target="_blank" rel="noopener noreferrer" class="plan-card-provider">${plan.provider_name || 'Unknown'}</a>`
         : `<div class="plan-card-provider">${plan.provider_name || 'Unknown'}</div>`;
 
@@ -676,18 +720,18 @@ function createPlanCard(plan) {
         ? `<span class="fixed-wireless-badge" title="Fixed Wireless NBN">Fixed Wireless</span>`
         : '';
 
-    const promoContent = hasPromo 
+    const promoContent = hasPromo
         ? `<div class="plan-card-promo">${formatPromotion(plan)}</div>`
         : '';
 
-    const promoPriceDisplay = hasPromo 
+    const promoPriceDisplay = hasPromo
         ? `<div class="plan-card-promo-price">Promo: $${promoPrice.toFixed(2)}/mo</div>`
         : '';
 
     return `
         <div class="plan-card">
             <div class="plan-card-header">
-                ${providerLink}
+                ${providerContent}
                 <div class="plan-card-price">
                     $${plan.monthly_price.toFixed(2)}/mo
                     ${promoPriceDisplay}
@@ -700,6 +744,10 @@ function createPlanCard(plan) {
                 <div class="plan-card-detail">
                     <div class="plan-card-detail-label">Speed</div>
                     <div class="plan-card-detail-value">${formatSpeed(plan)}</div>
+                </div>
+                <div class="plan-card-detail">
+                    <div class="plan-card-detail-label">Rating</div>
+                    <div class="plan-card-detail-value">${formatPercentageRating(plan.provider_id, true) || (hasRating ? formatRatingDisplay(provider.review_data, true) : '<span class="rating-unavailable">No rating</span>')}</div>
                 </div>
                 <div class="plan-card-detail">
                     <div class="plan-card-detail-label">Contract</div>
@@ -716,10 +764,14 @@ function createPlanRow(plan) {
     const hasPromo = plan.promo_value && plan.promo_type;
     const promoPrice = plan.promo_price || calculatePromoPrice(plan);
 
-    // Create provider cell with link if website is available
-    const providerCell = plan.provider_website
+    // Get provider data for rating
+    const provider = getProviderById(plan.provider_id);
+    const hasRating = provider && provider.review_data && (provider.review_data.rating || provider.review_data.nbn_rating);
+
+    // Create provider cell with link (no rating here since it has its own column)
+    const providerContent = plan.provider_website
         ? `<a href="${plan.provider_website}" target="_blank" rel="noopener noreferrer" class="provider-link">${plan.provider_name || 'Unknown'}</a>`
-        : (plan.provider_name || 'Unknown');
+        : `<span class="provider-name">${plan.provider_name || 'Unknown'}</span>`;
 
     // Create fixed wireless indicator if applicable
     const fixedWirelessIcon = plan.fixed_wireless
@@ -728,9 +780,14 @@ function createPlanRow(plan) {
 
     const planNameCell = `${plan.plan_name}${fixedWirelessIcon}`;
 
+    // Create rating cell content (prefer new percentage system)
+    const ratingContent = formatPercentageRating(plan.provider_id, false) ||
+        (hasRating ? formatRatingDisplay(provider.review_data, false) : '<span class="rating-unavailable">No rating</span>');
+
     return `
         <tr>
-            <td class="provider-cell">${providerCell}</td>
+            <td class="provider-cell">${providerContent}</td>
+            <td class="rating-cell">${ratingContent}</td>
             <td class="plan-cell" title="${plan.plan_name}">${planNameCell}</td>
             <td class="speed-cell">${formatSpeed(plan)}</td>
             <td class="price-cell">$${plan.monthly_price.toFixed(2)}</td>
@@ -808,4 +865,102 @@ function formatCurrency(amount) {
         style: 'currency',
         currency: 'AUD'
     }).format(amount);
+}
+
+// Get provider by plan's provider_id
+function getProviderById(providerId) {
+    return allProviders.find(provider => provider.id == providerId);
+}
+
+// Format rating stars display
+function formatRatingStars(rating) {
+    if (!rating || rating < 1 || rating > 5) return '';
+
+    const fullStars = Math.floor(rating);
+    const hasHalfStar = rating % 1 >= 0.5;
+    const emptyStars = 5 - fullStars - (hasHalfStar ? 1 : 0);
+
+    let stars = '';
+
+    // Full stars
+    for (let i = 0; i < fullStars; i++) {
+        stars += '★';
+    }
+
+    // Half star
+    if (hasHalfStar) {
+        stars += '☆';
+    }
+
+    // Empty stars
+    for (let i = 0; i < emptyStars; i++) {
+        stars += '☆';
+    }
+
+    return stars;
+}
+
+// Format rating display with tooltip
+// Format percentage-based rating display (new ProductReview system)
+function formatPercentageRating(providerId, compact = false) {
+    const ratingData = allRatings[providerId];
+    if (!ratingData) {
+        return compact ? '' : '<span class="rating-unavailable">No rating</span>';
+    }
+
+    const positive = ratingData.positive_percent;
+    const negative = ratingData.negative_percent;
+    const total = ratingData.total_reviews;
+
+    if (compact) {
+        return `
+            <div class="rating-percentage-compact">
+                <span class="positive">${positive}%</span>
+                <span class="negative">${negative}%</span>
+            </div>
+        `;
+    } else {
+        return `
+            <div class="rating-percentage">
+                <div class="rating-percentage-row">
+                    <span class="positive">${positive}% POSITIVE</span>
+                    <span class="negative">${negative}% NEGATIVE</span>
+                </div>
+                <div class="rating-count">${total.toLocaleString()} reviews</div>
+            </div>
+        `;
+    }
+}
+
+// Legacy star rating display (fallback for providers without percentage data)
+function formatRatingDisplay(reviewData, compact = false) {
+    if (!reviewData || (!reviewData.rating && !reviewData.nbn_rating)) {
+        return compact ? '' : '<span class="rating-unavailable">No rating</span>';
+    }
+
+    // Prefer NBN-specific rating if available
+    const rating = reviewData.nbn_rating || reviewData.rating;
+    const reviewCount = reviewData.nbn_review_count || reviewData.review_count;
+    const ratingType = reviewData.nbn_rating ? 'NBN' : 'General';
+
+    if (!rating) return compact ? '' : '<span class="rating-unavailable">No rating</span>';
+
+    const stars = formatRatingStars(rating);
+    const ratingText = rating.toFixed(1);
+    const countText = reviewCount ? ` (${reviewCount} reviews)` : '';
+
+    // Build tooltip content
+    const tooltipContent = `${ratingType} Rating: ${ratingText}/5${countText}`;
+
+    if (compact) {
+        return `<span class="rating-compact" title="${tooltipContent}">${stars}</span>`;
+    } else {
+        return `
+            <div class="rating-display" title="${tooltipContent}">
+                <span class="rating-stars">${stars}</span>
+                <span class="rating-value">${ratingText}</span>
+                ${reviewCount ? `<span class="rating-count">(${reviewCount})</span>` : ''}
+            </div>
+        `;
+    }
 }

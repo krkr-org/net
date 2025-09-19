@@ -941,3 +941,178 @@ body {
         gap: 10px;
     }
 }
+
+/* Rating Column Styles */
+.rating-cell {
+    width: 120px;
+    min-width: 120px;
+    text-align: center;
+    padding: 8px 4px;
+}
+
+/* Rating Styles */
+.rating-display {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    margin-top: 2px;
+}
+
+.rating-stars {
+    color: #f59e0b;
+    font-size: 14px;
+    line-height: 1;
+    letter-spacing: 1px;
+}
+
+.rating-value {
+    font-size: 12px;
+    color: #4b5563;
+    font-weight: 600;
+}
+
+.rating-count {
+    font-size: 11px;
+    color: #6b7280;
+    font-weight: 400;
+}
+
+.rating-compact {
+    color: #f59e0b;
+    font-size: 12px;
+    line-height: 1;
+    letter-spacing: 0.5px;
+    cursor: help;
+}
+
+.rating-unavailable {
+    font-size: 11px;
+    color: #9ca3af;
+    font-style: italic;
+}
+
+/* Provider Cell (no special rating styling needed) */
+.provider-cell {
+    padding: 8px;
+}
+
+/* Ensure rating tooltips work well */
+.rating-compact,
+.rating-display {
+    cursor: help;
+}
+
+/* Rating animation on hover */
+.rating-stars:hover,
+.rating-compact:hover {
+    transform: scale(1.05);
+    transition: transform 0.1s ease;
+}
+
+/* Responsive rating adjustments */
+@media (max-width: 768px) {
+    .rating-stars {
+        font-size: 12px;
+    }
+
+    .rating-value {
+        font-size: 11px;
+    }
+
+    .rating-count {
+        font-size: 10px;
+    }
+
+    .rating-compact {
+        font-size: 11px;
+    }
+
+    .rating-cell {
+        width: 100px;
+        min-width: 100px;
+    }
+}
+
+@media (max-width: 480px) {
+    .rating-stars {
+        font-size: 11px;
+    }
+
+    .rating-value {
+        font-size: 10px;
+    }
+
+    .rating-compact {
+        font-size: 10px;
+    }
+
+    .rating-cell {
+        width: 90px;
+        min-width: 90px;
+        font-size: 12px;
+    }
+}
+
+/* Percentage Rating Styles (ProductReview API) */
+.rating-percentage {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.rating-percentage-row {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.rating-percentage .positive {
+    color: #16a34a;
+    font-weight: bold;
+}
+
+.rating-percentage .negative {
+    color: #dc2626;
+    font-weight: bold;
+}
+
+.rating-percentage .rating-count {
+    color: #6b7280;
+    font-size: 11px;
+    font-weight: normal;
+}
+
+/* Compact version for mobile cards */
+.rating-percentage-compact {
+    display: flex;
+    gap: 6px;
+    font-size: 11px;
+    font-weight: 600;
+}
+
+.rating-percentage-compact .positive {
+    color: #16a34a;
+}
+
+.rating-percentage-compact .negative {
+    color: #dc2626;
+}
+
+/* Mobile responsive adjustments */
+@media (max-width: 480px) {
+    .rating-percentage-row {
+        font-size: 11px;
+        gap: 6px;
+    }
+
+    .rating-percentage .rating-count {
+        font-size: 10px;
+    }
+
+    .rating-percentage-compact {
+        font-size: 10px;
+        gap: 4px;
+    }
+}

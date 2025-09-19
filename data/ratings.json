@@ -1,0 +1,350 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-19T10:18:22.049698",
+    "total_providers_matched": 34,
+    "generator": "ProductReview API Rating System",
+    "version": "1.0"
+  },
+  "ratings": {
+    "122": {
+      "name": "SPINTEL",
+      "api_name": "SpinTel",
+      "positive_percent": 89,
+      "negative_percent": 10,
+      "neutral_percent": 1,
+      "total_reviews": 14404,
+      "average_rating": 4.5,
+      "last_updated": "2025-09-19T10:18:22.022706"
+    },
+    "20": {
+      "name": "AUSSIE BROADBAND",
+      "api_name": "Aussie Broadband",
+      "positive_percent": 87,
+      "negative_percent": 11,
+      "neutral_percent": 2,
+      "total_reviews": 9611,
+      "average_rating": 4.5,
+      "last_updated": "2025-09-19T10:18:22.022737"
+    },
+    "126": {
+      "name": "SUPERLOOP",
+      "api_name": "Superloop",
+      "positive_percent": 87,
+      "negative_percent": 12,
+      "neutral_percent": 1,
+      "total_reviews": 6354,
+      "average_rating": 4.5,
+      "last_updated": "2025-09-19T10:18:22.022794"
+    },
+    "128": {
+      "name": "SWOOP",
+      "api_name": "Swoop",
+      "positive_percent": 95,
+      "negative_percent": 4,
+      "neutral_percent": 1,
+      "total_reviews": 2603,
+      "average_rating": 4.8,
+      "last_updated": "2025-09-19T10:18:22.022852"
+    },
+    "84": {
+      "name": "LAUNTEL",
+      "api_name": "Launtel",
+      "positive_percent": 98,
+      "negative_percent": 1,
+      "neutral_percent": 1,
+      "total_reviews": 1746,
+      "average_rating": 4.9,
+      "last_updated": "2025-09-19T10:18:22.022889"
+    },
+    "130": {
+      "name": "TANGERINE TELECOM",
+      "api_name": "Tangerine Telecom",
+      "positive_percent": 81,
+      "negative_percent": 17,
+      "neutral_percent": 2,
+      "total_reviews": 8678,
+      "average_rating": 4.2,
+      "last_updated": "2025-09-19T10:18:22.022945"
+    },
+    "90": {
+      "name": "MATE",
+      "api_name": "MATE",
+      "positive_percent": 75,
+      "negative_percent": 21,
+      "neutral_percent": 4,
+      "total_reviews": 3671,
+      "average_rating": 4,
+      "last_updated": "2025-09-19T10:18:22.023857"
+    },
+    "83": {
+      "name": "KOGAN",
+      "api_name": "Kogan",
+      "positive_percent": 80,
+      "negative_percent": 17,
+      "neutral_percent": 3,
+      "total_reviews": 2547,
+      "average_rating": 4.2,
+      "last_updated": "2025-09-19T10:18:22.024265"
+    },
+    "97": {
+      "name": "MORE",
+      "api_name": "More",
+      "positive_percent": 80,
+      "negative_percent": 18,
+      "neutral_percent": 2,
+      "total_reviews": 1663,
+      "average_rating": 4.2,
+      "last_updated": "2025-09-19T10:18:22.024308"
+    },
+    "108": {
+      "name": "OCCOM",
+      "api_name": "Occom",
+      "positive_percent": 87,
+      "negative_percent": 12,
+      "neutral_percent": 1,
+      "total_reviews": 751,
+      "average_rating": 4.5,
+      "last_updated": "2025-09-19T10:18:22.024353"
+    },
+    "48": {
+      "name": "DODO",
+      "api_name": "Dodo",
+      "positive_percent": 64,
+      "negative_percent": 30,
+      "neutral_percent": 6,
+      "total_reviews": 6131,
+      "average_rating": 3.6,
+      "last_updated": "2025-09-19T10:18:22.026470"
+    },
+    "57": {
+      "name": "FLIP",
+      "api_name": "Flip",
+      "positive_percent": 73,
+      "negative_percent": 23,
+      "neutral_percent": 4,
+      "total_reviews": 1813,
+      "average_rating": 3.9,
+      "last_updated": "2025-09-19T10:18:22.026500"
+    },
+    "85": {
+      "name": "LEAPTEL",
+      "api_name": "Leaptel",
+      "positive_percent": 88,
+      "negative_percent": 11,
+      "neutral_percent": 1,
+      "total_reviews": 363,
+      "average_rating": 4.5,
+      "last_updated": "2025-09-19T10:18:22.027510"
+    },
+    "72": {
+      "name": "IINET",
+      "api_name": "iiNet",
+      "positive_percent": 52,
+      "negative_percent": 44,
+      "neutral_percent": 4,
+      "total_reviews": 9611,
+      "average_rating": 3.1,
+      "last_updated": "2025-09-19T10:18:22.027549"
+    },
+    "96": {
+      "name": "MOOSE MOBILE",
+      "api_name": "Moose Mobile",
+      "positive_percent": 86,
+      "negative_percent": 13,
+      "neutral_percent": 1,
+      "total_reviews": 124,
+      "average_rating": 4.4,
+      "last_updated": "2025-09-19T10:18:22.029003"
+    },
+    "65": {
+      "name": "GOODTEL",
+      "api_name": "Goodtel",
+      "positive_percent": 94,
+      "negative_percent": 4,
+      "neutral_percent": 2,
+      "total_reviews": 70,
+      "average_rating": 4.7,
+      "last_updated": "2025-09-19T10:18:22.029034"
+    },
+    "53": {
+      "name": "EXETEL",
+      "api_name": "Exetel",
+      "positive_percent": 53,
+      "negative_percent": 44,
+      "neutral_percent": 3,
+      "total_reviews": 2496,
+      "average_rating": 3.1,
+      "last_updated": "2025-09-19T10:18:22.029925"
+    },
+    "120": {
+      "name": "SKYMESH",
+      "api_name": "Skymesh",
+      "positive_percent": 55,
+      "negative_percent": 41,
+      "neutral_percent": 4,
+      "total_reviews": 1624,
+      "average_rating": 3.2,
+      "last_updated": "2025-09-19T10:18:22.031160"
+    },
+    "60": {
+      "name": "FUTURE BROADBAND",
+      "api_name": "Future Broadband",
+      "positive_percent": 98,
+      "negative_percent": 2,
+      "neutral_percent": 0,
+      "total_reviews": 50,
+      "average_rating": 4.9,
+      "last_updated": "2025-09-19T10:18:22.031212"
+    },
+    "153": {
+      "name": "NEPTUNE",
+      "api_name": "Neptune Internet",
+      "positive_percent": 100,
+      "negative_percent": 0,
+      "neutral_percent": 0,
+      "total_reviews": 43,
+      "average_rating": 5,
+      "last_updated": "2025-09-19T10:18:22.031279"
+    },
+    "113": {
+      "name": "PENTANET",
+      "api_name": "Pentanet",
+      "positive_percent": 74,
+      "negative_percent": 25,
+      "neutral_percent": 1,
+      "total_reviews": 194,
+      "average_rating": 4,
+      "last_updated": "2025-09-19T10:18:22.032407"
+    },
+    "32": {
+      "name": "BUDDY TELCO",
+      "api_name": "Buddy Telco",
+      "positive_percent": 82,
+      "negative_percent": 16,
+      "neutral_percent": 2,
+      "total_reviews": 87,
+      "average_rating": 4.3,
+      "last_updated": "2025-09-19T10:18:22.032426"
+    },
+    "88": {
+      "name": "LIZZY INTERNET",
+      "api_name": "Lizzy",
+      "positive_percent": 91,
+      "negative_percent": 9,
+      "neutral_percent": 0,
+      "total_reviews": 46,
+      "average_rating": 4.6,
+      "last_updated": "2025-09-19T10:18:22.032464"
+    },
+    "15": {
+      "name": "AQUA MOBILE",
+      "api_name": "Aqua Mobile",
+      "positive_percent": 90,
+      "negative_percent": 7,
+      "neutral_percent": 3,
+      "total_reviews": 31,
+      "average_rating": 4.6,
+      "last_updated": "2025-09-19T10:18:22.035791"
+    },
+    "6": {
+      "name": "ACTIV8ME",
+      "api_name": "Activ8me",
+      "positive_percent": 48,
+      "negative_percent": 49,
+      "neutral_percent": 3,
+      "total_reviews": 810,
+      "average_rating": 2.9,
+      "last_updated": "2025-09-19T10:18:22.037749"
+    },
+    "77": {
+      "name": "IPRIMUS - 1300 FIBRE 1",
+      "api_name": "iPrimus",
+      "positive_percent": 41,
+      "negative_percent": 56,
+      "neutral_percent": 3,
+      "total_reviews": 1447,
+      "average_rating": 2.7,
+      "last_updated": "2025-09-19T10:18:22.038628"
+    },
+    "159": {
+      "name": "OZOT",
+      "api_name": "Ozot Gaming Internet",
+      "positive_percent": 94,
+      "negative_percent": 6,
+      "neutral_percent": 0,
+      "total_reviews": 18,
+      "average_rating": 4.7,
+      "last_updated": "2025-09-19T10:18:22.038688"
+    },
+    "157": {
+      "name": "ELEVATE",
+      "api_name": "Elevate Internet",
+      "positive_percent": 82,
+      "negative_percent": 18,
+      "neutral_percent": 0,
+      "total_reviews": 11,
+      "average_rating": 4.4,
+      "last_updated": "2025-09-19T10:18:22.042153"
+    },
+    "160": {
+      "name": "SOLITARY TECHNOLOGY",
+      "api_name": "Solitary Technology",
+      "positive_percent": 82,
+      "negative_percent": 18,
+      "neutral_percent": 0,
+      "total_reviews": 11,
+      "average_rating": 4.3,
+      "last_updated": "2025-09-19T10:18:22.043114"
+    },
+    "101": {
+      "name": "MYOWN TEL",
+      "api_name": "MyOwn Tel",
+      "positive_percent": 64,
+      "negative_percent": 32,
+      "neutral_percent": 4,
+      "total_reviews": 22,
+      "average_rating": 3.6,
+      "last_updated": "2025-09-19T10:18:22.043165"
+    },
+    "138": {
+      "name": "TPG",
+      "api_name": "TPG",
+      "positive_percent": 19,
+      "negative_percent": 78,
+      "neutral_percent": 3,
+      "total_reviews": 4985,
+      "average_rating": 1.8,
+      "last_updated": "2025-09-19T10:18:22.045312"
+    },
+    "74": {
+      "name": "INSPIRED BROADBAND",
+      "api_name": "Inspired Broadband",
+      "positive_percent": 50,
+      "negative_percent": 50,
+      "neutral_percent": 0,
+      "total_reviews": 64,
+      "average_rating": 2.9,
+      "last_updated": "2025-09-19T10:18:22.045350"
+    },
+    "146": {
+      "name": "VODAFONE",
+      "api_name": "Vodafone Australia",
+      "positive_percent": 24,
+      "negative_percent": 70,
+      "neutral_percent": 6,
+      "total_reviews": 535,
+      "average_rating": 2.1,
+      "last_updated": "2025-09-19T10:18:22.046282"
+    },
+    "27": {
+      "name": "BELONG",
+      "api_name": "Belong",
+      "positive_percent": 17,
+      "negative_percent": 81,
+      "neutral_percent": 2,
+      "total_reviews": 3979,
+      "average_rating": 1.7,
+      "last_updated": "2025-09-19T10:18:22.047019"
+    }
+  }
+}

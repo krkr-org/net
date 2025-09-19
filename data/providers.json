@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-09-18T12:09:19.529105",
+    "generated_at": "2025-09-19T09:19:57.913238",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 88
@@ -451,8 +451,8 @@
       "website": "https://launtel.net.au/",
       "logo_url": null,
       "active": true,
-      "support_email": "",
-      "support_phone": null,
+      "support_email": "residential@launtel.net.au",
+      "support_phone": "1800 528 683",
       "id": 84,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []

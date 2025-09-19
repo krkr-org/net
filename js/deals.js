@@ -720,7 +720,7 @@ function createPlanRow(plan) {
     const planNameCell = `${plan.plan_name}${fixedWirelessIcon}`;
 
     // Create rating cell content (prefer new percentage system)
-    const ratingContent = formatPercentageRating(deal.provider_id, false) ||
+    const ratingContent = formatPercentageRating(plan.provider_id, false) ||
         (hasRating ? formatRatingDisplay(provider.review_data, false) : '<span class="rating-unavailable">No rating</span>');
 
     return `
@@ -818,7 +818,7 @@ function createPlanCard(plan) {
                 </div>
                 <div class="plan-card-detail">
                     <div class="plan-card-detail-label">Rating</div>
-                    <div class="plan-card-detail-value">${formatPercentageRating(deal.provider_id, true) || (hasRating ? formatRatingDisplay(provider.review_data, true) : '<span class="rating-unavailable">No rating</span>')}</div>
+                    <div class="plan-card-detail-value">${formatPercentageRating(plan.provider_id, true) || (hasRating ? formatRatingDisplay(provider.review_data, true) : '<span class="rating-unavailable">No rating</span>')}</div>
                 </div>
             </div>
             <div class="plan-card-details">

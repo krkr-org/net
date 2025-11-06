@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2025-11-05T13:21:39.664085",
+    "generated_at": "2025-11-06T13:23:41.972043",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
-    "count": 88
+    "count": 87
   },
   "data": [
     {
@@ -974,17 +974,6 @@
       "support_email": "support@zettagrid.com",
       "support_phone": "1300 597 656",
       "id": 152,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": []
-    },
-    {
-      "name": "ZIP CONNECT",
-      "website": "https://zipconnect.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "info@zipconnect.au",
-      "support_phone": "1300 296 655",
-      "id": 165,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
     }

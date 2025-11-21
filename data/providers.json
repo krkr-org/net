@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-11-19T13:22:11.101966",
+    "generated_at": "2025-11-21T13:21:00.821280",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 87
@@ -760,7 +760,7 @@
           "vlan_id": 0,
           "ipv6_supported": true,
           "default_ipv4_type": "CGNAT",
-          "static_ip_cost": 0.0,
+          "static_ip_cost": 0,
           "policy_notes": "string",
           "id": 1,
           "created_at": "2025-08-15T12:56:43.730016Z",

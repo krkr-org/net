@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2025-12-14T13:40:08.013766",
+    "generated_at": "2025-12-15T13:41:06.403269",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
-    "count": 87
+    "count": 86
   },
   "data": [
     {
@@ -80,17 +80,6 @@
       "support_email": "",
       "support_phone": "131 245",
       "id": 10,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": []
-    },
-    {
-      "name": "ANT",
-      "website": "http://www.ant.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "",
-      "support_phone": "1300 268 266",
-      "id": 14,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": []
     },

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-02-10T14:39:23.214202",
+    "generated_at": "2026-02-11T14:36:23.789597",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
-    "count": 86
+    "count": 87
   },
   "data": [
     {
@@ -305,6 +305,17 @@
           "updated_at": "2026-01-13T02:11:10.308023Z"
         }
       ]
+    },
+    {
+      "name": "BROADCONNECT",
+      "website": "https://broadconnect.com.au",
+      "logo_url": null,
+      "active": true,
+      "support_email": "hello@broadconnect.com.au",
+      "support_phone": "1300 880 330",
+      "id": 170,
+      "created_at": "2026-02-10T06:35:08.778513Z",
+      "network_details": []
     },
     {
       "name": "BUDDY TELCO",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-02-13T14:27:12.339065",
+    "generated_at": "2026-02-15T14:28:42.410246",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 87
@@ -15,21 +15,8 @@
       "support_phone": "1300 030 692",
       "id": 1,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 1,
-          "connection_method": "PPPoE",
-          "vlan_required": true,
-          "vlan_id": 2,
-          "ipv6_supported": false,
-          "default_ipv4_type": null,
-          "static_ip_cost": 0,
-          "policy_notes": null,
-          "id": 4,
-          "created_at": "2026-01-10T10:59:01.987238Z",
-          "updated_at": "2026-01-13T00:05:12.563193Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "2IT TECHNOLOGY",
@@ -40,21 +27,8 @@
       "support_phone": "07 4911 4161",
       "id": 3,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 3,
-          "connection_method": null,
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": "Public IP",
-          "static_ip_cost": 0,
-          "policy_notes": null,
-          "id": 17,
-          "created_at": "2026-01-12T13:35:12.873166Z",
-          "updated_at": "2026-01-13T00:14:09.300232Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "8NETWORKS",
@@ -65,21 +39,8 @@
       "support_phone": "1800 921 212",
       "id": 156,
       "created_at": "2025-07-18T10:43:05Z",
-      "network_details": [
-        {
-          "provider_id": 156,
-          "connection_method": null,
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": null,
-          "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 18,
-          "created_at": "2026-01-12T13:44:09.613568Z",
-          "updated_at": "2026-01-13T00:29:33.030469Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "ACE INTERNET",
@@ -90,21 +51,8 @@
       "support_phone": "1300 360 979",
       "id": 5,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 5,
-          "connection_method": null,
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": "CGNAT (Paid Opt-out)",
-          "static_ip_cost": 22,
-          "policy_notes": null,
-          "id": 19,
-          "created_at": "2026-01-12T13:59:33.455791Z",
-          "updated_at": "2026-01-13T00:35:12.319554Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "ACTIV8ME",
@@ -118,18 +66,19 @@
       "network_details": [
         {
           "provider_id": 6,
-          "connection_method": "DHCP",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": null,
+          "base_ip_type": "CGNAT",
+          "cgnat_optout_available": "Unknown",
+          "cgnat_optout_cost": null,
+          "static_ip_available": false,
           "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 16,
-          "created_at": "2026-01-12T13:15:09.957336Z",
-          "updated_at": "2026-01-13T00:45:13.089684Z"
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 28,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
         }
-      ]
+      ],
+      "has_business_plans": false
     },
     {
       "name": "ADVANTAGE COMMUNICATION & DATA",
@@ -140,21 +89,8 @@
       "support_phone": "1300 264 860",
       "id": 9,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 9,
-          "connection_method": null,
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": "Public IP",
-          "static_ip_cost": 0,
-          "policy_notes": null,
-          "id": 13,
-          "created_at": "2026-01-12T12:22:00.356972Z",
-          "updated_at": "2026-01-13T00:56:32.726454Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": true
     },
     {
       "name": "AGL TELECOMMUNICATIONS",
@@ -168,18 +104,19 @@
       "network_details": [
         {
           "provider_id": 10,
-          "connection_method": "PPPoE",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": "CGNAT (Paid Opt-out)",
+          "base_ip_type": "CGNAT",
+          "cgnat_optout_available": "Free",
+          "cgnat_optout_cost": null,
+          "static_ip_available": true,
           "static_ip_cost": 7.5,
-          "policy_notes": null,
-          "id": 15,
-          "created_at": "2026-01-12T13:03:19.576690Z",
-          "updated_at": "2026-01-13T01:15:02.392236Z"
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 16,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
         }
-      ]
+      ],
+      "has_business_plans": false
     },
     {
       "name": "AQUA MOBILE",
@@ -190,21 +127,8 @@
       "support_phone": "1300-097-819",
       "id": 15,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 15,
-          "connection_method": null,
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": null,
-          "static_ip_cost": 13.5,
-          "policy_notes": null,
-          "id": 20,
-          "created_at": "2026-01-12T14:45:02.696000Z",
-          "updated_at": "2026-01-13T01:29:13.014760Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "ARCTEL",
@@ -218,18 +142,19 @@
       "network_details": [
         {
           "provider_id": 169,
-          "connection_method": "DHCP",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": "CGNAT (Paid Opt-out)",
+          "base_ip_type": "CGNAT",
+          "cgnat_optout_available": "Paid",
+          "cgnat_optout_cost": null,
+          "static_ip_available": true,
           "static_ip_cost": 5,
-          "policy_notes": null,
-          "id": 21,
-          "created_at": "2026-01-12T14:59:13.436876Z",
-          "updated_at": "2026-01-13T01:41:08.896428Z"
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 26,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
         }
-      ]
+      ],
+      "has_business_plans": false
     },
     {
       "name": "AUS INTERNET",
@@ -240,21 +165,8 @@
       "support_phone": "07 4222-1111",
       "id": 18,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 18,
-          "connection_method": "DHCP",
-          "vlan_required": false,
-          "vlan_id": 0,
-          "ipv6_supported": false,
-          "default_ipv4_type": null,
-          "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 22,
-          "created_at": "2026-01-12T15:11:09.202827Z",
-          "updated_at": "2026-01-13T01:51:44.486745Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "AUSSIE BROADBAND",
@@ -268,18 +180,19 @@
       "network_details": [
         {
           "provider_id": 20,
-          "connection_method": "DHCP",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": true,
-          "default_ipv4_type": "CGNAT (Paid Opt-out)",
+          "base_ip_type": "CGNAT",
+          "cgnat_optout_available": "Free",
+          "cgnat_optout_cost": null,
+          "static_ip_available": true,
           "static_ip_cost": 5,
-          "policy_notes": null,
-          "id": 2,
-          "created_at": "2026-01-10T10:03:34.607557Z",
-          "updated_at": "2026-01-13T02:00:37.479230Z"
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 5,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
         }
-      ]
+      ],
+      "has_business_plans": false
     },
     {
       "name": "BELONG",
@@ -293,18 +206,19 @@
       "network_details": [
         {
           "provider_id": 27,
-          "connection_method": "DHCP",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": "CGNAT (Free Opt-out)",
+          "base_ip_type": "CGNAT",
+          "cgnat_optout_available": "Not Available",
+          "cgnat_optout_cost": null,
+          "static_ip_available": false,
           "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 23,
-          "created_at": "2026-01-12T15:30:37.831476Z",
-          "updated_at": "2026-01-13T02:11:10.308023Z"
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 8,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
         }
-      ]
+      ],
+      "has_business_plans": false
     },
     {
       "name": "BROADCONNECT",
@@ -315,7 +229,8 @@
       "support_phone": "1300 880 330",
       "id": 170,
       "created_at": "2026-02-10T06:35:08.778513Z",
-      "network_details": []
+      "network_details": [],
+      "has_business_plans": true
     },
     {
       "name": "BUDDY TELCO",
@@ -329,18 +244,19 @@
       "network_details": [
         {
           "provider_id": 32,
-          "connection_method": "DHCP",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": true,
-          "default_ipv4_type": "CGNAT (Paid Opt-out)",
+          "base_ip_type": "CGNAT",
+          "cgnat_optout_available": "Paid",
+          "cgnat_optout_cost": null,
+          "static_ip_available": true,
           "static_ip_cost": 5,
-          "policy_notes": null,
-          "id": 24,
-          "created_at": "2026-01-12T15:41:10.577508Z",
-          "updated_at": "2026-01-13T02:20:58.130738Z"
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 19,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
         }
-      ]
+      ],
+      "has_business_plans": false
     },
     {
       "name": "CARBON COMMS",
@@ -351,21 +267,8 @@
       "support_phone": "1800 10 10 50",
       "id": 37,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 37,
-          "connection_method": "DHCP",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": "Public IP",
-          "static_ip_cost": 0,
-          "policy_notes": null,
-          "id": 5,
-          "created_at": "2026-01-10T12:45:18.556179Z",
-          "updated_at": "2026-01-13T02:29:21.266144Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": true
     },
     {
       "name": "CLICK ACCESS",
@@ -376,21 +279,8 @@
       "support_phone": "07 5315 5440",
       "id": 41,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 41,
-          "connection_method": null,
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": "Public IP",
-          "static_ip_cost": 0,
-          "policy_notes": null,
-          "id": 25,
-          "created_at": "2026-01-12T15:59:21.542825Z",
-          "updated_at": "2026-01-13T02:41:59.970693Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "CMOBILE",
@@ -401,21 +291,8 @@
       "support_phone": "1300 545 000",
       "id": 42,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 42,
-          "connection_method": null,
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": null,
-          "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 26,
-          "created_at": "2026-01-12T16:12:00.236328Z",
-          "updated_at": "2026-01-13T02:50:30.855996Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "CONNECTED AUSTRALIA",
@@ -426,21 +303,8 @@
       "support_phone": "1300 859 778",
       "id": 43,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 43,
-          "connection_method": null,
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": null,
-          "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 27,
-          "created_at": "2026-01-12T16:20:31.206399Z",
-          "updated_at": "2026-01-13T02:58:00.340892Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": true
     },
     {
       "name": "DODO",
@@ -454,18 +318,19 @@
       "network_details": [
         {
           "provider_id": 48,
-          "connection_method": "DHCP",
-          "vlan_required": false,
-          "vlan_id": 100,
-          "ipv6_supported": true,
-          "default_ipv4_type": "CGNAT (Paid Opt-out)",
+          "base_ip_type": "CGNAT",
+          "cgnat_optout_available": "Free",
+          "cgnat_optout_cost": null,
+          "static_ip_available": true,
           "static_ip_cost": 5,
-          "policy_notes": null,
-          "id": 3,
-          "created_at": "2026-01-10T10:33:23.327447Z",
-          "updated_at": "2026-01-13T03:04:46.372757Z"
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 10,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
         }
-      ]
+      ],
+      "has_business_plans": false
     },
     {
       "name": "EHW TECHNOLOGY",
@@ -476,21 +341,8 @@
       "support_phone": "1800 301 983",
       "id": 51,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 51,
-          "connection_method": null,
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": null,
-          "static_ip_cost": 0,
-          "policy_notes": null,
-          "id": 28,
-          "created_at": "2026-01-12T16:34:46.729719Z",
-          "updated_at": "2026-01-13T03:12:25.902114Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "ELEVATE",
@@ -501,21 +353,8 @@
       "support_phone": "1300 191 845",
       "id": 157,
       "created_at": "2025-07-18T10:55:41Z",
-      "network_details": [
-        {
-          "provider_id": 157,
-          "connection_method": null,
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": null,
-          "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 29,
-          "created_at": "2026-01-12T16:42:26.177600Z",
-          "updated_at": "2026-01-13T03:18:17.941121Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "ESCAPENET",
@@ -526,21 +365,8 @@
       "support_phone": "1300 135 235",
       "id": 52,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 52,
-          "connection_method": "DHCP",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": "CGNAT (Paid Opt-out)",
-          "static_ip_cost": 10,
-          "policy_notes": null,
-          "id": 30,
-          "created_at": "2026-01-12T16:48:18.257330Z",
-          "updated_at": "2026-01-13T03:27:00.360198Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "EXETEL",
@@ -554,18 +380,19 @@
       "network_details": [
         {
           "provider_id": 53,
-          "connection_method": "DHCP",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": true,
-          "default_ipv4_type": "CGNAT",
+          "base_ip_type": "CGNAT",
+          "cgnat_optout_available": "Free",
+          "cgnat_optout_cost": null,
+          "static_ip_available": false,
           "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 31,
-          "created_at": "2026-01-12T16:57:00.651835Z",
-          "updated_at": "2026-01-13T03:32:45.401190Z"
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 7,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
         }
-      ]
+      ],
+      "has_business_plans": false
     },
     {
       "name": "FANTEL",
@@ -576,21 +403,8 @@
       "support_phone": "+61 2 8332 3030",
       "id": 55,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 55,
-          "connection_method": "PPPoE",
-          "vlan_required": true,
-          "vlan_id": 100,
-          "ipv6_supported": false,
-          "default_ipv4_type": null,
-          "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 32,
-          "created_at": "2026-01-12T17:02:45.681504Z",
-          "updated_at": "2026-01-13T03:41:14.737734Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "FLIP",
@@ -604,18 +418,19 @@
       "network_details": [
         {
           "provider_id": 57,
-          "connection_method": "PPPoE",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": "CGNAT (Paid Opt-out)",
-          "static_ip_cost": 5.5,
-          "policy_notes": null,
-          "id": 33,
-          "created_at": "2026-01-12T17:11:15.101448Z",
-          "updated_at": "2026-01-13T03:47:24.071444Z"
+          "base_ip_type": "CGNAT",
+          "cgnat_optout_available": "Paid",
+          "cgnat_optout_cost": null,
+          "static_ip_available": true,
+          "static_ip_cost": 1.98,
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 25,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
         }
-      ]
+      ],
+      "has_business_plans": false
     },
     {
       "name": "FRANKSTON INTERNET",
@@ -626,21 +441,8 @@
       "support_phone": "03 9039 5550",
       "id": 59,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 59,
-          "connection_method": null,
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": null,
-          "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 34,
-          "created_at": "2026-01-12T17:17:24.358884Z",
-          "updated_at": "2026-01-13T03:54:40.755090Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "FUTURE BROADBAND",
@@ -651,21 +453,8 @@
       "support_phone": "08 6117 0600",
       "id": 60,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 60,
-          "connection_method": null,
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": true,
-          "default_ipv4_type": "Public IP",
-          "static_ip_cost": 0,
-          "policy_notes": null,
-          "id": 35,
-          "created_at": "2026-01-12T17:24:41.071403Z",
-          "updated_at": "2026-01-13T04:02:37.376571Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "GOINTERNET",
@@ -676,21 +465,8 @@
       "support_phone": "1300 467 283",
       "id": 64,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 64,
-          "connection_method": null,
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": null,
-          "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 36,
-          "created_at": "2026-01-12T17:32:37.695204Z",
-          "updated_at": "2026-01-13T04:06:50.692723Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "GOODTEL",
@@ -701,21 +477,8 @@
       "support_phone": "1800 114 663",
       "id": 65,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 65,
-          "connection_method": null,
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": "Public IP",
-          "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 37,
-          "created_at": "2026-01-12T17:36:50.871733Z",
-          "updated_at": "2026-01-13T04:14:22.157100Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": true
     },
     {
       "name": "HARBOUR ISP",
@@ -726,21 +489,8 @@
       "support_phone": "1300 463 933",
       "id": 67,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 67,
-          "connection_method": null,
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": null,
-          "static_ip_cost": 10,
-          "policy_notes": null,
-          "id": 38,
-          "created_at": "2026-01-12T17:44:22.559409Z",
-          "updated_at": "2026-01-13T04:22:04.406125Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "IIG",
@@ -751,21 +501,8 @@
       "support_phone": "1300 552 795",
       "id": 71,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 71,
-          "connection_method": "PPPoE",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": null,
-          "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 39,
-          "created_at": "2026-01-12T17:52:04.815518Z",
-          "updated_at": "2026-01-13T04:29:43.552103Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "IINET",
@@ -776,7 +513,22 @@
       "support_phone": null,
       "id": 72,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": []
+      "network_details": [
+        {
+          "provider_id": 72,
+          "base_ip_type": "Public Dynamic",
+          "cgnat_optout_available": "Not Available",
+          "cgnat_optout_cost": null,
+          "static_ip_available": false,
+          "static_ip_cost": null,
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 9,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
+        }
+      ],
+      "has_business_plans": false
     },
     {
       "name": "I.NET.AU",
@@ -787,21 +539,8 @@
       "support_phone": "1300 41 1869",
       "id": 69,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 69,
-          "connection_method": null,
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": "Public IP",
-          "static_ip_cost": 0,
-          "policy_notes": null,
-          "id": 40,
-          "created_at": "2026-01-12T17:59:43.877081Z",
-          "updated_at": "2026-01-13T04:46:29.565872Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": true
     },
     {
       "name": "INFINET BROADBAND",
@@ -812,21 +551,8 @@
       "support_phone": "1300 101 414",
       "id": 73,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 73,
-          "connection_method": "DHCP",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": true,
-          "default_ipv4_type": "CGNAT",
-          "static_ip_cost": 10,
-          "policy_notes": null,
-          "id": 41,
-          "created_at": "2026-01-12T18:16:29.884160Z",
-          "updated_at": "2026-01-13T04:53:51.547762Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": true
     },
     {
       "name": "INSPIRED BROADBAND",
@@ -837,21 +563,8 @@
       "support_phone": "1300 107 744",
       "id": 74,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 74,
-          "connection_method": null,
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": "CGNAT (Paid Opt-out)",
-          "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 42,
-          "created_at": "2026-01-12T18:23:51.836564Z",
-          "updated_at": "2026-01-13T05:03:59.728408Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "IPRIMUS - 1300 FIBRE 1",
@@ -865,18 +578,19 @@
       "network_details": [
         {
           "provider_id": 77,
-          "connection_method": "PPPoE",
-          "vlan_required": true,
-          "vlan_id": 100,
-          "ipv6_supported": false,
-          "default_ipv4_type": "CGNAT (Paid Opt-out)",
+          "base_ip_type": "CGNAT",
+          "cgnat_optout_available": "Free",
+          "cgnat_optout_cost": null,
+          "static_ip_available": true,
           "static_ip_cost": 5,
-          "policy_notes": null,
-          "id": 43,
-          "created_at": "2026-01-12T18:34:00.009510Z",
-          "updated_at": "2026-01-13T05:11:39.759495Z"
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 18,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
         }
-      ]
+      ],
+      "has_business_plans": false
     },
     {
       "name": "IT'S FUBAR",
@@ -887,21 +601,8 @@
       "support_phone": "(03) 5292 3655",
       "id": 154,
       "created_at": "2025-07-05T09:27:24Z",
-      "network_details": [
-        {
-          "provider_id": 154,
-          "connection_method": "DHCP",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": "CGNAT (Free Opt-out)",
-          "static_ip_cost": 0,
-          "policy_notes": null,
-          "id": 44,
-          "created_at": "2026-01-12T18:41:40.100356Z",
-          "updated_at": "2026-01-13T05:18:18.755597Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": true
     },
     {
       "name": "KINETIX",
@@ -912,21 +613,8 @@
       "support_phone": "1300 NBN ISP",
       "id": 81,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 81,
-          "connection_method": "PPPoE",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": null,
-          "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 45,
-          "created_at": "2026-01-12T18:48:19.113806Z",
-          "updated_at": "2026-01-13T05:27:51.632769Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "KLOUDPHONE",
@@ -937,21 +625,8 @@
       "support_phone": "1300 525 563",
       "id": 82,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 82,
-          "connection_method": null,
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": null,
-          "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 46,
-          "created_at": "2026-01-12T18:57:51.987873Z",
-          "updated_at": "2026-01-13T05:36:29.007405Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": true
     },
     {
       "name": "KOGAN",
@@ -965,18 +640,19 @@
       "network_details": [
         {
           "provider_id": 83,
-          "connection_method": "PPPoE",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": true,
-          "default_ipv4_type": "Public IP",
+          "base_ip_type": "CGNAT",
+          "cgnat_optout_available": "Not Available",
+          "cgnat_optout_cost": null,
+          "static_ip_available": false,
           "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 47,
-          "created_at": "2026-01-12T19:06:29.289035Z",
-          "updated_at": "2026-01-13T05:44:26.551614Z"
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 24,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
         }
-      ]
+      ],
+      "has_business_plans": false
     },
     {
       "name": "LAUNTEL",
@@ -990,18 +666,19 @@
       "network_details": [
         {
           "provider_id": 84,
-          "connection_method": "DHCP",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": true,
-          "default_ipv4_type": "CGNAT (Paid Opt-out)",
+          "base_ip_type": "CGNAT",
+          "cgnat_optout_available": "Unknown",
+          "cgnat_optout_cost": null,
+          "static_ip_available": true,
           "static_ip_cost": 4.5,
-          "policy_notes": null,
-          "id": 12,
-          "created_at": "2026-01-10T15:05:55.806332Z",
-          "updated_at": "2026-01-13T05:53:14.650288Z"
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 13,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
         }
-      ]
+      ],
+      "has_business_plans": false
     },
     {
       "name": "LEAPTEL",
@@ -1015,18 +692,19 @@
       "network_details": [
         {
           "provider_id": 85,
-          "connection_method": "PPPoE",
-          "vlan_required": true,
-          "vlan_id": 100,
-          "ipv6_supported": true,
-          "default_ipv4_type": "CGNAT (Paid Opt-out)",
+          "base_ip_type": "CGNAT",
+          "cgnat_optout_available": "Free",
+          "cgnat_optout_cost": null,
+          "static_ip_available": true,
           "static_ip_cost": 10,
-          "policy_notes": null,
-          "id": 11,
-          "created_at": "2026-01-10T14:57:22.003069Z",
-          "updated_at": "2026-01-13T06:01:07.844612Z"
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 12,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
         }
-      ]
+      ],
+      "has_business_plans": false
     },
     {
       "name": "LIGHTNING IP",
@@ -1037,21 +715,8 @@
       "support_phone": "1300 994 884",
       "id": 86,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 86,
-          "connection_method": "DHCP",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": true,
-          "default_ipv4_type": "Public IP",
-          "static_ip_cost": 5,
-          "policy_notes": null,
-          "id": 48,
-          "created_at": "2026-01-12T19:31:08.150137Z",
-          "updated_at": "2026-01-13T06:09:09.977542Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": true
     },
     {
       "name": "LIZZY INTERNET",
@@ -1062,21 +727,8 @@
       "support_phone": "1300 364 074",
       "id": 88,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 88,
-          "connection_method": null,
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": null,
-          "static_ip_cost": 5,
-          "policy_notes": null,
-          "id": 49,
-          "created_at": "2026-01-12T19:39:10.479764Z",
-          "updated_at": "2026-01-13T06:17:43.493619Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "MAD OVER TECH",
@@ -1087,21 +739,8 @@
       "support_phone": "1300 004 MAD",
       "id": 89,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 89,
-          "connection_method": null,
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": null,
-          "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 50,
-          "created_at": "2026-01-12T19:47:43.810159Z",
-          "updated_at": "2026-01-13T06:24:58.559022Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": true
     },
     {
       "name": "MATE",
@@ -1115,18 +754,19 @@
       "network_details": [
         {
           "provider_id": 90,
-          "connection_method": "PPPoE",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": true,
-          "default_ipv4_type": null,
+          "base_ip_type": "CGNAT",
+          "cgnat_optout_available": "Not Available",
+          "cgnat_optout_cost": null,
+          "static_ip_available": false,
           "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 51,
-          "created_at": "2026-01-12T19:54:58.877514Z",
-          "updated_at": "2026-01-13T06:34:08.121861Z"
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 22,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
         }
-      ]
+      ],
+      "has_business_plans": false
     },
     {
       "name": "MATILDA",
@@ -1137,21 +777,8 @@
       "support_phone": "07 4953 0711",
       "id": 91,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 91,
-          "connection_method": null,
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": "CGNAT (Paid Opt-out)",
-          "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 52,
-          "created_at": "2026-01-12T20:04:08.440351Z",
-          "updated_at": "2026-01-13T06:43:06.784488Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "MAXO TELECOMMUNICATIONS",
@@ -1162,21 +789,8 @@
       "support_phone": "1800 12 12 10",
       "id": 158,
       "created_at": "2025-07-18T11:02:28Z",
-      "network_details": [
-        {
-          "provider_id": 158,
-          "connection_method": "DHCP",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": null,
-          "static_ip_cost": 5,
-          "policy_notes": null,
-          "id": 53,
-          "created_at": "2026-01-12T20:13:07.183384Z",
-          "updated_at": "2026-01-13T06:50:30.987187Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "MOOSE MOBILE",
@@ -1190,18 +804,19 @@
       "network_details": [
         {
           "provider_id": 96,
-          "connection_method": "PPPoE",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": "CGNAT (Free Opt-out)",
-          "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 54,
-          "created_at": "2026-01-12T20:20:31.296978Z",
-          "updated_at": "2026-01-13T06:56:47.443844Z"
+          "base_ip_type": "CGNAT",
+          "cgnat_optout_available": "Free",
+          "cgnat_optout_cost": null,
+          "static_ip_available": true,
+          "static_ip_cost": 20,
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 14,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
         }
-      ]
+      ],
+      "has_business_plans": false
     },
     {
       "name": "MORE",
@@ -1215,18 +830,19 @@
       "network_details": [
         {
           "provider_id": 97,
-          "connection_method": "DHCP",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": "CGNAT (Paid Opt-out)",
+          "base_ip_type": "CGNAT",
+          "cgnat_optout_available": "Free",
+          "cgnat_optout_cost": null,
+          "static_ip_available": true,
           "static_ip_cost": 5,
-          "policy_notes": null,
-          "id": 55,
-          "created_at": "2026-01-12T20:26:47.768830Z",
-          "updated_at": "2026-01-13T07:04:43.581573Z"
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 21,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
         }
-      ]
+      ],
+      "has_business_plans": false
     },
     {
       "name": "MPHONE",
@@ -1237,21 +853,8 @@
       "support_phone": "1300 887 939",
       "id": 168,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 168,
-          "connection_method": null,
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": null,
-          "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 56,
-          "created_at": "2026-01-12T20:34:43.904113Z",
-          "updated_at": "2026-01-13T07:12:51.565487Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "MYOWN TEL",
@@ -1262,21 +865,8 @@
       "support_phone": "133 002",
       "id": 101,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 101,
-          "connection_method": "PPPoE",
-          "vlan_required": true,
-          "vlan_id": 100,
-          "ipv6_supported": false,
-          "default_ipv4_type": "CGNAT (Paid Opt-out)",
-          "static_ip_cost": 10,
-          "policy_notes": null,
-          "id": 57,
-          "created_at": "2026-01-12T20:42:51.852334Z",
-          "updated_at": "2026-01-13T07:19:07.719830Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "NATAN",
@@ -1287,21 +877,8 @@
       "support_phone": "07 3547 4877",
       "id": 167,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 167,
-          "connection_method": null,
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": null,
-          "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 58,
-          "created_at": "2026-01-12T20:49:08.056834Z",
-          "updated_at": "2026-01-13T07:26:01.849611Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "NEPTUNE",
@@ -1315,18 +892,19 @@
       "network_details": [
         {
           "provider_id": 153,
-          "connection_method": "DHCP",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": true,
-          "default_ipv4_type": "Public IP",
+          "base_ip_type": "Public Static",
+          "cgnat_optout_available": "Not Available",
+          "cgnat_optout_cost": null,
+          "static_ip_available": true,
           "static_ip_cost": 0,
-          "policy_notes": null,
-          "id": 9,
-          "created_at": "2026-01-10T14:28:23.315372Z",
-          "updated_at": "2026-01-13T07:31:34.376872Z"
+          "static_ip_included": true,
+          "additional_notes": null,
+          "id": 29,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
         }
-      ]
+      ],
+      "has_business_plans": false
     },
     {
       "name": "NEW SPROUT",
@@ -1337,21 +915,8 @@
       "support_phone": "02 6687 6533",
       "id": 103,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 103,
-          "connection_method": null,
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": null,
-          "static_ip_cost": 10,
-          "policy_notes": null,
-          "id": 59,
-          "created_at": "2026-01-12T21:01:34.694355Z",
-          "updated_at": "2026-01-13T07:40:39.037530Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "OCCOM",
@@ -1362,21 +927,8 @@
       "support_phone": "1300 299 999",
       "id": 108,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 108,
-          "connection_method": "PPPoE",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": null,
-          "static_ip_cost": 10,
-          "policy_notes": null,
-          "id": 60,
-          "created_at": "2026-01-12T21:10:39.380710Z",
-          "updated_at": "2026-01-13T07:49:06.039590Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "OPTUS",
@@ -1390,18 +942,19 @@
       "network_details": [
         {
           "provider_id": 110,
-          "connection_method": "DHCP",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": "Public IP",
+          "base_ip_type": "Public Dynamic",
+          "cgnat_optout_available": "Not Available",
+          "cgnat_optout_cost": null,
+          "static_ip_available": true,
           "static_ip_cost": 10,
-          "policy_notes": null,
-          "id": 14,
-          "created_at": "2026-01-12T12:38:24.592857Z",
-          "updated_at": "2026-01-13T07:57:51.112921Z"
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 2,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
         }
-      ]
+      ],
+      "has_business_plans": false
     },
     {
       "name": "ORIGIN BROADBAND",
@@ -1415,18 +968,19 @@
       "network_details": [
         {
           "provider_id": 111,
-          "connection_method": null,
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": "CGNAT",
-          "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 8,
-          "created_at": "2026-01-10T14:07:44.293983Z",
-          "updated_at": "2026-01-13T08:06:58.584217Z"
+          "base_ip_type": "CGNAT",
+          "cgnat_optout_available": "Paid",
+          "cgnat_optout_cost": null,
+          "static_ip_available": true,
+          "static_ip_cost": 5,
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 15,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
         }
-      ]
+      ],
+      "has_business_plans": false
     },
     {
       "name": "OZOT",
@@ -1437,21 +991,8 @@
       "support_phone": "",
       "id": 159,
       "created_at": "2025-07-18T11:06:31Z",
-      "network_details": [
-        {
-          "provider_id": 159,
-          "connection_method": "DHCP",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": true,
-          "default_ipv4_type": "CGNAT (Paid Opt-out)",
-          "static_ip_cost": 5,
-          "policy_notes": null,
-          "id": 61,
-          "created_at": "2026-01-12T21:36:58.933517Z",
-          "updated_at": "2026-01-13T08:13:19.743307Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "PEAR",
@@ -1462,21 +1003,8 @@
       "support_phone": "1300 007 327",
       "id": 112,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 112,
-          "connection_method": null,
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": null,
-          "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 62,
-          "created_at": "2026-01-12T21:43:20.112527Z",
-          "updated_at": "2026-01-13T08:21:15.276320Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": true
     },
     {
       "name": "PENTANET",
@@ -1487,21 +1015,8 @@
       "support_phone": "(08) 9466 2670",
       "id": 113,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 113,
-          "connection_method": "PPPoE",
-          "vlan_required": true,
-          "vlan_id": 100,
-          "ipv6_supported": true,
-          "default_ipv4_type": "CGNAT (Paid Opt-out)",
-          "static_ip_cost": 10,
-          "policy_notes": null,
-          "id": 63,
-          "created_at": "2026-01-12T21:51:15.603950Z",
-          "updated_at": "2026-01-13T08:26:43.961898Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "QUOKKA NET",
@@ -1512,21 +1027,8 @@
       "support_phone": "1800 663 977",
       "id": 166,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 166,
-          "connection_method": "PPPoE",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": "CGNAT",
-          "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 64,
-          "created_at": "2026-01-12T21:56:44.356697Z",
-          "updated_at": "2026-01-13T08:34:18.760306Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "QURED",
@@ -1537,21 +1039,8 @@
       "support_phone": "1300841127",
       "id": 117,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 117,
-          "connection_method": "PPPoE",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": "Public IP",
-          "static_ip_cost": 0,
-          "policy_notes": null,
-          "id": 65,
-          "created_at": "2026-01-12T22:04:19.073052Z",
-          "updated_at": "2026-01-13T08:39:48.166833Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "REAL WORLD TECHNOLOGY SOLUTIONS",
@@ -1562,21 +1051,8 @@
       "support_phone": "1300 798 718",
       "id": 118,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 118,
-          "connection_method": "PPPoE",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": true,
-          "default_ipv4_type": null,
-          "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 66,
-          "created_at": "2026-01-12T22:09:48.569075Z",
-          "updated_at": "2026-01-13T08:47:57.397040Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "SKYMESH",
@@ -1587,21 +1063,8 @@
       "support_phone": "1300 759 637",
       "id": 120,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 120,
-          "connection_method": "DHCP",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": "CGNAT (Paid Opt-out)",
-          "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 67,
-          "created_at": "2026-01-12T22:17:57.770900Z",
-          "updated_at": "2026-01-13T08:56:45.216476Z"
-        }
-      ]
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "SOLITARY TECHNOLOGY",
@@ -1612,7 +1075,8 @@
       "support_phone": "1300 914 278",
       "id": 160,
       "created_at": "2025-07-18T11:38:14Z",
-      "network_details": []
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "SOUTHERN PHONE",
@@ -1623,7 +1087,22 @@
       "support_phone": "13 14 64",
       "id": 121,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": []
+      "network_details": [
+        {
+          "provider_id": 121,
+          "base_ip_type": "CGNAT",
+          "cgnat_optout_available": "Free",
+          "cgnat_optout_cost": null,
+          "static_ip_available": true,
+          "static_ip_cost": 5,
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 17,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
+        }
+      ],
+      "has_business_plans": true
     },
     {
       "name": "SPINTEL",
@@ -1637,18 +1116,19 @@
       "network_details": [
         {
           "provider_id": 122,
-          "connection_method": "DHCP",
-          "vlan_required": false,
-          "vlan_id": 0,
-          "ipv6_supported": true,
-          "default_ipv4_type": "CGNAT (Paid Opt-out)",
-          "static_ip_cost": 5,
-          "policy_notes": "string",
-          "id": 1,
-          "created_at": "2025-08-15T12:56:43.730016Z",
-          "updated_at": "2026-01-12T22:51:04.918028Z"
+          "base_ip_type": "CGNAT",
+          "cgnat_optout_available": "Paid",
+          "cgnat_optout_cost": 5,
+          "static_ip_available": true,
+          "static_ip_cost": 11,
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 20,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
         }
-      ]
+      ],
+      "has_business_plans": false
     },
     {
       "name": "STEELE TECHNOLOGY",
@@ -1659,7 +1139,8 @@
       "support_phone": null,
       "id": 124,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": []
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "SUMO",
@@ -1670,7 +1151,8 @@
       "support_phone": "03 9102 8400 ",
       "id": 125,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": []
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "SUPERLOOP",
@@ -1684,18 +1166,19 @@
       "network_details": [
         {
           "provider_id": 126,
-          "connection_method": "DHCP",
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": true,
-          "default_ipv4_type": "CGNAT (Free Opt-out)",
+          "base_ip_type": "CGNAT",
+          "cgnat_optout_available": "Free",
+          "cgnat_optout_cost": null,
+          "static_ip_available": true,
           "static_ip_cost": 5,
-          "policy_notes": null,
-          "id": 10,
-          "created_at": "2026-01-10T14:44:58.374175Z",
-          "updated_at": "2026-01-11T01:23:37.359332Z"
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 6,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
         }
-      ]
+      ],
+      "has_business_plans": true
     },
     {
       "name": "SWOOP",
@@ -1706,7 +1189,8 @@
       "support_phone": "1300 66 55 75",
       "id": 128,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": []
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "TANGERINE TELECOM",
@@ -1720,18 +1204,19 @@
       "network_details": [
         {
           "provider_id": 130,
-          "connection_method": null,
-          "vlan_required": false,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": "CGNAT (Paid Opt-out)",
-          "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 7,
-          "created_at": "2026-01-10T13:50:28.002151Z",
-          "updated_at": "2026-01-11T00:29:42.793207Z"
+          "base_ip_type": "CGNAT",
+          "cgnat_optout_available": "Free",
+          "cgnat_optout_cost": null,
+          "static_ip_available": true,
+          "static_ip_cost": 5.5,
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 11,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
         }
-      ]
+      ],
+      "has_business_plans": false
     },
     {
       "name": "TASMANET",
@@ -1742,7 +1227,8 @@
       "support_phone": "1300 792 711",
       "id": 131,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": []
+      "network_details": [],
+      "has_business_plans": true
     },
     {
       "name": "TELSIM",
@@ -1753,7 +1239,22 @@
       "support_phone": "1300 835 746",
       "id": 155,
       "created_at": "2025-07-18T10:36:52Z",
-      "network_details": []
+      "network_details": [
+        {
+          "provider_id": 155,
+          "base_ip_type": "CGNAT",
+          "cgnat_optout_available": "Unknown",
+          "cgnat_optout_cost": null,
+          "static_ip_available": false,
+          "static_ip_cost": null,
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 27,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
+        }
+      ],
+      "has_business_plans": false
     },
     {
       "name": "TELSTRA",
@@ -1764,18 +1265,34 @@
       "support_phone": null,
       "id": 133,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": []
+      "network_details": [
+        {
+          "provider_id": 133,
+          "base_ip_type": "Public Dynamic",
+          "cgnat_optout_available": "Not Available",
+          "cgnat_optout_cost": null,
+          "static_ip_available": true,
+          "static_ip_cost": 10,
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 1,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
+        }
+      ],
+      "has_business_plans": false
     },
     {
       "name": "THE GEORGE BAINI GROUP",
       "website": "https://www.gb.com.au/",
       "logo_url": null,
       "active": true,
-      "support_email": null,
-      "support_phone": null,
+      "support_email": "support@gb.com.au",
+      "support_phone": "+61 1300 166 305",
       "id": 134,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": []
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "THE INTERNET PROVIDER",
@@ -1786,7 +1303,8 @@
       "support_phone": null,
       "id": 135,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": []
+      "network_details": [],
+      "has_business_plans": true
     },
     {
       "name": "TPG",
@@ -1800,18 +1318,19 @@
       "network_details": [
         {
           "provider_id": 138,
-          "connection_method": "PPPoE",
-          "vlan_required": true,
-          "vlan_id": null,
-          "ipv6_supported": false,
-          "default_ipv4_type": "Public IP",
-          "static_ip_cost": null,
-          "policy_notes": null,
-          "id": 6,
-          "created_at": "2026-01-10T13:04:13.909878Z",
-          "updated_at": "2026-01-11T00:02:41.703131Z"
+          "base_ip_type": "Public Dynamic",
+          "cgnat_optout_available": "Not Available",
+          "cgnat_optout_cost": null,
+          "static_ip_available": true,
+          "static_ip_cost": 5,
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 3,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
         }
-      ]
+      ],
+      "has_business_plans": false
     },
     {
       "name": "UPLINK ME",
@@ -1822,7 +1341,8 @@
       "support_phone": "1300 510 610",
       "id": 163,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": []
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "URL NETWORKS",
@@ -1833,7 +1353,8 @@
       "support_phone": "1300 33 11 78",
       "id": 142,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": []
+      "network_details": [],
+      "has_business_plans": true
     },
     {
       "name": "VALVE NETWORKS",
@@ -1844,7 +1365,8 @@
       "support_phone": null,
       "id": 164,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": []
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "VEETEL",
@@ -1855,7 +1377,8 @@
       "support_phone": "1300 833 835",
       "id": 144,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": []
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "VODAFONE",
@@ -1866,7 +1389,22 @@
       "support_phone": "1300 801 122",
       "id": 146,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": []
+      "network_details": [
+        {
+          "provider_id": 146,
+          "base_ip_type": "CGNAT",
+          "cgnat_optout_available": "Not Available",
+          "cgnat_optout_cost": null,
+          "static_ip_available": false,
+          "static_ip_cost": null,
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 4,
+          "created_at": "2026-02-14T03:13:12.114442Z",
+          "updated_at": "2026-02-14T03:13:12.114442Z"
+        }
+      ],
+      "has_business_plans": false
     },
     {
       "name": "VOIPEX",
@@ -1877,7 +1415,8 @@
       "support_phone": "02 4957 8997",
       "id": 147,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": []
+      "network_details": [],
+      "has_business_plans": true
     },
     {
       "name": "YOMOJO",
@@ -1888,7 +1427,8 @@
       "support_phone": "1300 966 656 ",
       "id": 162,
       "created_at": "2025-07-18T11:45:32Z",
-      "network_details": []
+      "network_details": [],
+      "has_business_plans": false
     },
     {
       "name": "ZETTAGRID",
@@ -1899,7 +1439,8 @@
       "support_phone": "1300 597 656",
       "id": 152,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": []
+      "network_details": [],
+      "has_business_plans": true
     }
   ]
 }

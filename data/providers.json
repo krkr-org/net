@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-02-16T14:29:33.734140",
+    "generated_at": "2026-02-17T14:25:16.967587",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 87
@@ -667,15 +667,15 @@
         {
           "provider_id": 84,
           "base_ip_type": "CGNAT",
-          "cgnat_optout_available": "Unknown",
-          "cgnat_optout_cost": null,
+          "cgnat_optout_available": "Paid",
+          "cgnat_optout_cost": 4.5,
           "static_ip_available": true,
-          "static_ip_cost": 4.5,
+          "static_ip_cost": null,
           "static_ip_included": false,
-          "additional_notes": null,
+          "additional_notes": "CGNAT opt-out ($0.15/day) gives dynamic public IP that may change if service paused. True static IP requires $100 refundable deposit.",
           "id": 13,
           "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
+          "updated_at": "2026-02-16T07:30:41.530880Z"
         }
       ],
       "has_business_plans": false

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-02-19T14:26:09.543776",
+    "generated_at": "2026-02-20T14:12:41.934153",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 87
@@ -303,7 +303,21 @@
       "support_phone": "1300 859 778",
       "id": 43,
       "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
+      "network_details": [
+        {
+          "provider_id": 43,
+          "base_ip_type": "CGNAT",
+          "cgnat_optout_available": null,
+          "cgnat_optout_cost": null,
+          "static_ip_available": true,
+          "static_ip_cost": 10,
+          "static_ip_included": false,
+          "additional_notes": null,
+          "id": 31,
+          "created_at": "2026-02-19T12:00:46.184491Z",
+          "updated_at": "2026-02-19T12:00:46.184491Z"
+        }
+      ],
       "has_business_plans": true
     },
     {

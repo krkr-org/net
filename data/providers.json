@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-02-26T14:13:52.558465",
+    "generated_at": "2026-02-27T14:10:04.815104",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 87
@@ -918,7 +918,7 @@
           "updated_at": "2026-02-14T03:13:12.114442Z"
         }
       ],
-      "has_business_plans": false
+      "has_business_plans": true
     },
     {
       "name": "NEW SPROUT",

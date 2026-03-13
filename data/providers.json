@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-03-12T14:11:48.355951",
+    "generated_at": "2026-03-13T14:09:14.347131",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 87
@@ -754,7 +754,7 @@
       "id": 89,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": [],
-      "has_business_plans": true
+      "has_business_plans": false
     },
     {
       "name": "MATE",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-03-15T14:38:10.627030",
+    "generated_at": "2026-03-16T14:45:00.465668",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 87
@@ -268,7 +268,7 @@
       "id": 37,
       "created_at": "2025-06-20T02:46:43Z",
       "network_details": [],
-      "has_business_plans": false
+      "has_business_plans": true
     },
     {
       "name": "CLICK ACCESS",

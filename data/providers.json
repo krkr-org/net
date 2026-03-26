@@ -1,1460 +1,440 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T14:26:23.980360",
+    "generated_at": "2026-03-26T14:37:57.222201",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
-    "count": 87
+    "count": 86
   },
   "data": [
     {
-      "name": "10MATES",
-      "website": "https://10mates.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@10MATES.com.au",
-      "support_phone": "1300 030 692",
-      "id": 1,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "2IT TECHNOLOGY",
-      "website": "https://www.2ittech.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@2it.net.au",
-      "support_phone": "07 4911 4161",
-      "id": 3,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "8NETWORKS",
-      "website": "https://8networks.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "info@8networks.com.au",
-      "support_phone": "1800 921 212",
-      "id": 156,
-      "created_at": "2025-07-18T10:43:05Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "ACE INTERNET",
-      "website": "https://ace.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "info@ace.com.au",
-      "support_phone": "1300 360 979",
-      "id": 5,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "ACTIV8ME",
-      "website": "https://www.activ8me.net.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "customersupport@activ8.net.au",
-      "support_phone": "13 22 88",
-      "id": 6,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 6,
-          "base_ip_type": "CGNAT",
-          "cgnat_optout_available": "Unknown",
-          "cgnat_optout_cost": null,
-          "static_ip_available": false,
-          "static_ip_cost": null,
-          "static_ip_included": false,
-          "additional_notes": null,
-          "id": 28,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
-        }
-      ],
-      "has_business_plans": false
-    },
-    {
-      "name": "ADVANTAGE COMMUNICATION & DATA",
-      "website": "https://www.advantagecom.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "servicedesk@advantagecom.com.au",
-      "support_phone": "1300 264 860",
-      "id": 9,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "AGL TELECOMMUNICATIONS",
-      "website": "https://www.agl.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "",
-      "support_phone": "131 245",
-      "id": 10,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 10,
-          "base_ip_type": "CGNAT",
-          "cgnat_optout_available": "Free",
-          "cgnat_optout_cost": null,
-          "static_ip_available": true,
-          "static_ip_cost": 7.5,
-          "static_ip_included": false,
-          "additional_notes": null,
-          "id": 16,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
-        }
-      ],
-      "has_business_plans": false
-    },
-    {
-      "name": "AQUA MOBILE",
-      "website": "https://www.aquamobile.net.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@aquamobile.net.au",
-      "support_phone": "1300-097-819",
-      "id": 15,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "ARCTEL",
-      "website": "https://arctel.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@arctel.com.au",
-      "support_phone": "1300 272 835",
-      "id": 169,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 169,
-          "base_ip_type": "CGNAT",
-          "cgnat_optout_available": "Paid",
-          "cgnat_optout_cost": null,
-          "static_ip_available": true,
-          "static_ip_cost": 5,
-          "static_ip_included": false,
-          "additional_notes": null,
-          "id": 26,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
-        }
-      ],
-      "has_business_plans": false
-    },
-    {
-      "name": "AUS INTERNET",
-      "website": "https://ausinternet.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@ausinternet.com.au",
-      "support_phone": "07 4222-1111",
-      "id": 18,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "AUSSIE BROADBAND",
-      "website": "https://www.aussiebroadband.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@aussiebroadband.com.au",
-      "support_phone": "1300 880 905",
-      "id": 20,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 20,
-          "base_ip_type": "CGNAT",
-          "cgnat_optout_available": "Free",
-          "cgnat_optout_cost": null,
-          "static_ip_available": true,
-          "static_ip_cost": 5,
-          "static_ip_included": false,
-          "additional_notes": null,
-          "id": 5,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
-        }
-      ],
-      "has_business_plans": false
-    },
-    {
-      "name": "BELONG",
-      "website": "https://www.belong.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "",
-      "support_phone": "1300 235 664",
-      "id": 27,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 27,
-          "base_ip_type": "CGNAT",
-          "cgnat_optout_available": "Not Available",
-          "cgnat_optout_cost": null,
-          "static_ip_available": false,
-          "static_ip_cost": null,
-          "static_ip_included": false,
-          "additional_notes": null,
-          "id": 8,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
-        }
-      ],
-      "has_business_plans": false
-    },
-    {
-      "name": "BROADCONNECT",
-      "website": "https://broadconnect.com.au",
-      "logo_url": null,
-      "active": true,
-      "support_email": "hello@broadconnect.com.au",
-      "support_phone": "1300 880 330",
-      "id": 170,
-      "created_at": "2026-02-10T06:35:08.778513Z",
-      "network_details": [],
-      "has_business_plans": true
-    },
-    {
-      "name": "BUDDY TELCO",
-      "website": "https://Buddytelco.com.au",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@buddytelco.com.au",
-      "support_phone": "1300 028 339",
-      "id": 32,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 32,
-          "base_ip_type": "CGNAT",
-          "cgnat_optout_available": "Paid",
-          "cgnat_optout_cost": null,
-          "static_ip_available": true,
-          "static_ip_cost": 5,
-          "static_ip_included": false,
-          "additional_notes": null,
-          "id": 19,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
-        }
-      ],
-      "has_business_plans": false
-    },
-    {
-      "name": "CARBON COMMS",
-      "website": "https://carboncomms.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "hello@carboncomms.com.au",
-      "support_phone": "1800 10 10 50",
-      "id": 37,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": true
-    },
-    {
-      "name": "CLICK ACCESS",
-      "website": "https://www.clickaccess.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "info@clickaccess.com.au",
-      "support_phone": "07 5315 5440",
-      "id": 41,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "CMOBILE",
-      "website": "https://www.cmobile.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@cmobile.com.au",
-      "support_phone": "1300 545 000",
-      "id": 42,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "CONNECTED AUSTRALIA",
-      "website": "https://www.connectedoz.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@connectedoz.com.au",
-      "support_phone": "1300 859 778",
-      "id": 43,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 43,
-          "base_ip_type": "CGNAT",
-          "cgnat_optout_available": null,
-          "cgnat_optout_cost": null,
-          "static_ip_available": true,
-          "static_ip_cost": 10,
-          "static_ip_included": false,
-          "additional_notes": null,
-          "id": 31,
-          "created_at": "2026-02-19T12:00:46.184491Z",
-          "updated_at": "2026-02-19T12:00:46.184491Z"
-        }
-      ],
-      "has_business_plans": false
-    },
-    {
-      "name": "DODO",
-      "website": "https://www.dodo.com/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "",
-      "support_phone": "13 36 36",
-      "id": 48,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 48,
-          "base_ip_type": "CGNAT",
-          "cgnat_optout_available": "Free",
-          "cgnat_optout_cost": null,
-          "static_ip_available": true,
-          "static_ip_cost": 5,
-          "static_ip_included": false,
-          "additional_notes": null,
-          "id": 10,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
-        }
-      ],
-      "has_business_plans": false
-    },
-    {
-      "name": "EHW TECHNOLOGY",
-      "website": "https://www.ehw.net.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "sales@ehwtech.net.au",
-      "support_phone": "1800 301 983",
-      "id": 51,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "ELEVATE",
-      "website": "https://www.elevateinternet.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@elevateinternet.com.au",
-      "support_phone": "1300 191 845",
-      "id": 157,
-      "created_at": "2025-07-18T10:55:41Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "ESCAPENET",
-      "website": "https://www.esc.net.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@team.esc.net.au",
-      "support_phone": "1300 135 235",
-      "id": 52,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "EXETEL",
-      "website": "http://www.exetel.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "",
-      "support_phone": null,
-      "id": 53,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 53,
-          "base_ip_type": "CGNAT",
-          "cgnat_optout_available": "Free",
-          "cgnat_optout_cost": null,
-          "static_ip_available": false,
-          "static_ip_cost": null,
-          "static_ip_included": false,
-          "additional_notes": null,
-          "id": 7,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
-        }
-      ],
-      "has_business_plans": false
-    },
-    {
-      "name": "FANTEL",
-      "website": "http://fantel.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@fantel.com.au",
-      "support_phone": "+61 2 8332 3030",
-      "id": 55,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "FLIP",
-      "website": "https://www.flipconnect.com.au",
-      "logo_url": null,
-      "active": true,
-      "support_email": "enquiries@fliptv.com.au",
-      "support_phone": "1300 354 788",
-      "id": 57,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 57,
-          "base_ip_type": "CGNAT",
-          "cgnat_optout_available": "Paid",
-          "cgnat_optout_cost": null,
-          "static_ip_available": true,
-          "static_ip_cost": 1.98,
-          "static_ip_included": false,
-          "additional_notes": null,
-          "id": 25,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
-        }
-      ],
-      "has_business_plans": false
-    },
-    {
-      "name": "FRANKSTON INTERNET",
-      "website": "http://franktel.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "",
-      "support_phone": "03 9039 5550",
-      "id": 59,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "FUTURE BROADBAND",
-      "website": "https://futurebroadband.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "",
-      "support_phone": "08 6117 0600",
-      "id": 60,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "GOINTERNET",
-      "website": "http://www.gointernet.net.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@gointernet.net.au",
-      "support_phone": "1300 467 283",
-      "id": 64,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "GOODTEL",
-      "website": "https://www.goodtel.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "",
-      "support_phone": "1800 114 663",
-      "id": 65,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": true
-    },
-    {
-      "name": "HARBOUR ISP",
-      "website": "https://harbourisp.com.au",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@nexee.au",
-      "support_phone": "1300 463 933",
-      "id": 67,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "IIG",
-      "website": "https://www.iig.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@iig.com.au",
-      "support_phone": "1300 552 795",
-      "id": 71,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "IINET",
-      "website": "https://www.iinet.net.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "",
-      "support_phone": null,
-      "id": 72,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 72,
-          "base_ip_type": "Public Dynamic",
-          "cgnat_optout_available": "Not Available",
-          "cgnat_optout_cost": null,
-          "static_ip_available": false,
-          "static_ip_cost": null,
-          "static_ip_included": false,
-          "additional_notes": null,
-          "id": 9,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
-        }
-      ],
-      "has_business_plans": false
-    },
-    {
-      "name": "I.NET.AU",
-      "website": "http://www.i.net.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "host@i.net.au",
-      "support_phone": "1300 41 1869",
-      "id": 69,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": true
-    },
-    {
-      "name": "INFINET BROADBAND",
-      "website": "https://www.infinetbroadband.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "customerservice@infinetbroadband.com.au",
-      "support_phone": "1300 101 414",
-      "id": 73,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": true
-    },
-    {
-      "name": "INSPIRED BROADBAND",
-      "website": "http://www.inspiredbroadband.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "enquiry@inspiredbroadband.com.au",
-      "support_phone": "1300 107 744",
-      "id": 74,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "IPRIMUS - 1300 FIBRE 1",
-      "website": "https://www.iprimus.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "customerservice@iprimus.com.au",
-      "support_phone": "13 17 89",
-      "id": 77,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 77,
-          "base_ip_type": "CGNAT",
-          "cgnat_optout_available": "Free",
-          "cgnat_optout_cost": null,
-          "static_ip_available": true,
-          "static_ip_cost": 5,
-          "static_ip_included": false,
-          "additional_notes": null,
-          "id": 18,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
-        }
-      ],
-      "has_business_plans": false
-    },
-    {
-      "name": "IT'S FUBAR",
-      "website": "https://www.itsfubar.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@itsfubar.com.au",
-      "support_phone": "(03) 5292 3655",
-      "id": 154,
-      "created_at": "2025-07-05T09:27:24Z",
-      "network_details": [],
-      "has_business_plans": true
-    },
-    {
-      "name": "KINETIX",
-      "website": "http://kinetix.net.au",
-      "logo_url": null,
-      "active": true,
-      "support_email": "info@kinetix.net.au",
-      "support_phone": "1300 NBN ISP",
-      "id": 81,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "KLOUDPHONE",
-      "website": "https://kloudphone.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "sales@kloudphone.com.au",
-      "support_phone": "1300 525 563",
-      "id": 82,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": true
-    },
-    {
-      "name": "KOGAN",
-      "website": "https://www.koganinternet.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "",
-      "support_phone": "1300 010 400",
-      "id": 83,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 83,
-          "base_ip_type": "CGNAT",
-          "cgnat_optout_available": "Not Available",
-          "cgnat_optout_cost": null,
-          "static_ip_available": false,
-          "static_ip_cost": null,
-          "static_ip_included": false,
-          "additional_notes": null,
-          "id": 24,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
-        }
-      ],
-      "has_business_plans": false
-    },
-    {
-      "name": "LAUNTEL",
-      "website": "https://launtel.net.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "residential@launtel.net.au",
-      "support_phone": "1800 528 683",
-      "id": 84,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 84,
-          "base_ip_type": "CGNAT",
-          "cgnat_optout_available": "Paid",
-          "cgnat_optout_cost": 4.5,
-          "static_ip_available": true,
-          "static_ip_cost": null,
-          "static_ip_included": false,
-          "additional_notes": "CGNAT opt-out ($0.15/day) gives dynamic public IP that may change if service paused. True static IP requires $100 refundable deposit.",
-          "id": 13,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-16T07:30:41.530880Z"
-        }
-      ],
-      "has_business_plans": false
-    },
-    {
-      "name": "LEAPTEL",
-      "website": "https://leaptel.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@leaptel.com.au",
-      "support_phone": "1300 205 327",
-      "id": 85,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 85,
-          "base_ip_type": "CGNAT",
-          "cgnat_optout_available": "Free",
-          "cgnat_optout_cost": null,
-          "static_ip_available": true,
-          "static_ip_cost": 10,
-          "static_ip_included": false,
-          "additional_notes": null,
-          "id": 12,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
-        }
-      ],
-      "has_business_plans": false
-    },
-    {
-      "name": "LIGHTNING IP",
-      "website": "https://www.lightningip.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "contact@lip.net.au",
-      "support_phone": "1300 994 884",
-      "id": 86,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "LIZZY INTERNET",
-      "website": "https://www.lizzy.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@lizzy.com.au",
-      "support_phone": "1300 364 074",
-      "id": 88,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "MAD OVER TECH",
-      "website": "https://madovertech.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "info@madovertech.com.au",
-      "support_phone": "1300 004 MAD",
-      "id": 89,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "MATE",
-      "website": "https://www.letsbemates.com.au",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@letsbemates.com.au",
-      "support_phone": "13 14 13",
-      "id": 90,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 90,
-          "base_ip_type": "CGNAT",
-          "cgnat_optout_available": "Not Available",
-          "cgnat_optout_cost": null,
-          "static_ip_available": false,
-          "static_ip_cost": null,
-          "static_ip_included": false,
-          "additional_notes": null,
-          "id": 22,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
-        }
-      ],
-      "has_business_plans": false
-    },
-    {
-      "name": "MATILDA",
-      "website": "https://www.matilda.net.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "service@matilda.net.au",
-      "support_phone": "07 4953 0711",
-      "id": 91,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "MAXO TELECOMMUNICATIONS",
-      "website": "https://www.maxo.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "sales@maxo.com.au",
-      "support_phone": "1800 12 12 10",
-      "id": 158,
-      "created_at": "2025-07-18T11:02:28Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "MOOSE MOBILE",
-      "website": "https://moosemobile.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "admin@moosemobile.com.au",
-      "support_phone": "1300 566 673",
-      "id": 96,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 96,
-          "base_ip_type": "CGNAT",
-          "cgnat_optout_available": "Free",
-          "cgnat_optout_cost": null,
-          "static_ip_available": true,
-          "static_ip_cost": 20,
-          "static_ip_included": false,
-          "additional_notes": null,
-          "id": 14,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
-        }
-      ],
-      "has_business_plans": false
-    },
-    {
-      "name": "MORE",
-      "website": "https://www.more.com.au",
-      "logo_url": null,
-      "active": true,
-      "support_email": "",
-      "support_phone": "13 66 73",
-      "id": 97,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 97,
-          "base_ip_type": "CGNAT",
-          "cgnat_optout_available": "Free",
-          "cgnat_optout_cost": null,
-          "static_ip_available": true,
-          "static_ip_cost": 5,
-          "static_ip_included": false,
-          "additional_notes": null,
-          "id": 21,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
-        }
-      ],
-      "has_business_plans": false
-    },
-    {
-      "name": "MPHONE",
-      "website": "https://mphone.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@mphone.com.au",
-      "support_phone": "1300 887 939",
-      "id": 168,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "MYOWN TEL",
-      "website": "https://www.myowntel.net.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@myowntel.net.au",
-      "support_phone": "133 002",
-      "id": 101,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "NATAN",
-      "website": "https://natan.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@natan.com.au",
-      "support_phone": "07 3547 4877",
-      "id": 167,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "NEPTUNE",
-      "website": "https://www.neptune.net.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@neptune.net.au",
-      "support_phone": "1800 868 508",
-      "id": 153,
-      "created_at": "2025-06-23T03:37:08Z",
-      "network_details": [
-        {
-          "provider_id": 153,
-          "base_ip_type": "Public Static",
-          "cgnat_optout_available": "Not Available",
-          "cgnat_optout_cost": null,
-          "static_ip_available": true,
-          "static_ip_cost": 0,
-          "static_ip_included": true,
-          "additional_notes": null,
-          "id": 29,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
-        }
-      ],
-      "has_business_plans": true
-    },
-    {
-      "name": "NEW SPROUT",
-      "website": "https://www.newsprout.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@newsprout.com.au",
-      "support_phone": "02 6687 6533",
-      "id": 103,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "OCCOM",
-      "website": "http://occom.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@occom.com.au",
-      "support_phone": "1300 299 999",
-      "id": 108,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "OPTUS",
-      "website": "https://www.optus.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "",
-      "support_phone": "133 937",
-      "id": 110,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 110,
-          "base_ip_type": "Public Dynamic",
-          "cgnat_optout_available": "Not Available",
-          "cgnat_optout_cost": null,
-          "static_ip_available": true,
-          "static_ip_cost": 10,
-          "static_ip_included": false,
-          "additional_notes": null,
-          "id": 2,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
-        }
-      ],
-      "has_business_plans": false
-    },
-    {
-      "name": "ORIGIN BROADBAND",
-      "website": "https://www.originenergy.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "help@originbroadband.com.au",
-      "support_phone": "1300 980 711",
-      "id": 111,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 111,
-          "base_ip_type": "CGNAT",
-          "cgnat_optout_available": "Paid",
-          "cgnat_optout_cost": null,
-          "static_ip_available": true,
-          "static_ip_cost": 5,
-          "static_ip_included": false,
-          "additional_notes": null,
-          "id": 15,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
-        }
-      ],
-      "has_business_plans": false
-    },
-    {
-      "name": "OZOT",
-      "website": "https://ozot.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@ozot.com.au",
-      "support_phone": "",
-      "id": 159,
-      "created_at": "2025-07-18T11:06:31Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "PEAR",
-      "website": "https://peartelco.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "hello@peartelco.com.au",
-      "support_phone": "1300 007 327",
-      "id": 112,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": true
-    },
-    {
-      "name": "PENTANET",
-      "website": "https://pentanet.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@pentanet.com.au",
-      "support_phone": "(08) 9466 2670",
-      "id": 113,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "QUOKKA NET",
-      "website": "https://quokkanet.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "qwerty@quokkanet.au",
-      "support_phone": "1800 663 977",
-      "id": 166,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "QURED",
-      "website": "http://www.qured.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@qured.com.au",
-      "support_phone": "1300841127",
-      "id": 117,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "REAL WORLD TECHNOLOGY SOLUTIONS",
-      "website": "https://rwts.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@rwts.com.au",
-      "support_phone": "1300 798 718",
-      "id": 118,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "SKYMESH",
-      "website": "https://www.skymesh.net.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "",
-      "support_phone": "1300 759 637",
-      "id": 120,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "SOLITARY TECHNOLOGY",
-      "website": "https://solitarytech.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "hello@solitarytech.com.au",
-      "support_phone": "1300 914 278",
-      "id": 160,
-      "created_at": "2025-07-18T11:38:14Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "SOUTHERN PHONE",
-      "website": "https://www.southernphone.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "",
-      "support_phone": "13 14 64",
-      "id": 121,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 121,
-          "base_ip_type": "CGNAT",
-          "cgnat_optout_available": "Free",
-          "cgnat_optout_cost": null,
-          "static_ip_available": true,
-          "static_ip_cost": 5,
-          "static_ip_included": false,
-          "additional_notes": null,
-          "id": 17,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
-        }
-      ],
-      "has_business_plans": true
-    },
-    {
-      "name": "SPINTEL",
-      "website": "https://www.spintel.net.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "",
-      "support_phone": "1300 303 375",
-      "id": 122,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 122,
-          "base_ip_type": "CGNAT",
-          "cgnat_optout_available": "Paid",
-          "cgnat_optout_cost": 5,
-          "static_ip_available": true,
-          "static_ip_cost": 11,
-          "static_ip_included": false,
-          "additional_notes": null,
-          "id": 20,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
-        }
-      ],
-      "has_business_plans": false
-    },
-    {
-      "name": "STEELE TECHNOLOGY",
-      "website": "https://www.stech.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "",
-      "support_phone": null,
-      "id": 124,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "SUMO",
-      "website": "https://www.sumo.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "",
-      "support_phone": "03 9102 8400 ",
-      "id": 125,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "SUPERLOOP",
-      "website": "https://superloop.com/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "",
-      "support_phone": "1800 57 87 37",
-      "id": 126,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 126,
-          "base_ip_type": "CGNAT",
-          "cgnat_optout_available": "Free",
-          "cgnat_optout_cost": null,
-          "static_ip_available": true,
-          "static_ip_cost": 5,
-          "static_ip_included": false,
-          "additional_notes": null,
-          "id": 6,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
-        }
-      ],
-      "has_business_plans": true
-    },
-    {
-      "name": "SWOOP",
-      "website": "https://swoop.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@swoop.com.au",
-      "support_phone": "1300 66 55 75",
-      "id": 128,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "TANGERINE TELECOM",
-      "website": "https://www.tangerine.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "",
-      "support_phone": "1800 211 112",
-      "id": 130,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 130,
-          "base_ip_type": "CGNAT",
-          "cgnat_optout_available": "Free",
-          "cgnat_optout_cost": null,
-          "static_ip_available": true,
-          "static_ip_cost": 5.5,
-          "static_ip_included": false,
-          "additional_notes": null,
-          "id": 11,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
-        }
-      ],
-      "has_business_plans": false
-    },
-    {
-      "name": "TASMANET",
-      "website": "https://www.tasmanet.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "sales@tasmanet.com.au",
-      "support_phone": "1300 792 711",
-      "id": 131,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": true
-    },
-    {
-      "name": "TELSIM",
-      "website": "https://www.telsim.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": null,
-      "support_phone": "1300 835 746",
       "id": 155,
-      "created_at": "2025-07-18T10:36:52Z",
-      "network_details": [
-        {
-          "provider_id": 155,
-          "base_ip_type": "CGNAT",
-          "cgnat_optout_available": "Unknown",
-          "cgnat_optout_cost": null,
-          "static_ip_available": false,
-          "static_ip_cost": null,
-          "static_ip_included": false,
-          "additional_notes": null,
-          "id": 27,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
-        }
-      ],
-      "has_business_plans": false
+      "name": "TELSIM",
+      "website": "https://www.telsim.com.au/"
     },
     {
-      "name": "TELSTRA",
-      "website": "https://www.telstra.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": null,
-      "support_phone": null,
-      "id": 133,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 133,
-          "base_ip_type": "Public Dynamic",
-          "cgnat_optout_available": "Not Available",
-          "cgnat_optout_cost": null,
-          "static_ip_available": true,
-          "static_ip_cost": 10,
-          "static_ip_included": false,
-          "additional_notes": null,
-          "id": 1,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
-        }
-      ],
-      "has_business_plans": false
+      "id": 157,
+      "name": "ELEVATE",
+      "website": "https://www.elevateinternet.com.au/"
     },
     {
-      "name": "THE GEORGE BAINI GROUP",
-      "website": "https://www.gb.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@gb.com.au",
-      "support_phone": "+61 1300 166 305",
-      "id": 134,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
+      "id": 37,
+      "name": "CARBON COMMS",
+      "website": "https://carboncomms.com.au/"
     },
     {
-      "name": "THE INTERNET PROVIDER",
-      "website": "http://theinternetprovider.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": null,
-      "support_phone": null,
-      "id": 135,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": true
+      "id": 160,
+      "name": "SOLITARY TECHNOLOGY",
+      "website": "https://solitarytech.com.au/"
     },
     {
-      "name": "TPG",
-      "website": "https://www.tpg.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": null,
-      "support_phone": "13 14 23",
-      "id": 138,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 138,
-          "base_ip_type": "Public Dynamic",
-          "cgnat_optout_available": "Not Available",
-          "cgnat_optout_cost": null,
-          "static_ip_available": true,
-          "static_ip_cost": 5,
-          "static_ip_included": false,
-          "additional_notes": null,
-          "id": 3,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
-        }
-      ],
-      "has_business_plans": false
+      "id": 154,
+      "name": "IT'S FUBAR",
+      "website": "https://www.itsfubar.com.au/"
     },
     {
-      "name": "UPLINK ME",
-      "website": "https://uplinkme.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": null,
-      "support_phone": "1300 510 610",
-      "id": 163,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
+      "id": 20,
+      "name": "AUSSIE BROADBAND",
+      "website": "https://www.aussiebroadband.com.au/"
     },
     {
-      "name": "URL NETWORKS",
-      "website": "http://www.url.net.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@url.net.au",
-      "support_phone": "1300 33 11 78",
-      "id": 142,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": true
+      "id": 153,
+      "name": "NEPTUNE",
+      "website": "https://www.neptune.net.au/"
     },
     {
-      "name": "VALVE NETWORKS",
-      "website": "https://valvenetworks.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "",
-      "support_phone": null,
-      "id": 164,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
-    },
-    {
-      "name": "VEETEL",
-      "website": "http://www.veetel.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "enquiries@veetel.com.au",
-      "support_phone": "1300 833 835",
       "id": 144,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
+      "name": "VEETEL",
+      "website": "http://www.veetel.com.au/"
     },
     {
-      "name": "VODAFONE",
-      "website": "https://www.vodafone.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "",
-      "support_phone": "1300 801 122",
-      "id": 146,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [
-        {
-          "provider_id": 146,
-          "base_ip_type": "CGNAT",
-          "cgnat_optout_available": "Not Available",
-          "cgnat_optout_cost": null,
-          "static_ip_available": false,
-          "static_ip_cost": null,
-          "static_ip_included": false,
-          "additional_notes": null,
-          "id": 4,
-          "created_at": "2026-02-14T03:13:12.114442Z",
-          "updated_at": "2026-02-14T03:13:12.114442Z"
-        }
-      ],
-      "has_business_plans": false
+      "id": 108,
+      "name": "OCCOM",
+      "website": "http://occom.com.au/"
     },
     {
-      "name": "VOIPEX",
-      "website": "https://www.voipex.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@voipex.com.au",
-      "support_phone": "02 4957 8997",
+      "id": 73,
+      "name": "INFINET BROADBAND",
+      "website": "https://www.infinetbroadband.com.au/"
+    },
+    {
+      "id": 121,
+      "name": "SOUTHERN PHONE",
+      "website": "https://www.southernphone.com.au/"
+    },
+    {
+      "id": 42,
+      "name": "CMOBILE",
+      "website": "https://www.cmobile.com.au/"
+    },
+    {
+      "id": 88,
+      "name": "LIZZY INTERNET",
+      "website": "https://www.lizzy.com.au/"
+    },
+    {
+      "id": 112,
+      "name": "PEAR",
+      "website": "https://peartelco.com.au/"
+    },
+    {
+      "id": 156,
+      "name": "8NETWORKS",
+      "website": "https://8networks.com.au/"
+    },
+    {
+      "id": 1,
+      "name": "10MATES",
+      "website": "https://10mates.com.au/"
+    },
+    {
+      "id": 57,
+      "name": "FLIP",
+      "website": "https://www.flipconnect.com.au"
+    },
+    {
+      "id": 166,
+      "name": "QUOKKA NET",
+      "website": "https://quokkanet.au/"
+    },
+    {
+      "id": 168,
+      "name": "MPHONE",
+      "website": "https://mphone.com.au/"
+    },
+    {
+      "id": 126,
+      "name": "SUPERLOOP",
+      "website": "https://superloop.com/"
+    },
+    {
+      "id": 6,
+      "name": "ACTIV8ME",
+      "website": "https://www.activ8me.net.au/"
+    },
+    {
+      "id": 52,
+      "name": "ESCAPENET",
+      "website": "https://www.esc.net.au/"
+    },
+    {
+      "id": 82,
+      "name": "KLOUDPHONE",
+      "website": "https://kloudphone.com.au/"
+    },
+    {
+      "id": 59,
+      "name": "FRANKSTON INTERNET",
+      "website": "http://franktel.com.au/"
+    },
+    {
+      "id": 169,
+      "name": "ARCTEL",
+      "website": "https://arctel.com.au/"
+    },
+    {
+      "id": 96,
+      "name": "MOOSE MOBILE",
+      "website": "https://moosemobile.com.au/"
+    },
+    {
+      "id": 122,
+      "name": "SPINTEL",
+      "website": "https://www.spintel.net.au/"
+    },
+    {
+      "id": 134,
+      "name": "THE GEORGE BAINI GROUP",
+      "website": "https://www.gb.com.au/"
+    },
+    {
+      "id": 32,
+      "name": "BUDDY TELCO",
+      "website": "https://Buddytelco.com.au"
+    },
+    {
+      "id": 117,
+      "name": "QURED",
+      "website": "http://www.qured.com.au/"
+    },
+    {
+      "id": 69,
+      "name": "I.NET.AU",
+      "website": "http://www.i.net.au/"
+    },
+    {
+      "id": 142,
+      "name": "URL NETWORKS",
+      "website": "http://www.url.net.au/"
+    },
+    {
+      "id": 128,
+      "name": "SWOOP",
+      "website": "https://swoop.com.au/"
+    },
+    {
+      "id": 74,
+      "name": "INSPIRED BROADBAND",
+      "website": "http://www.inspiredbroadband.com.au/"
+    },
+    {
+      "id": 51,
+      "name": "EHW TECHNOLOGY",
+      "website": "https://www.ehw.net.au/"
+    },
+    {
+      "id": 158,
+      "name": "MAXO TELECOMMUNICATIONS",
+      "website": "https://www.maxo.com.au/"
+    },
+    {
+      "id": 3,
+      "name": "2IT TECHNOLOGY",
+      "website": "https://www.2ittech.com.au/"
+    },
+    {
+      "id": 130,
+      "name": "TANGERINE TELECOM",
+      "website": "https://www.tangerine.com.au/"
+    },
+    {
+      "id": 85,
+      "name": "LEAPTEL",
+      "website": "https://leaptel.com.au/"
+    },
+    {
+      "id": 163,
+      "name": "UPLINK ME",
+      "website": "https://uplinkme.com.au/"
+    },
+    {
+      "id": 135,
+      "name": "THE INTERNET PROVIDER",
+      "website": "http://theinternetprovider.com.au/"
+    },
+    {
       "id": 147,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": true
+      "name": "VOIPEX",
+      "website": "https://www.voipex.com.au/"
     },
     {
-      "name": "YOMOJO",
-      "website": "https://www.yomojo.com.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "",
-      "support_phone": "1300 966 656 ",
-      "id": 162,
-      "created_at": "2025-07-18T11:45:32Z",
-      "network_details": [],
-      "has_business_plans": false
+      "id": 71,
+      "name": "IIG",
+      "website": "https://www.iig.com.au/"
     },
     {
-      "name": "ZETTAGRID",
-      "website": "http://www.zetta.net.au/",
-      "logo_url": null,
-      "active": true,
-      "support_email": "support@zettagrid.com",
-      "support_phone": "1300 597 656",
+      "id": 60,
+      "name": "FUTURE BROADBAND",
+      "website": "https://futurebroadband.com.au/"
+    },
+    {
+      "id": 83,
+      "name": "KOGAN",
+      "website": "https://www.koganinternet.com.au/"
+    },
+    {
+      "id": 65,
+      "name": "GOODTEL",
+      "website": "https://www.goodtel.com.au/"
+    },
+    {
+      "id": 48,
+      "name": "DODO",
+      "website": "https://www.dodo.com/"
+    },
+    {
+      "id": 27,
+      "name": "BELONG",
+      "website": "https://www.belong.com.au/"
+    },
+    {
+      "id": 103,
+      "name": "NEW SPROUT",
+      "website": "https://www.newsprout.com.au/"
+    },
+    {
+      "id": 10,
+      "name": "AGL TELECOMMUNICATIONS",
+      "website": "https://www.agl.com.au/"
+    },
+    {
+      "id": 18,
+      "name": "AUS INTERNET",
+      "website": "https://ausinternet.com.au/"
+    },
+    {
+      "id": 146,
+      "name": "VODAFONE",
+      "website": "https://www.vodafone.com.au/"
+    },
+    {
+      "id": 159,
+      "name": "OZOT",
+      "website": "https://ozot.com.au/"
+    },
+    {
+      "id": 120,
+      "name": "SKYMESH",
+      "website": "https://www.skymesh.net.au/"
+    },
+    {
+      "id": 138,
+      "name": "TPG",
+      "website": "https://www.tpg.com.au/"
+    },
+    {
+      "id": 72,
+      "name": "IINET",
+      "website": "https://www.iinet.net.au/"
+    },
+    {
+      "id": 89,
+      "name": "MAD OVER TECH",
+      "website": "https://madovertech.com.au/"
+    },
+    {
+      "id": 64,
+      "name": "GOINTERNET",
+      "website": "http://www.gointernet.net.au/"
+    },
+    {
+      "id": 81,
+      "name": "KINETIX",
+      "website": "http://kinetix.net.au"
+    },
+    {
+      "id": 86,
+      "name": "LIGHTNING IP",
+      "website": "https://www.lightningip.com.au/"
+    },
+    {
+      "id": 41,
+      "name": "CLICK ACCESS",
+      "website": "https://www.clickaccess.com.au/"
+    },
+    {
+      "id": 90,
+      "name": "MATE",
+      "website": "https://www.letsbemates.com.au"
+    },
+    {
+      "id": 43,
+      "name": "CONNECTED AUSTRALIA",
+      "website": "https://www.connectedoz.com.au/"
+    },
+    {
+      "id": 97,
+      "name": "MORE",
+      "website": "https://www.more.com.au"
+    },
+    {
+      "id": 113,
+      "name": "PENTANET",
+      "website": "https://pentanet.com.au/"
+    },
+    {
+      "id": 167,
+      "name": "NATAN",
+      "website": "https://natan.com.au/"
+    },
+    {
+      "id": 55,
+      "name": "FANTEL",
+      "website": "http://fantel.com.au/"
+    },
+    {
+      "id": 110,
+      "name": "OPTUS",
+      "website": "https://www.optus.com.au/"
+    },
+    {
+      "id": 118,
+      "name": "REAL WORLD TECHNOLOGY SOLUTIONS",
+      "website": "https://rwts.com.au/"
+    },
+    {
+      "id": 15,
+      "name": "AQUA MOBILE",
+      "website": "https://www.aquamobile.net.au/"
+    },
+    {
+      "id": 164,
+      "name": "VALVE NETWORKS",
+      "website": "https://valvenetworks.com.au/"
+    },
+    {
+      "id": 124,
+      "name": "STEELE TECHNOLOGY",
+      "website": "https://www.stech.com.au/"
+    },
+    {
+      "id": 53,
+      "name": "EXETEL",
+      "website": "http://www.exetel.com.au/"
+    },
+    {
+      "id": 77,
+      "name": "IPRIMUS - 1300 FIBRE 1",
+      "website": "https://www.iprimus.com.au/"
+    },
+    {
+      "id": 5,
+      "name": "ACE INTERNET",
+      "website": "https://ace.com.au/"
+    },
+    {
+      "id": 133,
+      "name": "TELSTRA",
+      "website": "https://www.telstra.com.au/"
+    },
+    {
+      "id": 67,
+      "name": "HARBOUR ISP",
+      "website": "https://harbourisp.com.au"
+    },
+    {
+      "id": 170,
+      "name": "BROADCONNECT",
+      "website": "https://broadconnect.com.au"
+    },
+    {
+      "id": 111,
+      "name": "ORIGIN BROADBAND",
+      "website": "https://www.originenergy.com.au/"
+    },
+    {
+      "id": 131,
+      "name": "TASMANET",
+      "website": "https://www.tasmanet.com.au/"
+    },
+    {
+      "id": 91,
+      "name": "MATILDA",
+      "website": "https://www.matilda.net.au/"
+    },
+    {
+      "id": 101,
+      "name": "MYOWN TEL",
+      "website": "https://www.myowntel.net.au/"
+    },
+    {
+      "id": 84,
+      "name": "LAUNTEL",
+      "website": "https://launtel.net.au/"
+    },
+    {
+      "id": 125,
+      "name": "SUMO",
+      "website": "https://www.sumo.com.au/"
+    },
+    {
       "id": 152,
-      "created_at": "2025-06-20T02:46:43Z",
-      "network_details": [],
-      "has_business_plans": false
+      "name": "ZETTAGRID",
+      "website": "http://www.zetta.net.au/"
+    },
+    {
+      "id": 9,
+      "name": "ADVANTAGE COMMUNICATION & DATA",
+      "website": "https://www.advantagecom.com.au/"
     }
   ]
 }

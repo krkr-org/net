@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-04-15T13:51:20.496880",
+    "generated_at": "2026-04-16T13:57:21.928492",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
-    "count": 91
+    "count": 90
   },
   "data": [
     {
@@ -15,6 +15,11 @@
       "id": 157,
       "name": "ELEVATE",
       "website": "https://www.elevateinternet.com.au/"
+    },
+    {
+      "id": 169,
+      "name": "ARCTEL",
+      "website": "https://arctel.com.au/"
     },
     {
       "id": 173,
@@ -62,11 +67,6 @@
       "website": "https://oceandigi.com.au/"
     },
     {
-      "id": 88,
-      "name": "LIZZY INTERNET",
-      "website": "https://www.lizzy.com.au/"
-    },
-    {
       "id": 112,
       "name": "PEAR",
       "website": "https://peartelco.com.au/"
@@ -82,6 +82,11 @@
       "website": "https://10mates.com.au/"
     },
     {
+      "id": 156,
+      "name": "8NETWORKS",
+      "website": "https://8networks.com.au/"
+    },
+    {
       "id": 42,
       "name": "CMOBILE",
       "website": "https://www.cmobile.com.au/"
@@ -92,9 +97,14 @@
       "website": "https://www.infinetbroadband.com.au/"
     },
     {
-      "id": 166,
-      "name": "QUOKKA NET",
-      "website": "https://quokkanet.au/"
+      "id": 88,
+      "name": "LIZZY INTERNET",
+      "website": "https://www.lizzy.com.au/"
+    },
+    {
+      "id": 52,
+      "name": "ESCAPENET",
+      "website": "https://www.esc.net.au/"
     },
     {
       "id": 57,
@@ -117,11 +127,6 @@
       "website": "https://www.activ8me.net.au/"
     },
     {
-      "id": 52,
-      "name": "ESCAPENET",
-      "website": "https://www.esc.net.au/"
-    },
-    {
       "id": 59,
       "name": "FRANKSTON INTERNET",
       "website": "http://franktel.com.au/"
@@ -132,9 +137,9 @@
       "website": "https://kloudphone.com.au/"
     },
     {
-      "id": 169,
-      "name": "ARCTEL",
-      "website": "https://arctel.com.au/"
+      "id": 166,
+      "name": "QUOKKA NET",
+      "website": "https://quokkanet.au/"
     },
     {
       "id": 96,
@@ -152,11 +157,6 @@
       "website": "https://www.gb.com.au/"
     },
     {
-      "id": 156,
-      "name": "8NETWORKS",
-      "website": "https://8networks.com.au/"
-    },
-    {
       "id": 117,
       "name": "QURED",
       "website": "http://www.qured.com.au/"
@@ -165,11 +165,6 @@
       "id": 69,
       "name": "I.NET.AU",
       "website": "http://www.i.net.au/"
-    },
-    {
-      "id": 158,
-      "name": "MAXO TELECOMMUNICATIONS",
-      "website": "https://www.maxo.com.au/"
     },
     {
       "id": 128,
@@ -197,19 +192,24 @@
       "website": "http://www.inspiredbroadband.com.au/"
     },
     {
+      "id": 158,
+      "name": "MAXO TELECOMMUNICATIONS",
+      "website": "https://www.maxo.com.au/"
+    },
+    {
       "id": 130,
       "name": "TANGERINE TELECOM",
       "website": "https://www.tangerine.com.au/"
     },
     {
-      "id": 85,
-      "name": "LEAPTEL",
-      "website": "https://leaptel.com.au/"
-    },
-    {
       "id": 163,
       "name": "UPLINK ME",
       "website": "https://uplinkme.com.au/"
+    },
+    {
+      "id": 85,
+      "name": "LEAPTEL",
+      "website": "https://leaptel.com.au/"
     },
     {
       "id": 135,
@@ -222,6 +222,11 @@
       "website": "https://www.voipex.com.au/"
     },
     {
+      "id": 60,
+      "name": "FUTURE BROADBAND",
+      "website": "https://futurebroadband.com.au/"
+    },
+    {
       "id": 161,
       "name": "AMAYSIM",
       "website": "https://www.amaysim.com.au/"
@@ -230,11 +235,6 @@
       "id": 176,
       "name": "MULTIWAVE CONNECT",
       "website": "https://www.multiwaveconnect.com.au/"
-    },
-    {
-      "id": 60,
-      "name": "FUTURE BROADBAND",
-      "website": "https://futurebroadband.com.au/"
     },
     {
       "id": 71,
@@ -270,6 +270,11 @@
       "id": 18,
       "name": "AUS INTERNET",
       "website": "https://ausinternet.com.au/"
+    },
+    {
+      "id": 77,
+      "name": "IPRIMUS - 1300 FIBRE 1",
+      "website": "https://www.iprimus.com.au/"
     },
     {
       "id": 146,
@@ -385,16 +390,6 @@
       "id": 53,
       "name": "EXETEL",
       "website": "http://www.exetel.com.au/"
-    },
-    {
-      "id": 125,
-      "name": "SUMO",
-      "website": "https://www.sumo.com.au/"
-    },
-    {
-      "id": 77,
-      "name": "IPRIMUS - 1300 FIBRE 1",
-      "website": "https://www.iprimus.com.au/"
     },
     {
       "id": 5,

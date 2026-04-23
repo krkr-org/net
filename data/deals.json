@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-04-22T13:52:38.315267",
+    "generated_at": "2026-04-23T13:56:22.240017",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
-    "count": 289
+    "count": 284
   },
   "data": [
     {
-      "id": 98160,
+      "id": 99082,
       "provider_id": 144,
       "provider_name": "VEETEL",
       "provider_website": "http://www.veetel.com.au/",
@@ -26,7 +26,7 @@
       "last_updated": null
     },
     {
-      "id": 97908,
+      "id": 98831,
       "provider_id": 108,
       "provider_name": "OCCOM",
       "provider_website": "http://occom.com.au/",
@@ -45,7 +45,7 @@
       "last_updated": null
     },
     {
-      "id": 97915,
+      "id": 98838,
       "provider_id": 108,
       "provider_name": "OCCOM",
       "provider_website": "http://occom.com.au/",
@@ -64,7 +64,7 @@
       "last_updated": null
     },
     {
-      "id": 98401,
+      "id": 99322,
       "provider_id": 57,
       "provider_name": "FLIP",
       "provider_website": "https://www.flipconnect.com.au",
@@ -83,7 +83,7 @@
       "last_updated": null
     },
     {
-      "id": 98161,
+      "id": 99083,
       "provider_id": 144,
       "provider_name": "VEETEL",
       "provider_website": "http://www.veetel.com.au/",
@@ -121,7 +121,7 @@
       "last_updated": null
     },
     {
-      "id": 97978,
+      "id": 98901,
       "provider_id": 166,
       "provider_name": "QUOKKA NET",
       "provider_website": "https://quokkanet.au/",
@@ -140,7 +140,7 @@
       "last_updated": null
     },
     {
-      "id": 98529,
+      "id": 99439,
       "provider_id": 73,
       "provider_name": "INFINET BROADBAND",
       "provider_website": "https://www.infinetbroadband.com.au/",
@@ -159,7 +159,7 @@
       "last_updated": null
     },
     {
-      "id": 98718,
+      "id": 99634,
       "provider_id": 96,
       "provider_name": "MOOSE MOBILE",
       "provider_website": "https://moosemobile.com.au/",
@@ -178,7 +178,7 @@
       "last_updated": null
     },
     {
-      "id": 98041,
+      "id": 98964,
       "provider_id": 122,
       "provider_name": "SPINTEL",
       "provider_website": "https://www.spintel.net.au/",
@@ -197,7 +197,7 @@
       "last_updated": null
     },
     {
-      "id": 98042,
+      "id": 98965,
       "provider_id": 122,
       "provider_name": "SPINTEL",
       "provider_website": "https://www.spintel.net.au/",
@@ -216,7 +216,7 @@
       "last_updated": null
     },
     {
-      "id": 97984,
+      "id": 98907,
       "provider_id": 166,
       "provider_name": "QUOKKA NET",
       "provider_website": "https://quokkanet.au/",
@@ -235,7 +235,7 @@
       "last_updated": null
     },
     {
-      "id": 97988,
+      "id": 98911,
       "provider_id": 166,
       "provider_name": "QUOKKA NET",
       "provider_website": "https://quokkanet.au/",
@@ -254,7 +254,7 @@
       "last_updated": null
     },
     {
-      "id": 98375,
+      "id": 99296,
       "provider_id": 157,
       "provider_name": "ELEVATE",
       "provider_website": "https://www.elevateinternet.com.au/",
@@ -273,7 +273,7 @@
       "last_updated": null
     },
     {
-      "id": 98077,
+      "id": 98998,
       "provider_id": 128,
       "provider_name": "SWOOP",
       "provider_website": "https://swoop.com.au/",
@@ -292,7 +292,7 @@
       "last_updated": null
     },
     {
-      "id": 98083,
+      "id": 99004,
       "provider_id": 128,
       "provider_name": "SWOOP",
       "provider_website": "https://swoop.com.au/",
@@ -311,13 +311,13 @@
       "last_updated": null
     },
     {
-      "id": 98087,
+      "id": 99008,
       "provider_id": 128,
       "provider_name": "SWOOP",
       "provider_website": "https://swoop.com.au/",
       "plan_name": "Swoop Fixed Wireless 30/10",
       "monthly_price": 69.0,
-      "setup_fee": 480,
+      "setup_fee": 0,
       "contract_length": 0,
       "download_speed": 30,
       "upload_speed": 10,
@@ -330,7 +330,7 @@
       "last_updated": null
     },
     {
-      "id": 98544,
+      "id": 99454,
       "provider_id": 73,
       "provider_name": "INFINET BROADBAND",
       "provider_website": "https://www.infinetbroadband.com.au/",
@@ -349,7 +349,7 @@
       "last_updated": null
     },
     {
-      "id": 98600,
+      "id": 99510,
       "provider_id": 130,
       "provider_name": "TANGERINE TELECOM",
       "provider_website": "https://www.tangerine.com.au/",
@@ -368,7 +368,7 @@
       "last_updated": null
     },
     {
-      "id": 98572,
+      "id": 99482,
       "provider_id": 85,
       "provider_name": "LEAPTEL",
       "provider_website": "https://leaptel.com.au/",
@@ -387,7 +387,7 @@
       "last_updated": null
     },
     {
-      "id": 97907,
+      "id": 98830,
       "provider_id": 108,
       "provider_name": "OCCOM",
       "provider_website": "http://occom.com.au/",
@@ -406,7 +406,7 @@
       "last_updated": null
     },
     {
-      "id": 97914,
+      "id": 98837,
       "provider_id": 108,
       "provider_name": "OCCOM",
       "provider_website": "http://occom.com.au/",
@@ -425,7 +425,7 @@
       "last_updated": null
     },
     {
-      "id": 98464,
+      "id": 99374,
       "provider_id": 161,
       "provider_name": "AMAYSIM",
       "provider_website": "https://www.amaysim.com.au/",
@@ -444,7 +444,7 @@
       "last_updated": null
     },
     {
-      "id": 98490,
+      "id": 99400,
       "provider_id": 177,
       "provider_name": "OCEANDIGI",
       "provider_website": "https://oceandigi.com.au/",
@@ -463,7 +463,7 @@
       "last_updated": null
     },
     {
-      "id": 98593,
+      "id": 99503,
       "provider_id": 83,
       "provider_name": "KOGAN",
       "provider_website": "https://www.koganinternet.com.au/",
@@ -520,7 +520,7 @@
       "last_updated": null
     },
     {
-      "id": 98054,
+      "id": 98975,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/",
@@ -539,7 +539,7 @@
       "last_updated": null
     },
     {
-      "id": 98059,
+      "id": 98980,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/",
@@ -558,7 +558,7 @@
       "last_updated": null
     },
     {
-      "id": 98316,
+      "id": 99237,
       "provider_id": 27,
       "provider_name": "BELONG",
       "provider_website": "https://www.belong.com.au/",
@@ -577,7 +577,7 @@
       "last_updated": null
     },
     {
-      "id": 97942,
+      "id": 98865,
       "provider_id": 159,
       "provider_name": "OZOT",
       "provider_website": "https://ozot.com.au/",
@@ -615,7 +615,7 @@
       "last_updated": null
     },
     {
-      "id": 98002,
+      "id": 98925,
       "provider_id": 120,
       "provider_name": "SKYMESH",
       "provider_website": "https://www.skymesh.net.au/",
@@ -634,7 +634,7 @@
       "last_updated": null
     },
     {
-      "id": 98195,
+      "id": 99116,
       "provider_id": 72,
       "provider_name": "IINET",
       "provider_website": "https://www.iinet.net.au/",
@@ -653,7 +653,7 @@
       "last_updated": null
     },
     {
-      "id": 98228,
+      "id": 99149,
       "provider_id": 138,
       "provider_name": "TPG",
       "provider_website": "https://www.tpg.com.au/",
@@ -672,7 +672,7 @@
       "last_updated": null
     },
     {
-      "id": 98235,
+      "id": 99156,
       "provider_id": 138,
       "provider_name": "TPG",
       "provider_website": "https://www.tpg.com.au/",
@@ -691,7 +691,7 @@
       "last_updated": null
     },
     {
-      "id": 98696,
+      "id": 99612,
       "provider_id": 90,
       "provider_name": "MATE",
       "provider_website": "https://www.letsbemates.com.au",
@@ -710,7 +710,7 @@
       "last_updated": null
     },
     {
-      "id": 98196,
+      "id": 99117,
       "provider_id": 72,
       "provider_name": "IINET",
       "provider_website": "https://www.iinet.net.au/",
@@ -729,7 +729,7 @@
       "last_updated": null
     },
     {
-      "id": 98229,
+      "id": 99150,
       "provider_id": 138,
       "provider_name": "TPG",
       "provider_website": "https://www.tpg.com.au/",
@@ -748,7 +748,7 @@
       "last_updated": null
     },
     {
-      "id": 98236,
+      "id": 99157,
       "provider_id": 138,
       "provider_name": "TPG",
       "provider_website": "https://www.tpg.com.au/",
@@ -767,7 +767,7 @@
       "last_updated": null
     },
     {
-      "id": 98162,
+      "id": 99084,
       "provider_id": 144,
       "provider_name": "VEETEL",
       "provider_website": "http://www.veetel.com.au/",
@@ -786,7 +786,7 @@
       "last_updated": null
     },
     {
-      "id": 97838,
+      "id": 98761,
       "provider_id": 97,
       "provider_name": "MORE",
       "provider_website": "https://www.more.com.au",
@@ -805,7 +805,7 @@
       "last_updated": null
     },
     {
-      "id": 97979,
+      "id": 98902,
       "provider_id": 166,
       "provider_name": "QUOKKA NET",
       "provider_website": "https://quokkanet.au/",
@@ -824,7 +824,7 @@
       "last_updated": null
     },
     {
-      "id": 97949,
+      "id": 98872,
       "provider_id": 159,
       "provider_name": "OZOT",
       "provider_website": "https://ozot.com.au/",
@@ -843,7 +843,7 @@
       "last_updated": null
     },
     {
-      "id": 97862,
+      "id": 98785,
       "provider_id": 167,
       "provider_name": "NATAN",
       "provider_website": "https://natan.com.au/",
@@ -862,7 +862,7 @@
       "last_updated": null
     },
     {
-      "id": 97925,
+      "id": 98848,
       "provider_id": 110,
       "provider_name": "OPTUS",
       "provider_website": "https://www.optus.com.au/",
@@ -881,13 +881,13 @@
       "last_updated": null
     },
     {
-      "id": 98088,
+      "id": 99009,
       "provider_id": 128,
       "provider_name": "SWOOP",
       "provider_website": "https://swoop.com.au/",
       "plan_name": "Swoop Fixed Wireless 70/20",
       "monthly_price": 79.0,
-      "setup_fee": 480,
+      "setup_fee": 0,
       "contract_length": 0,
       "download_speed": 70,
       "upload_speed": 20,
@@ -900,7 +900,7 @@
       "last_updated": null
     },
     {
-      "id": 98284,
+      "id": 99205,
       "provider_id": 10,
       "provider_name": "AGL TELECOMMUNICATIONS",
       "provider_website": "https://www.agl.com.au/",
@@ -919,7 +919,7 @@
       "last_updated": null
     },
     {
-      "id": 98289,
+      "id": 99210,
       "provider_id": 10,
       "provider_name": "AGL TELECOMMUNICATIONS",
       "provider_website": "https://www.agl.com.au/",
@@ -938,7 +938,7 @@
       "last_updated": null
     },
     {
-      "id": 98291,
+      "id": 99212,
       "provider_id": 15,
       "provider_name": "AQUA MOBILE",
       "provider_website": "https://www.aquamobile.net.au/",
@@ -957,7 +957,7 @@
       "last_updated": null
     },
     {
-      "id": 98530,
+      "id": 99440,
       "provider_id": 73,
       "provider_name": "INFINET BROADBAND",
       "provider_website": "https://www.infinetbroadband.com.au/",
@@ -976,7 +976,7 @@
       "last_updated": null
     },
     {
-      "id": 98545,
+      "id": 99455,
       "provider_id": 73,
       "provider_name": "INFINET BROADBAND",
       "provider_website": "https://www.infinetbroadband.com.au/",
@@ -995,7 +995,7 @@
       "last_updated": null
     },
     {
-      "id": 98402,
+      "id": 99323,
       "provider_id": 57,
       "provider_name": "FLIP",
       "provider_website": "https://www.flipconnect.com.au",
@@ -1014,7 +1014,7 @@
       "last_updated": null
     },
     {
-      "id": 98296,
+      "id": 99217,
       "provider_id": 169,
       "provider_name": "ARCTEL",
       "provider_website": "https://arctel.com.au/",
@@ -1027,13 +1027,13 @@
       "speed_tier": "500/50",
       "fixed_wireless": false,
       "promo_type": "discount",
-      "promo_value": 17,
+      "promo_value": 20,
       "promo_duration": 6,
       "promo_details": null,
       "last_updated": null
     },
     {
-      "id": 98594,
+      "id": 99504,
       "provider_id": 83,
       "provider_name": "KOGAN",
       "provider_website": "https://www.koganinternet.com.au/",
@@ -1052,7 +1052,7 @@
       "last_updated": null
     },
     {
-      "id": 98295,
+      "id": 99216,
       "provider_id": 169,
       "provider_name": "ARCTEL",
       "provider_website": "https://arctel.com.au/",
@@ -1071,7 +1071,7 @@
       "last_updated": null
     },
     {
-      "id": 98043,
+      "id": 98966,
       "provider_id": 122,
       "provider_name": "SPINTEL",
       "provider_website": "https://www.spintel.net.au/",
@@ -1090,7 +1090,7 @@
       "last_updated": null
     },
     {
-      "id": 98573,
+      "id": 99483,
       "provider_id": 85,
       "provider_name": "LEAPTEL",
       "provider_website": "https://leaptel.com.au/",
@@ -1109,7 +1109,7 @@
       "last_updated": null
     },
     {
-      "id": 98580,
+      "id": 99490,
       "provider_id": 85,
       "provider_name": "LEAPTEL",
       "provider_website": "https://leaptel.com.au/",
@@ -1128,7 +1128,7 @@
       "last_updated": null
     },
     {
-      "id": 98649,
+      "id": 99565,
       "provider_id": 85,
       "provider_name": "LEAPTEL",
       "provider_website": "https://leaptel.com.au/",
@@ -1147,7 +1147,7 @@
       "last_updated": null
     },
     {
-      "id": 98719,
+      "id": 99635,
       "provider_id": 96,
       "provider_name": "MOOSE MOBILE",
       "provider_website": "https://moosemobile.com.au/",
@@ -1166,7 +1166,7 @@
       "last_updated": null
     },
     {
-      "id": 98404,
+      "id": 99325,
       "provider_id": 57,
       "provider_name": "FLIP",
       "provider_website": "https://www.flipconnect.com.au",
@@ -1185,7 +1185,7 @@
       "last_updated": null
     },
     {
-      "id": 98405,
+      "id": 99326,
       "provider_id": 57,
       "provider_name": "FLIP",
       "provider_website": "https://www.flipconnect.com.au",
@@ -1223,7 +1223,7 @@
       "last_updated": null
     },
     {
-      "id": 97980,
+      "id": 98903,
       "provider_id": 166,
       "provider_name": "QUOKKA NET",
       "provider_website": "https://quokkanet.au/",
@@ -1242,7 +1242,7 @@
       "last_updated": null
     },
     {
-      "id": 98078,
+      "id": 98999,
       "provider_id": 128,
       "provider_name": "SWOOP",
       "provider_website": "https://swoop.com.au/",
@@ -1261,7 +1261,7 @@
       "last_updated": null
     },
     {
-      "id": 98084,
+      "id": 99005,
       "provider_id": 128,
       "provider_name": "SWOOP",
       "provider_website": "https://swoop.com.au/",
@@ -1280,7 +1280,7 @@
       "last_updated": null
     },
     {
-      "id": 98601,
+      "id": 99511,
       "provider_id": 130,
       "provider_name": "TANGERINE TELECOM",
       "provider_website": "https://www.tangerine.com.au/",
@@ -1299,7 +1299,7 @@
       "last_updated": null
     },
     {
-      "id": 98604,
+      "id": 99520,
       "provider_id": 130,
       "provider_name": "TANGERINE TELECOM",
       "provider_website": "https://www.tangerine.com.au/",
@@ -1318,7 +1318,7 @@
       "last_updated": null
     },
     {
-      "id": 98197,
+      "id": 99118,
       "provider_id": 72,
       "provider_name": "IINET",
       "provider_website": "https://www.iinet.net.au/",
@@ -1337,7 +1337,7 @@
       "last_updated": null
     },
     {
-      "id": 98230,
+      "id": 99151,
       "provider_id": 138,
       "provider_name": "TPG",
       "provider_website": "https://www.tpg.com.au/",
@@ -1356,26 +1356,7 @@
       "last_updated": null
     },
     {
-      "id": 97302,
-      "provider_id": 133,
-      "provider_name": "TELSTRA",
-      "provider_website": "https://www.telstra.com.au/",
-      "plan_name": "Basic nbn Internet Only",
-      "monthly_price": 85.0,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 25,
-      "upload_speed": 5,
-      "speed_tier": "25/5",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 42.5,
-      "promo_duration": 2,
-      "promo_details": null,
-      "last_updated": null
-    },
-    {
-      "id": 97906,
+      "id": 98829,
       "provider_id": 108,
       "provider_name": "OCCOM",
       "provider_website": "http://occom.com.au/",
@@ -1394,7 +1375,7 @@
       "last_updated": null
     },
     {
-      "id": 97913,
+      "id": 98836,
       "provider_id": 108,
       "provider_name": "OCCOM",
       "provider_website": "http://occom.com.au/",
@@ -1413,7 +1394,7 @@
       "last_updated": null
     },
     {
-      "id": 97985,
+      "id": 98908,
       "provider_id": 166,
       "provider_name": "QUOKKA NET",
       "provider_website": "https://quokkanet.au/",
@@ -1432,7 +1413,7 @@
       "last_updated": null
     },
     {
-      "id": 97989,
+      "id": 98912,
       "provider_id": 166,
       "provider_name": "QUOKKA NET",
       "provider_website": "https://quokkanet.au/",
@@ -1451,7 +1432,7 @@
       "last_updated": null
     },
     {
-      "id": 98055,
+      "id": 98976,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/",
@@ -1470,7 +1451,7 @@
       "last_updated": null
     },
     {
-      "id": 98060,
+      "id": 98981,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/",
@@ -1489,7 +1470,7 @@
       "last_updated": null
     },
     {
-      "id": 98465,
+      "id": 99375,
       "provider_id": 161,
       "provider_name": "AMAYSIM",
       "provider_website": "https://www.amaysim.com.au/",
@@ -1527,7 +1508,7 @@
       "last_updated": null
     },
     {
-      "id": 98595,
+      "id": 99505,
       "provider_id": 83,
       "provider_name": "KOGAN",
       "provider_website": "https://www.koganinternet.com.au/",
@@ -1546,7 +1527,7 @@
       "last_updated": null
     },
     {
-      "id": 98596,
+      "id": 99506,
       "provider_id": 83,
       "provider_name": "KOGAN",
       "provider_website": "https://www.koganinternet.com.au/",
@@ -1603,7 +1584,7 @@
       "last_updated": null
     },
     {
-      "id": 98697,
+      "id": 99613,
       "provider_id": 90,
       "provider_name": "MATE",
       "provider_website": "https://www.letsbemates.com.au",
@@ -1622,7 +1603,7 @@
       "last_updated": null
     },
     {
-      "id": 98720,
+      "id": 99636,
       "provider_id": 96,
       "provider_name": "MOOSE MOBILE",
       "provider_website": "https://moosemobile.com.au/",
@@ -1641,7 +1622,7 @@
       "last_updated": null
     },
     {
-      "id": 98721,
+      "id": 99637,
       "provider_id": 96,
       "provider_name": "MOOSE MOBILE",
       "provider_website": "https://moosemobile.com.au/",
@@ -1660,7 +1641,7 @@
       "last_updated": null
     },
     {
-      "id": 98044,
+      "id": 98967,
       "provider_id": 122,
       "provider_name": "SPINTEL",
       "provider_website": "https://www.spintel.net.au/",
@@ -1679,7 +1660,7 @@
       "last_updated": null
     },
     {
-      "id": 98045,
+      "id": 98968,
       "provider_id": 122,
       "provider_name": "SPINTEL",
       "provider_website": "https://www.spintel.net.au/",
@@ -1688,8 +1669,8 @@
       "setup_fee": 0,
       "contract_length": 0,
       "download_speed": 250,
-      "upload_speed": 20,
-      "speed_tier": "250/20",
+      "upload_speed": 100,
+      "speed_tier": "250/100",
       "fixed_wireless": true,
       "promo_type": "discount",
       "promo_value": 10.95,
@@ -1698,7 +1679,7 @@
       "last_updated": null
     },
     {
-      "id": 98047,
+      "id": 98970,
       "provider_id": 122,
       "provider_name": "SPINTEL",
       "provider_website": "https://www.spintel.net.au/",
@@ -1717,7 +1698,7 @@
       "last_updated": null
     },
     {
-      "id": 98317,
+      "id": 99238,
       "provider_id": 27,
       "provider_name": "BELONG",
       "provider_website": "https://www.belong.com.au/",
@@ -1736,7 +1717,7 @@
       "last_updated": null
     },
     {
-      "id": 98489,
+      "id": 99399,
       "provider_id": 177,
       "provider_name": "OCEANDIGI",
       "provider_website": "https://oceandigi.com.au/",
@@ -1755,7 +1736,7 @@
       "last_updated": null
     },
     {
-      "id": 98602,
+      "id": 99512,
       "provider_id": 130,
       "provider_name": "TANGERINE TELECOM",
       "provider_website": "https://www.tangerine.com.au/",
@@ -1774,7 +1755,7 @@
       "last_updated": null
     },
     {
-      "id": 98605,
+      "id": 99521,
       "provider_id": 130,
       "provider_name": "TANGERINE TELECOM",
       "provider_website": "https://www.tangerine.com.au/",
@@ -1812,7 +1793,7 @@
       "last_updated": null
     },
     {
-      "id": 97861,
+      "id": 98784,
       "provider_id": 167,
       "provider_name": "NATAN",
       "provider_website": "https://natan.com.au/",
@@ -1831,26 +1812,7 @@
       "last_updated": null
     },
     {
-      "id": 97936,
-      "provider_id": 111,
-      "provider_name": "ORIGIN BROADBAND",
-      "provider_website": "https://www.originenergy.com.au/",
-      "plan_name": "Everyday nbn",
-      "monthly_price": 89.0,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 25,
-      "upload_speed": 10,
-      "speed_tier": "25/10",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 44.5,
-      "promo_duration": 6,
-      "promo_details": null,
-      "last_updated": null
-    },
-    {
-      "id": 97981,
+      "id": 98904,
       "provider_id": 166,
       "provider_name": "QUOKKA NET",
       "provider_website": "https://quokkanet.au/",
@@ -1869,7 +1831,7 @@
       "last_updated": null
     },
     {
-      "id": 97990,
+      "id": 98913,
       "provider_id": 166,
       "provider_name": "QUOKKA NET",
       "provider_website": "https://quokkanet.au/",
@@ -1888,7 +1850,7 @@
       "last_updated": null
     },
     {
-      "id": 98069,
+      "id": 98990,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/",
@@ -1907,7 +1869,7 @@
       "last_updated": null
     },
     {
-      "id": 98531,
+      "id": 99441,
       "provider_id": 73,
       "provider_name": "INFINET BROADBAND",
       "provider_website": "https://www.infinetbroadband.com.au/",
@@ -1926,7 +1888,7 @@
       "last_updated": null
     },
     {
-      "id": 98532,
+      "id": 99442,
       "provider_id": 73,
       "provider_name": "INFINET BROADBAND",
       "provider_website": "https://www.infinetbroadband.com.au/",
@@ -1945,7 +1907,7 @@
       "last_updated": null
     },
     {
-      "id": 98546,
+      "id": 99456,
       "provider_id": 73,
       "provider_name": "INFINET BROADBAND",
       "provider_website": "https://www.infinetbroadband.com.au/",
@@ -1964,7 +1926,7 @@
       "last_updated": null
     },
     {
-      "id": 98547,
+      "id": 99457,
       "provider_id": 73,
       "provider_name": "INFINET BROADBAND",
       "provider_website": "https://www.infinetbroadband.com.au/",
@@ -1983,7 +1945,7 @@
       "last_updated": null
     },
     {
-      "id": 98644,
+      "id": 99560,
       "provider_id": 73,
       "provider_name": "INFINET BROADBAND",
       "provider_website": "https://www.infinetbroadband.com.au/",
@@ -2002,7 +1964,7 @@
       "last_updated": null
     },
     {
-      "id": 98403,
+      "id": 99324,
       "provider_id": 57,
       "provider_name": "FLIP",
       "provider_website": "https://www.flipconnect.com.au",
@@ -2021,7 +1983,7 @@
       "last_updated": null
     },
     {
-      "id": 98003,
+      "id": 98926,
       "provider_id": 120,
       "provider_name": "SKYMESH",
       "provider_website": "https://www.skymesh.net.au/",
@@ -2040,7 +2002,7 @@
       "last_updated": null
     },
     {
-      "id": 98006,
+      "id": 98929,
       "provider_id": 120,
       "provider_name": "SKYMESH",
       "provider_website": "https://www.skymesh.net.au/",
@@ -2059,7 +2021,7 @@
       "last_updated": null
     },
     {
-      "id": 97904,
+      "id": 98827,
       "provider_id": 108,
       "provider_name": "OCCOM",
       "provider_website": "http://occom.com.au/",
@@ -2078,7 +2040,7 @@
       "last_updated": null
     },
     {
-      "id": 97905,
+      "id": 98828,
       "provider_id": 108,
       "provider_name": "OCCOM",
       "provider_website": "http://occom.com.au/",
@@ -2097,7 +2059,7 @@
       "last_updated": null
     },
     {
-      "id": 97911,
+      "id": 98834,
       "provider_id": 108,
       "provider_name": "OCCOM",
       "provider_website": "http://occom.com.au/",
@@ -2116,7 +2078,7 @@
       "last_updated": null
     },
     {
-      "id": 97912,
+      "id": 98835,
       "provider_id": 108,
       "provider_name": "OCCOM",
       "provider_website": "http://occom.com.au/",
@@ -2135,7 +2097,7 @@
       "last_updated": null
     },
     {
-      "id": 98376,
+      "id": 99297,
       "provider_id": 157,
       "provider_name": "ELEVATE",
       "provider_website": "https://www.elevateinternet.com.au/",
@@ -2154,7 +2116,7 @@
       "last_updated": null
     },
     {
-      "id": 98466,
+      "id": 99376,
       "provider_id": 161,
       "provider_name": "AMAYSIM",
       "provider_website": "https://www.amaysim.com.au/",
@@ -2173,7 +2135,7 @@
       "last_updated": null
     },
     {
-      "id": 98467,
+      "id": 99377,
       "provider_id": 161,
       "provider_name": "AMAYSIM",
       "provider_website": "https://www.amaysim.com.au/",
@@ -2192,7 +2154,7 @@
       "last_updated": null
     },
     {
-      "id": 98046,
+      "id": 98969,
       "provider_id": 122,
       "provider_name": "SPINTEL",
       "provider_website": "https://www.spintel.net.au/",
@@ -2230,7 +2192,7 @@
       "last_updated": null
     },
     {
-      "id": 98574,
+      "id": 99484,
       "provider_id": 85,
       "provider_name": "LEAPTEL",
       "provider_website": "https://leaptel.com.au/",
@@ -2249,7 +2211,7 @@
       "last_updated": null
     },
     {
-      "id": 98575,
+      "id": 99485,
       "provider_id": 85,
       "provider_name": "LEAPTEL",
       "provider_website": "https://leaptel.com.au/",
@@ -2268,7 +2230,7 @@
       "last_updated": null
     },
     {
-      "id": 98581,
+      "id": 99491,
       "provider_id": 85,
       "provider_name": "LEAPTEL",
       "provider_website": "https://leaptel.com.au/",
@@ -2287,7 +2249,7 @@
       "last_updated": null
     },
     {
-      "id": 98650,
+      "id": 99566,
       "provider_id": 85,
       "provider_name": "LEAPTEL",
       "provider_website": "https://leaptel.com.au/",
@@ -2344,25 +2306,6 @@
       "last_updated": null
     },
     {
-      "id": 97303,
-      "provider_id": 133,
-      "provider_name": "TELSTRA",
-      "provider_website": "https://www.telstra.com.au/",
-      "plan_name": "Basic nbn",
-      "monthly_price": 93.0,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 25,
-      "upload_speed": 5,
-      "speed_tier": "25/5",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 46.5,
-      "promo_duration": 2,
-      "promo_details": null,
-      "last_updated": null
-    },
-    {
       "id": 96914,
       "provider_id": 146,
       "provider_name": "VODAFONE",
@@ -2382,7 +2325,7 @@
       "last_updated": null
     },
     {
-      "id": 98079,
+      "id": 99000,
       "provider_id": 128,
       "provider_name": "SWOOP",
       "provider_website": "https://swoop.com.au/",
@@ -2401,13 +2344,13 @@
       "last_updated": null
     },
     {
-      "id": 98089,
+      "id": 99010,
       "provider_id": 128,
       "provider_name": "SWOOP",
       "provider_website": "https://swoop.com.au/",
       "plan_name": "Swoop Fixed Wireless 120/20",
       "monthly_price": 94.0,
-      "setup_fee": 480,
+      "setup_fee": 0,
       "contract_length": 0,
       "download_speed": 120,
       "upload_speed": 20,
@@ -2420,7 +2363,7 @@
       "last_updated": null
     },
     {
-      "id": 98597,
+      "id": 99507,
       "provider_id": 83,
       "provider_name": "KOGAN",
       "provider_website": "https://www.koganinternet.com.au/",
@@ -2439,7 +2382,7 @@
       "last_updated": null
     },
     {
-      "id": 98007,
+      "id": 98930,
       "provider_id": 120,
       "provider_name": "SKYMESH",
       "provider_website": "https://www.skymesh.net.au/",
@@ -2458,7 +2401,7 @@
       "last_updated": null
     },
     {
-      "id": 98163,
+      "id": 99085,
       "provider_id": 144,
       "provider_name": "VEETEL",
       "provider_website": "http://www.veetel.com.au/",
@@ -2477,7 +2420,7 @@
       "last_updated": null
     },
     {
-      "id": 98266,
+      "id": 99187,
       "provider_id": 6,
       "provider_name": "ACTIV8ME",
       "provider_website": "https://www.activ8me.net.au/",
@@ -2496,7 +2439,7 @@
       "last_updated": null
     },
     {
-      "id": 98267,
+      "id": 99188,
       "provider_id": 6,
       "provider_name": "ACTIV8ME",
       "provider_website": "https://www.activ8me.net.au/",
@@ -2515,7 +2458,7 @@
       "last_updated": null
     },
     {
-      "id": 98582,
+      "id": 99492,
       "provider_id": 85,
       "provider_name": "LEAPTEL",
       "provider_website": "https://leaptel.com.au/",
@@ -2534,7 +2477,7 @@
       "last_updated": null
     },
     {
-      "id": 98164,
+      "id": 99086,
       "provider_id": 147,
       "provider_name": "VOIPEX",
       "provider_website": "https://www.voipex.com.au/",
@@ -2553,7 +2496,7 @@
       "last_updated": null
     },
     {
-      "id": 98198,
+      "id": 99119,
       "provider_id": 72,
       "provider_name": "IINET",
       "provider_website": "https://www.iinet.net.au/",
@@ -2572,7 +2515,7 @@
       "last_updated": null
     },
     {
-      "id": 98231,
+      "id": 99152,
       "provider_id": 138,
       "provider_name": "TPG",
       "provider_website": "https://www.tpg.com.au/",
@@ -2591,7 +2534,7 @@
       "last_updated": null
     },
     {
-      "id": 98232,
+      "id": 99153,
       "provider_id": 138,
       "provider_name": "TPG",
       "provider_website": "https://www.tpg.com.au/",
@@ -2610,7 +2553,7 @@
       "last_updated": null
     },
     {
-      "id": 97305,
+      "id": 98752,
       "provider_id": 133,
       "provider_name": "TELSTRA",
       "provider_website": "https://www.telstra.com.au/",
@@ -2623,13 +2566,13 @@
       "speed_tier": "50/20",
       "fixed_wireless": false,
       "promo_type": "discount",
-      "promo_value": 47.5,
-      "promo_duration": 2,
+      "promo_value": 6,
+      "promo_duration": 6,
       "promo_details": null,
       "last_updated": null
     },
     {
-      "id": 97839,
+      "id": 98762,
       "provider_id": 97,
       "provider_name": "MORE",
       "provider_website": "https://www.more.com.au",
@@ -2648,26 +2591,7 @@
       "last_updated": null
     },
     {
-      "id": 97854,
-      "provider_id": 101,
-      "provider_name": "MYOWN TEL",
-      "provider_website": "https://www.myowntel.net.au/",
-      "plan_name": "Home Fast Plus",
-      "monthly_price": 95.0,
-      "setup_fee": 0,
-      "contract_length": 12,
-      "download_speed": 500,
-      "upload_speed": 50,
-      "speed_tier": "500/50",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 20,
-      "promo_duration": 6,
-      "promo_details": null,
-      "last_updated": null
-    },
-    {
-      "id": 97857,
+      "id": 98777,
       "provider_id": 101,
       "provider_name": "MYOWN TEL",
       "provider_website": "https://www.myowntel.net.au/",
@@ -2686,7 +2610,26 @@
       "last_updated": null
     },
     {
-      "id": 97926,
+      "id": 98780,
+      "provider_id": 101,
+      "provider_name": "MYOWN TEL",
+      "provider_website": "https://www.myowntel.net.au/",
+      "plan_name": "Home Fast Plus",
+      "monthly_price": 95.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 500,
+      "upload_speed": 50,
+      "speed_tier": "500/50",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 20,
+      "promo_duration": 6,
+      "promo_details": null,
+      "last_updated": null
+    },
+    {
+      "id": 98849,
       "provider_id": 110,
       "provider_name": "OPTUS",
       "provider_website": "https://www.optus.com.au/",
@@ -2705,7 +2648,7 @@
       "last_updated": null
     },
     {
-      "id": 97968,
+      "id": 98891,
       "provider_id": 113,
       "provider_name": "PENTANET",
       "provider_website": "https://pentanet.com.au/",
@@ -2724,7 +2667,7 @@
       "last_updated": null
     },
     {
-      "id": 98056,
+      "id": 98977,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/",
@@ -2743,7 +2686,7 @@
       "last_updated": null
     },
     {
-      "id": 98061,
+      "id": 98982,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/",
@@ -2762,7 +2705,7 @@
       "last_updated": null
     },
     {
-      "id": 98070,
+      "id": 98991,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/",
@@ -2781,7 +2724,7 @@
       "last_updated": null
     },
     {
-      "id": 98318,
+      "id": 99239,
       "provider_id": 27,
       "provider_name": "BELONG",
       "provider_website": "https://www.belong.com.au/",
@@ -2800,7 +2743,7 @@
       "last_updated": null
     },
     {
-      "id": 98319,
+      "id": 99240,
       "provider_id": 27,
       "provider_name": "BELONG",
       "provider_website": "https://www.belong.com.au/",
@@ -2819,7 +2762,7 @@
       "last_updated": null
     },
     {
-      "id": 98377,
+      "id": 99298,
       "provider_id": 157,
       "provider_name": "ELEVATE",
       "provider_website": "https://www.elevateinternet.com.au/",
@@ -2838,7 +2781,7 @@
       "last_updated": null
     },
     {
-      "id": 98379,
+      "id": 99300,
       "provider_id": 157,
       "provider_name": "ELEVATE",
       "provider_website": "https://www.elevateinternet.com.au/",
@@ -2857,7 +2800,7 @@
       "last_updated": null
     },
     {
-      "id": 98488,
+      "id": 99398,
       "provider_id": 177,
       "provider_name": "OCEANDIGI",
       "provider_website": "https://oceandigi.com.au/",
@@ -2876,7 +2819,7 @@
       "last_updated": null
     },
     {
-      "id": 98698,
+      "id": 99614,
       "provider_id": 90,
       "provider_name": "MATE",
       "provider_website": "https://www.letsbemates.com.au",
@@ -2895,7 +2838,7 @@
       "last_updated": null
     },
     {
-      "id": 98700,
+      "id": 99616,
       "provider_id": 90,
       "provider_name": "MATE",
       "provider_website": "https://www.letsbemates.com.au",
@@ -2914,7 +2857,7 @@
       "last_updated": null
     },
     {
-      "id": 97950,
+      "id": 98873,
       "provider_id": 159,
       "provider_name": "OZOT",
       "provider_website": "https://ozot.com.au/",
@@ -2971,7 +2914,7 @@
       "last_updated": null
     },
     {
-      "id": 97903,
+      "id": 98826,
       "provider_id": 108,
       "provider_name": "OCCOM",
       "provider_website": "http://occom.com.au/",
@@ -2990,7 +2933,7 @@
       "last_updated": null
     },
     {
-      "id": 97910,
+      "id": 98833,
       "provider_id": 108,
       "provider_name": "OCCOM",
       "provider_website": "http://occom.com.au/",
@@ -3009,7 +2952,7 @@
       "last_updated": null
     },
     {
-      "id": 97986,
+      "id": 98909,
       "provider_id": 166,
       "provider_name": "QUOKKA NET",
       "provider_website": "https://quokkanet.au/",
@@ -3028,7 +2971,7 @@
       "last_updated": null
     },
     {
-      "id": 97991,
+      "id": 98914,
       "provider_id": 166,
       "provider_name": "QUOKKA NET",
       "provider_website": "https://quokkanet.au/",
@@ -3036,8 +2979,8 @@
       "monthly_price": 98.0,
       "setup_fee": 0,
       "contract_length": 0,
-      "download_speed": 500,
-      "upload_speed": 50,
+      "download_speed": 400,
+      "upload_speed": 40,
       "speed_tier": "500/50",
       "fixed_wireless": true,
       "promo_type": "discount",
@@ -3047,7 +2990,7 @@
       "last_updated": null
     },
     {
-      "id": 97307,
+      "id": 98754,
       "provider_id": 133,
       "provider_name": "TELSTRA",
       "provider_website": "https://www.telstra.com.au/",
@@ -3060,13 +3003,13 @@
       "speed_tier": "100/20",
       "fixed_wireless": false,
       "promo_type": "discount",
-      "promo_value": 49.5,
-      "promo_duration": 2,
+      "promo_value": 10,
+      "promo_duration": 6,
       "promo_details": null,
       "last_updated": null
     },
     {
-      "id": 97309,
+      "id": 98756,
       "provider_id": 133,
       "provider_name": "TELSTRA",
       "provider_website": "https://www.telstra.com.au/",
@@ -3076,16 +3019,16 @@
       "contract_length": 0,
       "download_speed": 500,
       "upload_speed": 50,
-      "speed_tier": "Home Fast 500/50",
+      "speed_tier": "500/50",
       "fixed_wireless": false,
       "promo_type": "discount",
-      "promo_value": 49.5,
-      "promo_duration": 2,
+      "promo_value": 10,
+      "promo_duration": 6,
       "promo_details": null,
       "last_updated": null
     },
     {
-      "id": 97859,
+      "id": 98782,
       "provider_id": 167,
       "provider_name": "NATAN",
       "provider_website": "https://natan.com.au/",
@@ -3104,7 +3047,7 @@
       "last_updated": null
     },
     {
-      "id": 97860,
+      "id": 98783,
       "provider_id": 167,
       "provider_name": "NATAN",
       "provider_website": "https://natan.com.au/",
@@ -3123,7 +3066,7 @@
       "last_updated": null
     },
     {
-      "id": 97927,
+      "id": 98850,
       "provider_id": 110,
       "provider_name": "OPTUS",
       "provider_website": "https://www.optus.com.au/",
@@ -3142,7 +3085,7 @@
       "last_updated": null
     },
     {
-      "id": 97929,
+      "id": 98852,
       "provider_id": 110,
       "provider_name": "OPTUS",
       "provider_website": "https://www.optus.com.au/",
@@ -3161,7 +3104,7 @@
       "last_updated": null
     },
     {
-      "id": 98085,
+      "id": 99006,
       "provider_id": 128,
       "provider_name": "SWOOP",
       "provider_website": "https://swoop.com.au/",
@@ -3180,7 +3123,7 @@
       "last_updated": null
     },
     {
-      "id": 98285,
+      "id": 99206,
       "provider_id": 10,
       "provider_name": "AGL TELECOMMUNICATIONS",
       "provider_website": "https://www.agl.com.au/",
@@ -3199,7 +3142,7 @@
       "last_updated": null
     },
     {
-      "id": 98290,
+      "id": 99211,
       "provider_id": 10,
       "provider_name": "AGL TELECOMMUNICATIONS",
       "provider_website": "https://www.agl.com.au/",
@@ -3218,7 +3161,7 @@
       "last_updated": null
     },
     {
-      "id": 98292,
+      "id": 99213,
       "provider_id": 15,
       "provider_name": "AQUA MOBILE",
       "provider_website": "https://www.aquamobile.net.au/",
@@ -3237,7 +3180,7 @@
       "last_updated": null
     },
     {
-      "id": 98533,
+      "id": 99443,
       "provider_id": 73,
       "provider_name": "INFINET BROADBAND",
       "provider_website": "https://www.infinetbroadband.com.au/",
@@ -3256,7 +3199,7 @@
       "last_updated": null
     },
     {
-      "id": 98548,
+      "id": 99458,
       "provider_id": 73,
       "provider_name": "INFINET BROADBAND",
       "provider_website": "https://www.infinetbroadband.com.au/",
@@ -3275,11 +3218,11 @@
       "last_updated": null
     },
     {
-      "id": 98508,
+      "id": 99418,
       "provider_id": 65,
       "provider_name": "GOODTEL",
       "provider_website": "https://www.goodtel.com.au/",
-      "plan_name": "nbn 100/20",
+      "plan_name": "nbn 100/20Mbps",
       "monthly_price": 99.9,
       "setup_fee": 0,
       "contract_length": 0,
@@ -3294,11 +3237,11 @@
       "last_updated": null
     },
     {
-      "id": 98509,
+      "id": 99419,
       "provider_id": 65,
       "provider_name": "GOODTEL",
       "provider_website": "https://www.goodtel.com.au/",
-      "plan_name": "nbn 500/50",
+      "plan_name": "nbn 500/50Mbps",
       "monthly_price": 99.9,
       "setup_fee": 0,
       "contract_length": 0,
@@ -3313,7 +3256,7 @@
       "last_updated": null
     },
     {
-      "id": 98004,
+      "id": 98927,
       "provider_id": 120,
       "provider_name": "SKYMESH",
       "provider_website": "https://www.skymesh.net.au/",
@@ -3332,7 +3275,7 @@
       "last_updated": null
     },
     {
-      "id": 98005,
+      "id": 98928,
       "provider_id": 120,
       "provider_name": "SKYMESH",
       "provider_website": "https://www.skymesh.net.au/",
@@ -3351,7 +3294,7 @@
       "last_updated": null
     },
     {
-      "id": 98048,
+      "id": 98971,
       "provider_id": 122,
       "provider_name": "SPINTEL",
       "provider_website": "https://www.spintel.net.au/",
@@ -3370,7 +3313,7 @@
       "last_updated": null
     },
     {
-      "id": 98273,
+      "id": 99194,
       "provider_id": 6,
       "provider_name": "ACTIV8ME",
       "provider_website": "https://www.activ8me.net.au/",
@@ -3408,7 +3351,7 @@
       "last_updated": null
     },
     {
-      "id": 98199,
+      "id": 99120,
       "provider_id": 72,
       "provider_name": "IINET",
       "provider_website": "https://www.iinet.net.au/",
@@ -3427,7 +3370,7 @@
       "last_updated": null
     },
     {
-      "id": 98233,
+      "id": 99154,
       "provider_id": 138,
       "provider_name": "TPG",
       "provider_website": "https://www.tpg.com.au/",
@@ -3440,13 +3383,32 @@
       "speed_tier": "Home Superfast 750/50",
       "fixed_wireless": false,
       "promo_type": "discount",
-      "promo_value": 20,
+      "promo_value": 30,
       "promo_duration": 6,
       "promo_details": null,
       "last_updated": null
     },
     {
-      "id": 97841,
+      "id": 98763,
+      "provider_id": 97,
+      "provider_name": "MORE",
+      "provider_website": "https://www.more.com.au",
+      "plan_name": "Fast",
+      "monthly_price": 100.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 100,
+      "upload_speed": 20,
+      "speed_tier": "100/20",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 25,
+      "promo_duration": 36,
+      "promo_details": null,
+      "last_updated": null
+    },
+    {
+      "id": 98764,
       "provider_id": 97,
       "provider_name": "MORE",
       "provider_website": "https://www.more.com.au",
@@ -3465,7 +3427,7 @@
       "last_updated": null
     },
     {
-      "id": 98064,
+      "id": 98985,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/",
@@ -3484,7 +3446,7 @@
       "last_updated": null
     },
     {
-      "id": 98378,
+      "id": 99299,
       "provider_id": 157,
       "provider_name": "ELEVATE",
       "provider_website": "https://www.elevateinternet.com.au/",
@@ -3503,7 +3465,7 @@
       "last_updated": null
     },
     {
-      "id": 98468,
+      "id": 99378,
       "provider_id": 161,
       "provider_name": "AMAYSIM",
       "provider_website": "https://www.amaysim.com.au/",
@@ -3522,7 +3484,7 @@
       "last_updated": null
     },
     {
-      "id": 97943,
+      "id": 98866,
       "provider_id": 159,
       "provider_name": "OZOT",
       "provider_website": "https://ozot.com.au/",
@@ -3537,44 +3499,6 @@
       "promo_type": "discount",
       "promo_value": 22.01,
       "promo_duration": 3,
-      "promo_details": null,
-      "last_updated": null
-    },
-    {
-      "id": 97937,
-      "provider_id": 111,
-      "provider_name": "ORIGIN BROADBAND",
-      "provider_website": "https://www.originenergy.com.au/",
-      "plan_name": "Experience nbn",
-      "monthly_price": 103.0,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 50,
-      "upload_speed": 20,
-      "speed_tier": "50/20",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 51.5,
-      "promo_duration": 6,
-      "promo_details": null,
-      "last_updated": null
-    },
-    {
-      "id": 97938,
-      "provider_id": 111,
-      "provider_name": "ORIGIN BROADBAND",
-      "provider_website": "https://www.originenergy.com.au/",
-      "plan_name": "Enthusiast nbn",
-      "monthly_price": 103.0,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 100,
-      "upload_speed": 20,
-      "speed_tier": "100/20",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 49.5,
-      "promo_duration": 6,
       "promo_details": null,
       "last_updated": null
     },
@@ -3617,7 +3541,7 @@
       "last_updated": null
     },
     {
-      "id": 97982,
+      "id": 98905,
       "provider_id": 166,
       "provider_name": "QUOKKA NET",
       "provider_website": "https://quokkanet.au/",
@@ -3636,7 +3560,7 @@
       "last_updated": null
     },
     {
-      "id": 98057,
+      "id": 98978,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/",
@@ -3655,7 +3579,7 @@
       "last_updated": null
     },
     {
-      "id": 98062,
+      "id": 98983,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/",
@@ -3674,7 +3598,7 @@
       "last_updated": null
     },
     {
-      "id": 98080,
+      "id": 99001,
       "provider_id": 128,
       "provider_name": "SWOOP",
       "provider_website": "https://swoop.com.au/",
@@ -3693,7 +3617,7 @@
       "last_updated": null
     },
     {
-      "id": 98406,
+      "id": 99327,
       "provider_id": 57,
       "provider_name": "FLIP",
       "provider_website": "https://www.flipconnect.com.au",
@@ -3712,7 +3636,7 @@
       "last_updated": null
     },
     {
-      "id": 98606,
+      "id": 99522,
       "provider_id": 130,
       "provider_name": "TANGERINE TELECOM",
       "provider_website": "https://www.tangerine.com.au/",
@@ -3731,7 +3655,7 @@
       "last_updated": null
     },
     {
-      "id": 98651,
+      "id": 99567,
       "provider_id": 85,
       "provider_name": "LEAPTEL",
       "provider_website": "https://leaptel.com.au/",
@@ -3750,7 +3674,7 @@
       "last_updated": null
     },
     {
-      "id": 98297,
+      "id": 99218,
       "provider_id": 169,
       "provider_name": "ARCTEL",
       "provider_website": "https://arctel.com.au/",
@@ -3769,7 +3693,7 @@
       "last_updated": null
     },
     {
-      "id": 98065,
+      "id": 98986,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/",
@@ -3788,7 +3712,7 @@
       "last_updated": null
     },
     {
-      "id": 98071,
+      "id": 98992,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/",
@@ -3807,7 +3731,7 @@
       "last_updated": null
     },
     {
-      "id": 98380,
+      "id": 99301,
       "provider_id": 157,
       "provider_name": "ELEVATE",
       "provider_website": "https://www.elevateinternet.com.au/",
@@ -3826,7 +3750,7 @@
       "last_updated": null
     },
     {
-      "id": 98487,
+      "id": 99397,
       "provider_id": 177,
       "provider_name": "OCEANDIGI",
       "provider_website": "https://oceandigi.com.au/",
@@ -3845,7 +3769,7 @@
       "last_updated": null
     },
     {
-      "id": 98699,
+      "id": 99615,
       "provider_id": 90,
       "provider_name": "MATE",
       "provider_website": "https://www.letsbemates.com.au",
@@ -3864,26 +3788,7 @@
       "last_updated": null
     },
     {
-      "id": 97939,
-      "provider_id": 111,
-      "provider_name": "ORIGIN BROADBAND",
-      "provider_website": "https://www.originenergy.com.au/",
-      "plan_name": "Enthusiast+ nbn",
-      "monthly_price": 107.0,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 500,
-      "upload_speed": 50,
-      "speed_tier": "500/50",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 53.5,
-      "promo_duration": 6,
-      "promo_details": null,
-      "last_updated": null
-    },
-    {
-      "id": 98286,
+      "id": 99207,
       "provider_id": 10,
       "provider_name": "AGL TELECOMMUNICATIONS",
       "provider_website": "https://www.agl.com.au/",
@@ -3902,7 +3807,7 @@
       "last_updated": null
     },
     {
-      "id": 98287,
+      "id": 99208,
       "provider_id": 10,
       "provider_name": "AGL TELECOMMUNICATIONS",
       "provider_website": "https://www.agl.com.au/",
@@ -3921,7 +3826,7 @@
       "last_updated": null
     },
     {
-      "id": 97987,
+      "id": 98910,
       "provider_id": 166,
       "provider_name": "QUOKKA NET",
       "provider_website": "https://quokkanet.au/",
@@ -3940,7 +3845,7 @@
       "last_updated": null
     },
     {
-      "id": 98598,
+      "id": 99508,
       "provider_id": 83,
       "provider_name": "KOGAN",
       "provider_website": "https://www.koganinternet.com.au/",
@@ -3959,7 +3864,7 @@
       "last_updated": null
     },
     {
-      "id": 97304,
+      "id": 98751,
       "provider_id": 133,
       "provider_name": "TELSTRA",
       "provider_website": "https://www.telstra.com.au/",
@@ -3972,13 +3877,13 @@
       "speed_tier": "50/20",
       "fixed_wireless": false,
       "promo_type": "discount",
-      "promo_value": 54.5,
-      "promo_duration": 2,
+      "promo_value": 14,
+      "promo_duration": 6,
       "promo_details": null,
       "last_updated": null
     },
     {
-      "id": 97870,
+      "id": 98793,
       "provider_id": 167,
       "provider_name": "NATAN",
       "provider_website": "https://natan.com.au/",
@@ -3997,7 +3902,7 @@
       "last_updated": null
     },
     {
-      "id": 98058,
+      "id": 98979,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/",
@@ -4016,7 +3921,7 @@
       "last_updated": null
     },
     {
-      "id": 98063,
+      "id": 98984,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/",
@@ -4035,7 +3940,7 @@
       "last_updated": null
     },
     {
-      "id": 98081,
+      "id": 99002,
       "provider_id": 128,
       "provider_name": "SWOOP",
       "provider_website": "https://swoop.com.au/",
@@ -4054,7 +3959,7 @@
       "last_updated": null
     },
     {
-      "id": 98082,
+      "id": 99003,
       "provider_id": 128,
       "provider_name": "SWOOP",
       "provider_website": "https://swoop.com.au/",
@@ -4073,7 +3978,7 @@
       "last_updated": null
     },
     {
-      "id": 98293,
+      "id": 99214,
       "provider_id": 15,
       "provider_name": "AQUA MOBILE",
       "provider_website": "https://www.aquamobile.net.au/",
@@ -4092,7 +3997,7 @@
       "last_updated": null
     },
     {
-      "id": 98534,
+      "id": 99444,
       "provider_id": 73,
       "provider_name": "INFINET BROADBAND",
       "provider_website": "https://www.infinetbroadband.com.au/",
@@ -4111,7 +4016,7 @@
       "last_updated": null
     },
     {
-      "id": 98549,
+      "id": 99459,
       "provider_id": 73,
       "provider_name": "INFINET BROADBAND",
       "provider_website": "https://www.infinetbroadband.com.au/",
@@ -4130,7 +4035,7 @@
       "last_updated": null
     },
     {
-      "id": 98645,
+      "id": 99561,
       "provider_id": 73,
       "provider_name": "INFINET BROADBAND",
       "provider_website": "https://www.infinetbroadband.com.au/",
@@ -4168,7 +4073,7 @@
       "last_updated": null
     },
     {
-      "id": 98008,
+      "id": 98931,
       "provider_id": 120,
       "provider_name": "SKYMESH",
       "provider_website": "https://www.skymesh.net.au/",
@@ -4187,7 +4092,7 @@
       "last_updated": null
     },
     {
-      "id": 98276,
+      "id": 99197,
       "provider_id": 6,
       "provider_name": "ACTIV8ME",
       "provider_website": "https://www.activ8me.net.au/",
@@ -4225,7 +4130,7 @@
       "last_updated": null
     },
     {
-      "id": 98200,
+      "id": 99121,
       "provider_id": 72,
       "provider_name": "IINET",
       "provider_website": "https://www.iinet.net.au/",
@@ -4244,7 +4149,7 @@
       "last_updated": null
     },
     {
-      "id": 98234,
+      "id": 99155,
       "provider_id": 138,
       "provider_name": "TPG",
       "provider_website": "https://www.tpg.com.au/",
@@ -4257,13 +4162,32 @@
       "speed_tier": "Home Ultrafast 1000/100",
       "fixed_wireless": false,
       "promo_type": "discount",
-      "promo_value": 20,
+      "promo_value": 30,
       "promo_duration": 6,
       "promo_details": null,
       "last_updated": null
     },
     {
-      "id": 98320,
+      "id": 98765,
+      "provider_id": 97,
+      "provider_name": "MORE",
+      "provider_website": "https://www.more.com.au",
+      "plan_name": "Fast Plus",
+      "monthly_price": 110.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 100,
+      "upload_speed": 40,
+      "speed_tier": "100/40",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 25,
+      "promo_duration": 36,
+      "promo_details": null,
+      "last_updated": null
+    },
+    {
+      "id": 99241,
       "provider_id": 27,
       "provider_name": "BELONG",
       "provider_website": "https://www.belong.com.au/",
@@ -4282,7 +4206,7 @@
       "last_updated": null
     },
     {
-      "id": 98469,
+      "id": 99379,
       "provider_id": 161,
       "provider_name": "AMAYSIM",
       "provider_website": "https://www.amaysim.com.au/",
@@ -4301,7 +4225,7 @@
       "last_updated": null
     },
     {
-      "id": 97306,
+      "id": 98753,
       "provider_id": 133,
       "provider_name": "TELSTRA",
       "provider_website": "https://www.telstra.com.au/",
@@ -4314,13 +4238,13 @@
       "speed_tier": "100/20",
       "fixed_wireless": false,
       "promo_type": "discount",
-      "promo_value": 56.5,
-      "promo_duration": 2,
+      "promo_value": 18,
+      "promo_duration": 6,
       "promo_details": null,
       "last_updated": null
     },
     {
-      "id": 97308,
+      "id": 98755,
       "provider_id": 133,
       "provider_name": "TELSTRA",
       "provider_website": "https://www.telstra.com.au/",
@@ -4330,16 +4254,16 @@
       "contract_length": 0,
       "download_speed": 500,
       "upload_speed": 50,
-      "speed_tier": "Home Fast 500/50",
+      "speed_tier": "500/50",
       "fixed_wireless": false,
       "promo_type": "discount",
-      "promo_value": 56.5,
-      "promo_duration": 2,
+      "promo_value": 18,
+      "promo_duration": 6,
       "promo_details": null,
       "last_updated": null
     },
     {
-      "id": 97944,
+      "id": 98867,
       "provider_id": 159,
       "provider_name": "OZOT",
       "provider_website": "https://ozot.com.au/",
@@ -4358,7 +4282,7 @@
       "last_updated": null
     },
     {
-      "id": 97946,
+      "id": 98869,
       "provider_id": 159,
       "provider_name": "OZOT",
       "provider_website": "https://ozot.com.au/",
@@ -4377,7 +4301,7 @@
       "last_updated": null
     },
     {
-      "id": 97951,
+      "id": 98874,
       "provider_id": 159,
       "provider_name": "OZOT",
       "provider_website": "https://ozot.com.au/",
@@ -4396,7 +4320,7 @@
       "last_updated": null
     },
     {
-      "id": 98576,
+      "id": 99486,
       "provider_id": 85,
       "provider_name": "LEAPTEL",
       "provider_website": "https://leaptel.com.au/",
@@ -4415,7 +4339,7 @@
       "last_updated": null
     },
     {
-      "id": 97902,
+      "id": 98825,
       "provider_id": 108,
       "provider_name": "OCCOM",
       "provider_website": "http://occom.com.au/",
@@ -4434,7 +4358,7 @@
       "last_updated": null
     },
     {
-      "id": 97909,
+      "id": 98832,
       "provider_id": 108,
       "provider_name": "OCCOM",
       "provider_website": "http://occom.com.au/",
@@ -4453,7 +4377,7 @@
       "last_updated": null
     },
     {
-      "id": 97945,
+      "id": 98868,
       "provider_id": 159,
       "provider_name": "OZOT",
       "provider_website": "https://ozot.com.au/",
@@ -4472,7 +4396,7 @@
       "last_updated": null
     },
     {
-      "id": 98486,
+      "id": 99396,
       "provider_id": 177,
       "provider_name": "OCEANDIGI",
       "provider_website": "https://oceandigi.com.au/",
@@ -4491,7 +4415,7 @@
       "last_updated": null
     },
     {
-      "id": 97311,
+      "id": 98758,
       "provider_id": 133,
       "provider_name": "TELSTRA",
       "provider_website": "https://www.telstra.com.au/",
@@ -4501,16 +4425,16 @@
       "contract_length": 0,
       "download_speed": 750,
       "upload_speed": 50,
-      "speed_tier": "Home Superfast 750/50",
+      "speed_tier": "750/50",
       "fixed_wireless": false,
       "promo_type": "discount",
-      "promo_value": 59.5,
-      "promo_duration": 2,
+      "promo_value": 15,
+      "promo_duration": 6,
       "promo_details": null,
       "last_updated": null
     },
     {
-      "id": 97869,
+      "id": 98792,
       "provider_id": 167,
       "provider_name": "NATAN",
       "provider_website": "https://natan.com.au/",
@@ -4529,7 +4453,7 @@
       "last_updated": null
     },
     {
-      "id": 97928,
+      "id": 98851,
       "provider_id": 110,
       "provider_name": "OPTUS",
       "provider_website": "https://www.optus.com.au/",
@@ -4548,7 +4472,7 @@
       "last_updated": null
     },
     {
-      "id": 97930,
+      "id": 98853,
       "provider_id": 110,
       "provider_name": "OPTUS",
       "provider_website": "https://www.optus.com.au/",
@@ -4567,7 +4491,7 @@
       "last_updated": null
     },
     {
-      "id": 97969,
+      "id": 98892,
       "provider_id": 113,
       "provider_name": "PENTANET",
       "provider_website": "https://pentanet.com.au/",
@@ -4586,7 +4510,7 @@
       "last_updated": null
     },
     {
-      "id": 98066,
+      "id": 98987,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/",
@@ -4596,7 +4520,7 @@
       "contract_length": 0,
       "download_speed": 1000,
       "upload_speed": 100,
-      "speed_tier": "Home Ultrafast 1000/100",
+      "speed_tier": "1000/100",
       "fixed_wireless": false,
       "promo_type": "discount",
       "promo_value": 14,
@@ -4605,13 +4529,13 @@
       "last_updated": null
     },
     {
-      "id": 98090,
+      "id": 99011,
       "provider_id": 128,
       "provider_name": "SWOOP",
       "provider_website": "https://swoop.com.au/",
       "plan_name": "Swoop Fixed Wireless 250/100",
       "monthly_price": 119.0,
-      "setup_fee": 480,
+      "setup_fee": 0,
       "contract_length": 0,
       "download_speed": 250,
       "upload_speed": 100,
@@ -4624,7 +4548,7 @@
       "last_updated": null
     },
     {
-      "id": 97947,
+      "id": 98870,
       "provider_id": 159,
       "provider_name": "OZOT",
       "provider_website": "https://ozot.com.au/",
@@ -4643,7 +4567,7 @@
       "last_updated": null
     },
     {
-      "id": 97952,
+      "id": 98875,
       "provider_id": 159,
       "provider_name": "OZOT",
       "provider_website": "https://ozot.com.au/",
@@ -4662,7 +4586,7 @@
       "last_updated": null
     },
     {
-      "id": 98603,
+      "id": 99513,
       "provider_id": 130,
       "provider_name": "TANGERINE TELECOM",
       "provider_website": "https://www.tangerine.com.au/",
@@ -4681,7 +4605,7 @@
       "last_updated": null
     },
     {
-      "id": 98381,
+      "id": 99302,
       "provider_id": 157,
       "provider_name": "ELEVATE",
       "provider_website": "https://www.elevateinternet.com.au/",
@@ -4700,7 +4624,7 @@
       "last_updated": null
     },
     {
-      "id": 98485,
+      "id": 99395,
       "provider_id": 177,
       "provider_name": "OCEANDIGI",
       "provider_website": "https://oceandigi.com.au/",
@@ -4719,7 +4643,7 @@
       "last_updated": null
     },
     {
-      "id": 98701,
+      "id": 99617,
       "provider_id": 90,
       "provider_name": "MATE",
       "provider_website": "https://www.letsbemates.com.au",
@@ -4738,7 +4662,7 @@
       "last_updated": null
     },
     {
-      "id": 98067,
+      "id": 98988,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/",
@@ -4776,7 +4700,7 @@
       "last_updated": null
     },
     {
-      "id": 98702,
+      "id": 99618,
       "provider_id": 90,
       "provider_name": "MATE",
       "provider_website": "https://www.letsbemates.com.au",
@@ -4795,7 +4719,7 @@
       "last_updated": null
     },
     {
-      "id": 97983,
+      "id": 98906,
       "provider_id": 166,
       "provider_name": "QUOKKA NET",
       "provider_website": "https://quokkanet.au/",
@@ -4814,7 +4738,7 @@
       "last_updated": null
     },
     {
-      "id": 97310,
+      "id": 98757,
       "provider_id": 133,
       "provider_name": "TELSTRA",
       "provider_website": "https://www.telstra.com.au/",
@@ -4824,16 +4748,35 @@
       "contract_length": 0,
       "download_speed": 750,
       "upload_speed": 50,
-      "speed_tier": "Home Superfast 750/50",
+      "speed_tier": "750/50",
       "fixed_wireless": false,
       "promo_type": "discount",
-      "promo_value": 64.5,
-      "promo_duration": 2,
+      "promo_value": 20,
+      "promo_duration": 6,
       "promo_details": null,
       "last_updated": null
     },
     {
-      "id": 97843,
+      "id": 98760,
+      "provider_id": 133,
+      "provider_name": "TELSTRA",
+      "provider_website": "https://www.telstra.com.au/",
+      "plan_name": "Ultrafast nbn Internet Only",
+      "monthly_price": 129.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 1000,
+      "upload_speed": 100,
+      "speed_tier": "1000/100",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 15,
+      "promo_duration": 6,
+      "promo_details": null,
+      "last_updated": null
+    },
+    {
+      "id": 98766,
       "provider_id": 97,
       "provider_name": "MORE",
       "provider_website": "https://www.more.com.au",
@@ -4852,14 +4795,14 @@
       "last_updated": null
     },
     {
-      "id": 97855,
+      "id": 98778,
       "provider_id": 101,
       "provider_name": "MYOWN TEL",
       "provider_website": "https://www.myowntel.net.au/",
       "plan_name": "Ultrafast",
       "monthly_price": 129.0,
       "setup_fee": 0,
-      "contract_length": 12,
+      "contract_length": 0,
       "download_speed": 1000,
       "upload_speed": 100,
       "speed_tier": "1000/100",
@@ -4871,7 +4814,7 @@
       "last_updated": null
     },
     {
-      "id": 97858,
+      "id": 98781,
       "provider_id": 101,
       "provider_name": "MYOWN TEL",
       "provider_website": "https://www.myowntel.net.au/",
@@ -4890,7 +4833,7 @@
       "last_updated": null
     },
     {
-      "id": 97867,
+      "id": 98790,
       "provider_id": 167,
       "provider_name": "NATAN",
       "provider_website": "https://natan.com.au/",
@@ -4909,7 +4852,7 @@
       "last_updated": null
     },
     {
-      "id": 97868,
+      "id": 98791,
       "provider_id": 167,
       "provider_name": "NATAN",
       "provider_website": "https://natan.com.au/",
@@ -4928,7 +4871,7 @@
       "last_updated": null
     },
     {
-      "id": 97931,
+      "id": 98854,
       "provider_id": 110,
       "provider_name": "OPTUS",
       "provider_website": "https://www.optus.com.au/",
@@ -4947,26 +4890,7 @@
       "last_updated": null
     },
     {
-      "id": 97940,
-      "provider_id": 111,
-      "provider_name": "ORIGIN BROADBAND",
-      "provider_website": "https://www.originenergy.com.au/",
-      "plan_name": "Super fast nbn",
-      "monthly_price": 129.0,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 750,
-      "upload_speed": 50,
-      "speed_tier": "750/50",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 64.5,
-      "promo_duration": 6,
-      "promo_details": null,
-      "last_updated": null
-    },
-    {
-      "id": 97970,
+      "id": 98893,
       "provider_id": 113,
       "provider_name": "PENTANET",
       "provider_website": "https://pentanet.com.au/",
@@ -4985,7 +4909,7 @@
       "last_updated": null
     },
     {
-      "id": 98086,
+      "id": 99007,
       "provider_id": 128,
       "provider_name": "SWOOP",
       "provider_website": "https://swoop.com.au/",
@@ -5004,7 +4928,7 @@
       "last_updated": null
     },
     {
-      "id": 98288,
+      "id": 99209,
       "provider_id": 10,
       "provider_name": "AGL TELECOMMUNICATIONS",
       "provider_website": "https://www.agl.com.au/",
@@ -5023,7 +4947,7 @@
       "last_updated": null
     },
     {
-      "id": 98583,
+      "id": 99493,
       "provider_id": 85,
       "provider_name": "LEAPTEL",
       "provider_website": "https://leaptel.com.au/",
@@ -5042,7 +4966,7 @@
       "last_updated": null
     },
     {
-      "id": 97948,
+      "id": 98871,
       "provider_id": 159,
       "provider_name": "OZOT",
       "provider_website": "https://ozot.com.au/",
@@ -5061,7 +4985,7 @@
       "last_updated": null
     },
     {
-      "id": 97953,
+      "id": 98876,
       "provider_id": 159,
       "provider_name": "OZOT",
       "provider_website": "https://ozot.com.au/",
@@ -5080,7 +5004,7 @@
       "last_updated": null
     },
     {
-      "id": 97312,
+      "id": 98759,
       "provider_id": 133,
       "provider_name": "TELSTRA",
       "provider_website": "https://www.telstra.com.au/",
@@ -5090,35 +5014,16 @@
       "contract_length": 0,
       "download_speed": 1000,
       "upload_speed": 100,
-      "speed_tier": "Home Ultrafast 1000/100",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 69.5,
-      "promo_duration": 2,
-      "promo_details": null,
-      "last_updated": null
-    },
-    {
-      "id": 97941,
-      "provider_id": 111,
-      "provider_name": "ORIGIN BROADBAND",
-      "provider_website": "https://www.originenergy.com.au/",
-      "plan_name": "Ultra fast nbn",
-      "monthly_price": 139.0,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 1000,
-      "upload_speed": 100,
       "speed_tier": "1000/100",
       "fixed_wireless": false,
       "promo_type": "discount",
-      "promo_value": 69.5,
+      "promo_value": 20,
       "promo_duration": 6,
       "promo_details": null,
       "last_updated": null
     },
     {
-      "id": 98646,
+      "id": 99562,
       "provider_id": 73,
       "provider_name": "INFINET BROADBAND",
       "provider_website": "https://www.infinetbroadband.com.au/",
@@ -5137,7 +5042,7 @@
       "last_updated": null
     },
     {
-      "id": 97866,
+      "id": 98789,
       "provider_id": 167,
       "provider_name": "NATAN",
       "provider_website": "https://natan.com.au/",
@@ -5156,7 +5061,7 @@
       "last_updated": null
     },
     {
-      "id": 98577,
+      "id": 99487,
       "provider_id": 85,
       "provider_name": "LEAPTEL",
       "provider_website": "https://leaptel.com.au/",
@@ -5175,7 +5080,7 @@
       "last_updated": null
     },
     {
-      "id": 98578,
+      "id": 99488,
       "provider_id": 85,
       "provider_name": "LEAPTEL",
       "provider_website": "https://leaptel.com.au/",
@@ -5194,7 +5099,7 @@
       "last_updated": null
     },
     {
-      "id": 98703,
+      "id": 99619,
       "provider_id": 90,
       "provider_name": "MATE",
       "provider_website": "https://www.letsbemates.com.au",
@@ -5213,14 +5118,14 @@
       "last_updated": null
     },
     {
-      "id": 97856,
+      "id": 98779,
       "provider_id": 101,
       "provider_name": "MYOWN TEL",
       "provider_website": "https://www.myowntel.net.au/",
       "plan_name": "Home Hyperfast Plus",
       "monthly_price": 175.0,
       "setup_fee": 0,
-      "contract_length": 12,
+      "contract_length": 0,
       "download_speed": 2000,
       "upload_speed": 200,
       "speed_tier": "2000/200",
@@ -5232,7 +5137,7 @@
       "last_updated": null
     },
     {
-      "id": 98068,
+      "id": 98989,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/",
@@ -5251,7 +5156,7 @@
       "last_updated": null
     },
     {
-      "id": 97865,
+      "id": 98788,
       "provider_id": 167,
       "provider_name": "NATAN",
       "provider_website": "https://natan.com.au/",
@@ -5270,7 +5175,7 @@
       "last_updated": null
     },
     {
-      "id": 98647,
+      "id": 99563,
       "provider_id": 73,
       "provider_name": "INFINET BROADBAND",
       "provider_website": "https://www.infinetbroadband.com.au/",
@@ -5289,7 +5194,7 @@
       "last_updated": null
     },
     {
-      "id": 97901,
+      "id": 98824,
       "provider_id": 108,
       "provider_name": "OCCOM",
       "provider_website": "http://occom.com.au/",
@@ -5308,7 +5213,7 @@
       "last_updated": null
     },
     {
-      "id": 98484,
+      "id": 99394,
       "provider_id": 177,
       "provider_name": "OCEANDIGI",
       "provider_website": "https://oceandigi.com.au/",
@@ -5327,7 +5232,7 @@
       "last_updated": null
     },
     {
-      "id": 97864,
+      "id": 98787,
       "provider_id": 167,
       "provider_name": "NATAN",
       "provider_website": "https://natan.com.au/",
@@ -5346,7 +5251,7 @@
       "last_updated": null
     },
     {
-      "id": 98142,
+      "id": 99063,
       "provider_id": 142,
       "provider_name": "URL NETWORKS",
       "provider_website": "http://www.url.net.au/",
@@ -5365,7 +5270,7 @@
       "last_updated": null
     },
     {
-      "id": 98648,
+      "id": 99564,
       "provider_id": 73,
       "provider_name": "INFINET BROADBAND",
       "provider_website": "https://www.infinetbroadband.com.au/",
@@ -5384,7 +5289,7 @@
       "last_updated": null
     },
     {
-      "id": 98382,
+      "id": 99303,
       "provider_id": 157,
       "provider_name": "ELEVATE",
       "provider_website": "https://www.elevateinternet.com.au/",
@@ -5403,7 +5308,7 @@
       "last_updated": null
     },
     {
-      "id": 98383,
+      "id": 99304,
       "provider_id": 157,
       "provider_name": "ELEVATE",
       "provider_website": "https://www.elevateinternet.com.au/",
@@ -5422,7 +5327,7 @@
       "last_updated": null
     },
     {
-      "id": 97863,
+      "id": 98786,
       "provider_id": 167,
       "provider_name": "NATAN",
       "provider_website": "https://natan.com.au/",
@@ -5441,7 +5346,7 @@
       "last_updated": null
     },
     {
-      "id": 98384,
+      "id": 99305,
       "provider_id": 157,
       "provider_name": "ELEVATE",
       "provider_website": "https://www.elevateinternet.com.au/",
@@ -5460,7 +5365,7 @@
       "last_updated": null
     },
     {
-      "id": 98143,
+      "id": 99064,
       "provider_id": 142,
       "provider_name": "URL NETWORKS",
       "provider_website": "http://www.url.net.au/",
@@ -5479,7 +5384,7 @@
       "last_updated": null
     },
     {
-      "id": 98144,
+      "id": 99065,
       "provider_id": 142,
       "provider_name": "URL NETWORKS",
       "provider_website": "http://www.url.net.au/",

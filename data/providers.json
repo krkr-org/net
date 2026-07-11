@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-07-10T17:10:23.542163",
+    "generated_at": "2026-07-12T09:21:34.654749",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
-    "count": 89
+    "count": 90
   },
   "data": [
     {
@@ -72,6 +72,11 @@
       "website": "https://www.southernphone.com.au/"
     },
     {
+      "id": 156,
+      "name": "8NETWORKS",
+      "website": "https://8networks.com.au/"
+    },
+    {
       "id": 88,
       "name": "LIZZY INTERNET",
       "website": "https://www.lizzy.com.au/"
@@ -80,11 +85,6 @@
       "id": 42,
       "name": "CMOBILE",
       "website": "https://www.cmobile.com.au/"
-    },
-    {
-      "id": 156,
-      "name": "8NETWORKS",
-      "website": "https://8networks.com.au/"
     },
     {
       "id": 52,
@@ -167,6 +167,11 @@
       "website": "https://www.maxo.com.au/"
     },
     {
+      "id": 110,
+      "name": "OPTUS",
+      "website": "https://www.optus.com.au/"
+    },
+    {
       "id": 122,
       "name": "SPINTEL",
       "website": "https://www.spintel.net.au/"
@@ -179,7 +184,7 @@
     {
       "id": 135,
       "name": "THE INTERNET PROVIDER",
-      "website": "http://theinternetprovider.com.au/"
+      "website": "https://www.theinternetprovider.com.au/"
     },
     {
       "id": 60,
@@ -217,11 +222,6 @@
       "website": "https://www.dodo.com/"
     },
     {
-      "id": 126,
-      "name": "SUPERLOOP",
-      "website": "https://superloop.com/"
-    },
-    {
       "id": 159,
       "name": "OZOT",
       "website": "https://ozot.com.au/"
@@ -257,14 +257,14 @@
       "website": "https://10mates.com.au/"
     },
     {
-      "id": 41,
-      "name": "CLICK ACCESS",
-      "website": "https://www.clickaccess.com.au/"
-    },
-    {
       "id": 86,
       "name": "LIGHTNING IP",
       "website": "https://www.lightningip.com.au/"
+    },
+    {
+      "id": 89,
+      "name": "MAD OVER TECH",
+      "website": "https://madovertech.com.au/"
     },
     {
       "id": 64,
@@ -272,9 +272,9 @@
       "website": "http://www.gointernet.net.au/"
     },
     {
-      "id": 89,
-      "name": "MAD OVER TECH",
-      "website": "https://madovertech.com.au/"
+      "id": 180,
+      "name": "MOCS INTERNET",
+      "website": "https://internet.mocs.com.au"
     },
     {
       "id": 43,
@@ -287,9 +287,9 @@
       "website": "https://www.aussiebroadband.com.au/"
     },
     {
-      "id": 110,
-      "name": "OPTUS",
-      "website": "https://www.optus.com.au/"
+      "id": 126,
+      "name": "SUPERLOOP",
+      "website": "https://superloop.com/"
     },
     {
       "id": 10,
@@ -352,6 +352,11 @@
       "website": "https://www.letsbemates.com.au"
     },
     {
+      "id": 41,
+      "name": "CLICK ACCESS",
+      "website": "https://www.clickaccess.com.au/"
+    },
+    {
       "id": 113,
       "name": "PENTANET",
       "website": "https://pentanet.com.au/"
@@ -372,11 +377,6 @@
       "website": "https://www.telstra.com.au/"
     },
     {
-      "id": 172,
-      "name": "ZIPFIBRE",
-      "website": "https://www.zipfibre.com.au"
-    },
-    {
       "id": 178,
       "name": "PEAK CONNECT",
       "website": "https://peakconnect.com.au/"
@@ -392,14 +392,14 @@
       "website": "https://broadconnect.com.au"
     },
     {
+      "id": 172,
+      "name": "ZIPFIBRE",
+      "website": "https://www.zipfibre.com.au"
+    },
+    {
       "id": 3,
       "name": "2IT TECHNOLOGY",
       "website": "https://www.2ittech.com.au/"
-    },
-    {
-      "id": 131,
-      "name": "TASMANET",
-      "website": "https://www.tasmanet.com.au/"
     },
     {
       "id": 91,
@@ -435,6 +435,11 @@
       "id": 84,
       "name": "LAUNTEL",
       "website": "https://launtel.net.au/"
+    },
+    {
+      "id": 131,
+      "name": "TASMANET",
+      "website": "https://www.tasmanet.com.au/"
     },
     {
       "id": 111,

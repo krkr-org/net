@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-07-12T11:00:15.432140",
+    "generated_at": "2026-07-13T11:00:16.246293",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 90
@@ -177,11 +177,6 @@
       "website": "https://www.spintel.net.au/"
     },
     {
-      "id": 85,
-      "name": "LEAPTEL",
-      "website": "https://leaptel.com.au/"
-    },
-    {
       "id": 135,
       "name": "THE INTERNET PROVIDER",
       "website": "https://www.theinternetprovider.com.au/"
@@ -262,11 +257,6 @@
       "website": "https://www.lightningip.com.au/"
     },
     {
-      "id": 89,
-      "name": "MAD OVER TECH",
-      "website": "https://madovertech.com.au/"
-    },
-    {
       "id": 64,
       "name": "GOINTERNET",
       "website": "http://www.gointernet.net.au/"
@@ -275,6 +265,16 @@
       "id": 180,
       "name": "MOCS INTERNET",
       "website": "https://internet.mocs.com.au"
+    },
+    {
+      "id": 85,
+      "name": "LEAPTEL",
+      "website": "https://leaptel.com.au/"
+    },
+    {
+      "id": 89,
+      "name": "MAD OVER TECH",
+      "website": "https://madovertech.com.au/"
     },
     {
       "id": 43,
@@ -422,14 +422,14 @@
       "website": "https://www.ehw.net.au/"
     },
     {
-      "id": 167,
-      "name": "NATAN",
-      "website": "https://natan.com.au/"
-    },
-    {
       "id": 101,
       "name": "MYOWN TEL",
       "website": "https://www.myowntel.net.au/"
+    },
+    {
+      "id": 167,
+      "name": "NATAN",
+      "website": "https://natan.com.au/"
     },
     {
       "id": 84,

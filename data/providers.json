@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-07-14T11:00:16.263933",
+    "generated_at": "2026-07-15T11:00:16.703924",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 90
@@ -237,14 +237,14 @@
       "website": "https://www.vodafone.com.au/"
     },
     {
-      "id": 120,
-      "name": "SKYMESH",
-      "website": "https://www.skymesh.net.au/"
-    },
-    {
       "id": 163,
       "name": "UPLINK ME",
       "website": "https://uplinkme.com.au/"
+    },
+    {
+      "id": 120,
+      "name": "SKYMESH",
+      "website": "https://www.skymesh.net.au/"
     },
     {
       "id": 1,
@@ -372,11 +372,6 @@
       "website": "https://www.telstra.com.au/"
     },
     {
-      "id": 124,
-      "name": "STEELE TECHNOLOGY",
-      "website": "https://www.stech.com.au/"
-    },
-    {
       "id": 170,
       "name": "BROADCONNECT",
       "website": "https://broadconnect.com.au"
@@ -390,6 +385,11 @@
       "id": 178,
       "name": "PEAK CONNECT",
       "website": "https://peakconnect.com.au/"
+    },
+    {
+      "id": 124,
+      "name": "STEELE TECHNOLOGY",
+      "website": "https://www.stech.com.au/"
     },
     {
       "id": 3,
@@ -412,6 +412,11 @@
       "website": "http://kinetix.net.au"
     },
     {
+      "id": 113,
+      "name": "PENTANET",
+      "website": "https://pentanet.com.au/"
+    },
+    {
       "id": 51,
       "name": "EHW TECHNOLOGY",
       "website": "https://www.ehw.net.au/"
@@ -430,11 +435,6 @@
       "id": 84,
       "name": "LAUNTEL",
       "website": "https://launtel.net.au/"
-    },
-    {
-      "id": 113,
-      "name": "PENTANET",
-      "website": "https://pentanet.com.au/"
     },
     {
       "id": 131,

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-07-15T11:00:16.703924",
+    "generated_at": "2026-07-16T11:00:21.521657",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 90
@@ -147,16 +147,6 @@
       "website": "http://www.i.net.au/"
     },
     {
-      "id": 128,
-      "name": "SWOOP",
-      "website": "https://swoop.com.au/"
-    },
-    {
-      "id": 142,
-      "name": "URL NETWORKS",
-      "website": "http://www.url.net.au/"
-    },
-    {
       "id": 74,
       "name": "INSPIRED BROADBAND",
       "website": "http://www.inspiredbroadband.com.au/"
@@ -170,6 +160,16 @@
       "id": 110,
       "name": "OPTUS",
       "website": "https://www.optus.com.au/"
+    },
+    {
+      "id": 128,
+      "name": "SWOOP",
+      "website": "https://swoop.com.au/"
+    },
+    {
+      "id": 142,
+      "name": "URL NETWORKS",
+      "website": "http://www.url.net.au/"
     },
     {
       "id": 122,

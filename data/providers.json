@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-07-19T11:00:16.909668",
+    "generated_at": "2026-07-20T11:00:17.089726",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 90
@@ -147,11 +147,6 @@
       "website": "http://www.i.net.au/"
     },
     {
-      "id": 158,
-      "name": "MAXO TELECOMMUNICATIONS",
-      "website": "https://www.maxo.com.au/"
-    },
-    {
       "id": 110,
       "name": "OPTUS",
       "website": "https://www.optus.com.au/"
@@ -172,6 +167,11 @@
       "website": "http://www.inspiredbroadband.com.au/"
     },
     {
+      "id": 158,
+      "name": "MAXO TELECOMMUNICATIONS",
+      "website": "https://www.maxo.com.au/"
+    },
+    {
       "id": 122,
       "name": "SPINTEL",
       "website": "https://www.spintel.net.au/"
@@ -182,11 +182,6 @@
       "website": "https://www.theinternetprovider.com.au/"
     },
     {
-      "id": 176,
-      "name": "MULTIWAVE CONNECT",
-      "website": "https://www.multiwaveconnect.com.au/"
-    },
-    {
       "id": 60,
       "name": "FUTURE BROADBAND",
       "website": "https://futurebroadband.com.au/"
@@ -195,6 +190,11 @@
       "id": 161,
       "name": "AMAYSIM",
       "website": "https://www.amaysim.com.au/"
+    },
+    {
+      "id": 176,
+      "name": "MULTIWAVE CONNECT",
+      "website": "https://www.multiwaveconnect.com.au/"
     },
     {
       "id": 71,
@@ -337,16 +337,6 @@
       "website": "https://www.tpg.com.au/"
     },
     {
-      "id": 90,
-      "name": "MATE",
-      "website": "https://www.letsbemates.com.au"
-    },
-    {
-      "id": 41,
-      "name": "CLICK ACCESS",
-      "website": "https://www.clickaccess.com.au/"
-    },
-    {
       "id": 97,
       "name": "MORE",
       "website": "https://www.more.com.au"
@@ -355,6 +345,16 @@
       "id": 53,
       "name": "EXETEL",
       "website": "http://www.exetel.com.au/"
+    },
+    {
+      "id": 90,
+      "name": "MATE",
+      "website": "https://www.letsbemates.com.au"
+    },
+    {
+      "id": 41,
+      "name": "CLICK ACCESS",
+      "website": "https://www.clickaccess.com.au/"
     },
     {
       "id": 5,

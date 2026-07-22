@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-07-21T11:00:15.847237",
+    "generated_at": "2026-07-22T11:00:16.097270",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 90
@@ -145,11 +145,6 @@
       "id": 69,
       "name": "I.NET.AU",
       "website": "http://www.i.net.au/"
-    },
-    {
-      "id": 110,
-      "name": "OPTUS",
-      "website": "https://www.optus.com.au/"
     },
     {
       "id": 128,
@@ -355,6 +350,11 @@
       "id": 41,
       "name": "CLICK ACCESS",
       "website": "https://www.clickaccess.com.au/"
+    },
+    {
+      "id": 110,
+      "name": "OPTUS",
+      "website": "https://www.optus.com.au/"
     },
     {
       "id": 5,

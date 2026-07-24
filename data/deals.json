@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-07-23T11:00:15.908963",
+    "generated_at": "2026-07-24T11:00:16.917930",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 333
@@ -729,7 +729,7 @@
       "last_updated": null
     },
     {
-      "id": 113816,
+      "id": 114620,
       "provider_id": 159,
       "provider_name": "OZOT",
       "provider_website": "https://ozot.com.au/",
@@ -2876,7 +2876,7 @@
       "last_updated": null
     },
     {
-      "id": 113817,
+      "id": 114621,
       "provider_id": 159,
       "provider_name": "OZOT",
       "provider_website": "https://ozot.com.au/",
@@ -3180,44 +3180,6 @@
       "last_updated": null
     },
     {
-      "id": 113769,
-      "provider_id": 101,
-      "provider_name": "MYOWN TEL",
-      "provider_website": "https://www.myowntel.net.au/",
-      "plan_name": "Home Fast Plus",
-      "monthly_price": 99.0,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 500,
-      "upload_speed": 50,
-      "speed_tier": "500/50",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 20.0,
-      "promo_duration": 6,
-      "promo_details": "$20.00 off 6mo",
-      "last_updated": null
-    },
-    {
-      "id": 113772,
-      "provider_id": 101,
-      "provider_name": "MYOWN TEL",
-      "provider_website": "https://www.myowntel.net.au/",
-      "plan_name": "Home Fast Plus",
-      "monthly_price": 99.0,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 500,
-      "upload_speed": 50,
-      "speed_tier": "500/50",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 20.0,
-      "promo_duration": 6,
-      "promo_details": "$20.00 off 6mo",
-      "last_updated": null
-    },
-    {
       "id": 113869,
       "provider_id": 128,
       "provider_name": "SWOOP",
@@ -3481,6 +3443,44 @@
       "promo_value": 10.0,
       "promo_duration": null,
       "promo_details": "$10.00",
+      "last_updated": null
+    },
+    {
+      "id": 114611,
+      "provider_id": 101,
+      "provider_name": "MYOWN TEL",
+      "provider_website": "https://www.myowntel.net.au/",
+      "plan_name": "Home Fast Plus",
+      "monthly_price": 99.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 500,
+      "upload_speed": 50,
+      "speed_tier": "500/50",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 20.0,
+      "promo_duration": 6,
+      "promo_details": "$20.00 off 6mo",
+      "last_updated": null
+    },
+    {
+      "id": 114614,
+      "provider_id": 101,
+      "provider_name": "MYOWN TEL",
+      "provider_website": "https://www.myowntel.net.au/",
+      "plan_name": "Home Fast Plus",
+      "monthly_price": 99.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 500,
+      "upload_speed": 50,
+      "speed_tier": "500/50",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 20.0,
+      "promo_duration": 6,
+      "promo_details": "$20.00 off 6mo",
       "last_updated": null
     },
     {
@@ -4795,7 +4795,7 @@
       "last_updated": null
     },
     {
-      "id": 113818,
+      "id": 114622,
       "provider_id": 159,
       "provider_name": "OZOT",
       "provider_website": "https://ozot.com.au/",
@@ -5156,7 +5156,7 @@
       "last_updated": null
     },
     {
-      "id": 113819,
+      "id": 114623,
       "provider_id": 159,
       "provider_name": "OZOT",
       "provider_website": "https://ozot.com.au/",
@@ -5403,44 +5403,6 @@
       "last_updated": null
     },
     {
-      "id": 113770,
-      "provider_id": 101,
-      "provider_name": "MYOWN TEL",
-      "provider_website": "https://www.myowntel.net.au/",
-      "plan_name": "Ultrafast",
-      "monthly_price": 129.0,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 1000,
-      "upload_speed": 100,
-      "speed_tier": "1000/100",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 30.0,
-      "promo_duration": 6,
-      "promo_details": "$30.00 off 6mo",
-      "last_updated": null
-    },
-    {
-      "id": 113773,
-      "provider_id": 101,
-      "provider_name": "MYOWN TEL",
-      "provider_website": "https://www.myowntel.net.au/",
-      "plan_name": "Home Ultrafast",
-      "monthly_price": 129.0,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 1000,
-      "upload_speed": 100,
-      "speed_tier": "1000/100",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 30.0,
-      "promo_duration": 6,
-      "promo_details": "$30.00 off 6mo",
-      "last_updated": null
-    },
-    {
       "id": 113822,
       "provider_id": 113,
       "provider_name": "PENTANET",
@@ -5536,6 +5498,44 @@
       "last_updated": null
     },
     {
+      "id": 114612,
+      "provider_id": 101,
+      "provider_name": "MYOWN TEL",
+      "provider_website": "https://www.myowntel.net.au/",
+      "plan_name": "Ultrafast",
+      "monthly_price": 129.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 1000,
+      "upload_speed": 100,
+      "speed_tier": "1000/100",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 30.0,
+      "promo_duration": 6,
+      "promo_details": "$30.00 off 6mo",
+      "last_updated": null
+    },
+    {
+      "id": 114615,
+      "provider_id": 101,
+      "provider_name": "MYOWN TEL",
+      "provider_website": "https://www.myowntel.net.au/",
+      "plan_name": "Home Ultrafast",
+      "monthly_price": 129.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 1000,
+      "upload_speed": 100,
+      "speed_tier": "1000/100",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 30.0,
+      "promo_duration": 6,
+      "promo_details": "$30.00 off 6mo",
+      "last_updated": null
+    },
+    {
       "id": 114469,
       "provider_id": 85,
       "provider_name": "LEAPTEL",
@@ -5612,7 +5612,7 @@
       "last_updated": null
     },
     {
-      "id": 113820,
+      "id": 114624,
       "provider_id": 159,
       "provider_name": "OZOT",
       "provider_website": "https://ozot.com.au/",
@@ -6030,7 +6030,7 @@
       "last_updated": null
     },
     {
-      "id": 113771,
+      "id": 114613,
       "provider_id": 101,
       "provider_name": "MYOWN TEL",
       "provider_website": "https://www.myowntel.net.au/",

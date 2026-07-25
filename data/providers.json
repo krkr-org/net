@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-07-24T11:00:16.904196",
+    "generated_at": "2026-07-25T11:00:15.656003",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 90
@@ -297,11 +297,6 @@
       "website": "https://rwts.com.au/"
     },
     {
-      "id": 103,
-      "name": "NEW SPROUT",
-      "website": "https://www.newsprout.com.au/"
-    },
-    {
       "id": 18,
       "name": "AUS INTERNET",
       "website": "https://ausinternet.com.au/"
@@ -315,6 +310,11 @@
       "id": 15,
       "name": "AQUA MOBILE",
       "website": "https://www.aquamobile.net.au/"
+    },
+    {
+      "id": 103,
+      "name": "NEW SPROUT",
+      "website": "https://www.newsprout.com.au/"
     },
     {
       "id": 164,
@@ -402,11 +402,6 @@
       "website": "https://www.matilda.net.au/"
     },
     {
-      "id": 113,
-      "name": "PENTANET",
-      "website": "https://pentanet.com.au/"
-    },
-    {
       "id": 27,
       "name": "BELONG",
       "website": "https://www.belong.com.au/"
@@ -415,6 +410,11 @@
       "id": 81,
       "name": "KINETIX",
       "website": "http://kinetix.net.au"
+    },
+    {
+      "id": 113,
+      "name": "PENTANET",
+      "website": "https://pentanet.com.au/"
     },
     {
       "id": 51,

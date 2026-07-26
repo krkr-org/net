@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-07-25T11:00:15.656003",
+    "generated_at": "2026-07-26T11:00:15.182605",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 90
@@ -152,11 +152,6 @@
       "website": "https://swoop.com.au/"
     },
     {
-      "id": 142,
-      "name": "URL NETWORKS",
-      "website": "http://www.url.net.au/"
-    },
-    {
       "id": 74,
       "name": "INSPIRED BROADBAND",
       "website": "http://www.inspiredbroadband.com.au/"
@@ -165,6 +160,11 @@
       "id": 158,
       "name": "MAXO TELECOMMUNICATIONS",
       "website": "https://www.maxo.com.au/"
+    },
+    {
+      "id": 142,
+      "name": "URL NETWORKS",
+      "website": "http://www.url.net.au/"
     },
     {
       "id": 122,

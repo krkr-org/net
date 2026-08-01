@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-07-31T11:00:15.583107",
+    "generated_at": "2026-08-01T11:00:17.069267",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 90
@@ -72,11 +72,6 @@
       "website": "https://www.lizzy.com.au/"
     },
     {
-      "id": 42,
-      "name": "CMOBILE",
-      "website": "https://www.cmobile.com.au/"
-    },
-    {
       "id": 156,
       "name": "8NETWORKS",
       "website": "https://8networks.com.au/"
@@ -85,6 +80,11 @@
       "id": 60,
       "name": "FUTURE BROADBAND",
       "website": "https://futurebroadband.com.au/"
+    },
+    {
+      "id": 42,
+      "name": "CMOBILE",
+      "website": "https://www.cmobile.com.au/"
     },
     {
       "id": 52,
@@ -252,11 +252,6 @@
       "website": "https://www.lightningip.com.au/"
     },
     {
-      "id": 64,
-      "name": "GOINTERNET",
-      "website": "http://www.gointernet.net.au/"
-    },
-    {
       "id": 180,
       "name": "MOCS INTERNET",
       "website": "https://internet.mocs.com.au"
@@ -270,6 +265,11 @@
       "id": 89,
       "name": "MAD OVER TECH",
       "website": "https://madovertech.com.au/"
+    },
+    {
+      "id": 64,
+      "name": "GOINTERNET",
+      "website": "http://www.gointernet.net.au/"
     },
     {
       "id": 43,

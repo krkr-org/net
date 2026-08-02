@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-08-01T11:00:17.069267",
+    "generated_at": "2026-08-02T11:00:16.275199",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 90
@@ -67,11 +67,6 @@
       "website": "https://www.southernphone.com.au/"
     },
     {
-      "id": 88,
-      "name": "LIZZY INTERNET",
-      "website": "https://www.lizzy.com.au/"
-    },
-    {
       "id": 156,
       "name": "8NETWORKS",
       "website": "https://8networks.com.au/"
@@ -85,6 +80,11 @@
       "id": 42,
       "name": "CMOBILE",
       "website": "https://www.cmobile.com.au/"
+    },
+    {
+      "id": 88,
+      "name": "LIZZY INTERNET",
+      "website": "https://www.lizzy.com.au/"
     },
     {
       "id": 52,
@@ -262,14 +262,14 @@
       "website": "https://leaptel.com.au/"
     },
     {
-      "id": 89,
-      "name": "MAD OVER TECH",
-      "website": "https://madovertech.com.au/"
-    },
-    {
       "id": 64,
       "name": "GOINTERNET",
       "website": "http://www.gointernet.net.au/"
+    },
+    {
+      "id": 89,
+      "name": "MAD OVER TECH",
+      "website": "https://madovertech.com.au/"
     },
     {
       "id": 43,

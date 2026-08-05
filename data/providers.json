@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-08-04T11:00:16.915332",
+    "generated_at": "2026-08-05T11:00:15.814298",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 90
@@ -302,11 +302,6 @@
       "website": "https://www.aquamobile.net.au/"
     },
     {
-      "id": 103,
-      "name": "NEW SPROUT",
-      "website": "https://www.newsprout.com.au/"
-    },
-    {
       "id": 18,
       "name": "AUS INTERNET",
       "website": "https://ausinternet.com.au/"
@@ -315,6 +310,11 @@
       "id": 55,
       "name": "FANTEL",
       "website": "http://fantel.com.au/"
+    },
+    {
+      "id": 103,
+      "name": "NEW SPROUT",
+      "website": "https://www.newsprout.com.au/"
     },
     {
       "id": 164,
@@ -402,11 +402,6 @@
       "website": "https://www.matilda.net.au/"
     },
     {
-      "id": 113,
-      "name": "PENTANET",
-      "website": "https://pentanet.com.au/"
-    },
-    {
       "id": 27,
       "name": "BELONG",
       "website": "https://www.belong.com.au/"
@@ -417,19 +412,24 @@
       "website": "http://kinetix.net.au"
     },
     {
+      "id": 113,
+      "name": "PENTANET",
+      "website": "https://pentanet.com.au/"
+    },
+    {
       "id": 51,
       "name": "EHW TECHNOLOGY",
       "website": "https://www.ehw.net.au/"
     },
     {
-      "id": 101,
-      "name": "MYOWN TEL",
-      "website": "https://www.myowntel.net.au/"
-    },
-    {
       "id": 167,
       "name": "NATAN",
       "website": "https://natan.com.au/"
+    },
+    {
+      "id": 101,
+      "name": "MYOWN TEL",
+      "website": "https://www.myowntel.net.au/"
     },
     {
       "id": 84,

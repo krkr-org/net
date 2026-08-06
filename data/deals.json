@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-08-05T11:00:15.827773",
+    "generated_at": "2026-08-06T11:00:16.223794",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 312
@@ -235,7 +235,7 @@
       "last_updated": null
     },
     {
-      "id": 114693,
+      "id": 115540,
       "provider_id": 128,
       "provider_name": "SWOOP",
       "provider_website": "https://swoop.com.au/",
@@ -254,7 +254,7 @@
       "last_updated": null
     },
     {
-      "id": 114698,
+      "id": 115544,
       "provider_id": 128,
       "provider_name": "SWOOP",
       "provider_website": "https://swoop.com.au/",
@@ -273,7 +273,7 @@
       "last_updated": null
     },
     {
-      "id": 114737,
+      "id": 115575,
       "provider_id": 128,
       "provider_name": "SWOOP",
       "provider_website": "https://swoop.com.au/",
@@ -281,7 +281,7 @@
       "monthly_price": 69.0,
       "setup_fee": 0,
       "contract_length": 0,
-      "download_speed": 25,
+      "download_speed": 30,
       "upload_speed": 10,
       "speed_tier": "25/10",
       "fixed_wireless": true,
@@ -843,25 +843,6 @@
       "last_updated": null
     },
     {
-      "id": 114738,
-      "provider_id": 128,
-      "provider_name": "SWOOP",
-      "provider_website": "https://swoop.com.au/",
-      "plan_name": "Swoop Fixed Wireless 70/20",
-      "monthly_price": 79.0,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 50,
-      "upload_speed": 20,
-      "speed_tier": "50/20",
-      "fixed_wireless": true,
-      "promo_type": "discount",
-      "promo_value": 15.0,
-      "promo_duration": 6,
-      "promo_details": "$15.00 off 6mo",
-      "last_updated": null
-    },
-    {
       "id": 114916,
       "provider_id": 55,
       "provider_name": "FANTEL",
@@ -878,6 +859,25 @@
       "promo_value": 30.0,
       "promo_duration": 6,
       "promo_details": "$30.00 off 6mo",
+      "last_updated": null
+    },
+    {
+      "id": 115576,
+      "provider_id": 128,
+      "provider_name": "SWOOP",
+      "provider_website": "https://swoop.com.au/",
+      "plan_name": "Swoop Fixed Wireless 70/20",
+      "monthly_price": 79.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 70,
+      "upload_speed": 20,
+      "speed_tier": "50/20",
+      "fixed_wireless": true,
+      "promo_type": "discount",
+      "promo_value": 15.0,
+      "promo_duration": 6,
+      "promo_details": "$15.00 off 6mo",
       "last_updated": null
     },
     {
@@ -1147,25 +1147,6 @@
       "last_updated": null
     },
     {
-      "id": 114699,
-      "provider_id": 128,
-      "provider_name": "SWOOP",
-      "provider_website": "https://swoop.com.au/",
-      "plan_name": "Opticomm Fibre 50/20",
-      "monthly_price": 84.0,
-      "setup_fee": 99,
-      "contract_length": 0,
-      "download_speed": 50,
-      "upload_speed": 20,
-      "speed_tier": "50/20",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 15.0,
-      "promo_duration": 6,
-      "promo_details": "$15.00 off 6mo",
-      "last_updated": null
-    },
-    {
       "id": 115515,
       "provider_id": 166,
       "provider_name": "QUOKKA NET",
@@ -1182,6 +1163,25 @@
       "promo_value": 5.0,
       "promo_duration": 6,
       "promo_details": "$5.00 off 6mo",
+      "last_updated": null
+    },
+    {
+      "id": 115545,
+      "provider_id": 128,
+      "provider_name": "SWOOP",
+      "provider_website": "https://swoop.com.au/",
+      "plan_name": "Opticomm Fibre 50/20",
+      "monthly_price": 84.0,
+      "setup_fee": 99,
+      "contract_length": 0,
+      "download_speed": 50,
+      "upload_speed": 20,
+      "speed_tier": "50/20",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 15.0,
+      "promo_duration": 6,
+      "promo_details": "$15.00 off 6mo",
       "last_updated": null
     },
     {
@@ -1774,25 +1774,6 @@
       "last_updated": null
     },
     {
-      "id": 114690,
-      "provider_id": 120,
-      "provider_name": "SKYMESH",
-      "provider_website": "https://www.skymesh.net.au/",
-      "plan_name": "Wireless Plus",
-      "monthly_price": 89.95,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 100,
-      "upload_speed": 20,
-      "speed_tier": "100/20",
-      "fixed_wireless": true,
-      "promo_type": "discount",
-      "promo_value": 20.0,
-      "promo_duration": 6,
-      "promo_details": "$20.00 off 6mo",
-      "last_updated": null
-    },
-    {
       "id": 114850,
       "provider_id": 6,
       "provider_name": "ACTIV8ME",
@@ -1900,6 +1881,25 @@
       "upload_speed": 20,
       "speed_tier": "50/20",
       "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 20.0,
+      "promo_duration": 6,
+      "promo_details": "$20.00 off 6mo",
+      "last_updated": null
+    },
+    {
+      "id": 115537,
+      "provider_id": 120,
+      "provider_name": "SKYMESH",
+      "provider_website": "https://www.skymesh.net.au/",
+      "plan_name": "Wireless Plus",
+      "monthly_price": 89.95,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 100,
+      "upload_speed": 20,
+      "speed_tier": "100/20",
+      "fixed_wireless": true,
       "promo_type": "discount",
       "promo_value": 20.0,
       "promo_duration": 6,
@@ -2306,7 +2306,7 @@
       "last_updated": null
     },
     {
-      "id": 114695,
+      "id": 115541,
       "provider_id": 128,
       "provider_name": "SWOOP",
       "provider_website": "https://swoop.com.au/",
@@ -2325,7 +2325,7 @@
       "last_updated": null
     },
     {
-      "id": 114739,
+      "id": 115577,
       "provider_id": 128,
       "provider_name": "SWOOP",
       "provider_website": "https://swoop.com.au/",
@@ -2333,7 +2333,7 @@
       "monthly_price": 94.0,
       "setup_fee": 0,
       "contract_length": 0,
-      "download_speed": 100,
+      "download_speed": 120,
       "upload_speed": 20,
       "speed_tier": "100/20",
       "fixed_wireless": true,
@@ -2379,25 +2379,6 @@
       "promo_value": 10.0,
       "promo_duration": 12,
       "promo_details": "$10.00 off 12mo",
-      "last_updated": null
-    },
-    {
-      "id": 114691,
-      "provider_id": 120,
-      "provider_name": "SKYMESH",
-      "provider_website": "https://www.skymesh.net.au/",
-      "plan_name": "Wireless Fast",
-      "monthly_price": 94.95,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 250,
-      "upload_speed": 20,
-      "speed_tier": "250/20",
-      "fixed_wireless": true,
-      "promo_type": "discount",
-      "promo_value": 20.0,
-      "promo_duration": 6,
-      "promo_details": "$20.00 off 6mo",
       "last_updated": null
     },
     {
@@ -2474,6 +2455,25 @@
       "promo_value": 10.95,
       "promo_duration": 6,
       "promo_details": "$10.95 off 6mo",
+      "last_updated": null
+    },
+    {
+      "id": 115538,
+      "provider_id": 120,
+      "provider_name": "SKYMESH",
+      "provider_website": "https://www.skymesh.net.au/",
+      "plan_name": "Wireless Fast",
+      "monthly_price": 94.95,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 250,
+      "upload_speed": 20,
+      "speed_tier": "250/20",
+      "fixed_wireless": true,
+      "promo_type": "discount",
+      "promo_value": 20.0,
+      "promo_duration": 6,
+      "promo_details": "$20.00 off 6mo",
       "last_updated": null
     },
     {
@@ -3161,25 +3161,6 @@
       "last_updated": null
     },
     {
-      "id": 114700,
-      "provider_id": 128,
-      "provider_name": "SWOOP",
-      "provider_website": "https://swoop.com.au/",
-      "plan_name": "Opticomm Fibre 100/20",
-      "monthly_price": 99.0,
-      "setup_fee": 99,
-      "contract_length": 0,
-      "download_speed": 100,
-      "upload_speed": 20,
-      "speed_tier": "100/20",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 15.0,
-      "promo_duration": 6,
-      "promo_details": "$15.00 off 6mo",
-      "last_updated": null
-    },
-    {
       "id": 114921,
       "provider_id": 55,
       "provider_name": "FANTEL",
@@ -3367,6 +3348,25 @@
       "promo_value": 20.0,
       "promo_duration": 6,
       "promo_details": "$20.00 off 6mo",
+      "last_updated": null
+    },
+    {
+      "id": 115546,
+      "provider_id": 128,
+      "provider_name": "SWOOP",
+      "provider_website": "https://swoop.com.au/",
+      "plan_name": "Opticomm Fibre 100/20",
+      "monthly_price": 99.0,
+      "setup_fee": 99,
+      "contract_length": 0,
+      "download_speed": 100,
+      "upload_speed": 20,
+      "speed_tier": "100/20",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 15.0,
+      "promo_duration": 6,
+      "promo_details": "$15.00 off 6mo",
       "last_updated": null
     },
     {
@@ -3693,25 +3693,6 @@
       "last_updated": null
     },
     {
-      "id": 114696,
-      "provider_id": 128,
-      "provider_name": "SWOOP",
-      "provider_website": "https://swoop.com.au/",
-      "plan_name": "nbn® 100/40",
-      "monthly_price": 104.0,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 100,
-      "upload_speed": 40,
-      "speed_tier": "100/40",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 22.0,
-      "promo_duration": 6,
-      "promo_details": "$22.00 off 6mo",
-      "last_updated": null
-    },
-    {
       "id": 115226,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
@@ -3823,6 +3804,25 @@
       "promo_value": 6.0,
       "promo_duration": 6,
       "promo_details": "$6.00 off 6mo",
+      "last_updated": null
+    },
+    {
+      "id": 115542,
+      "provider_id": 128,
+      "provider_name": "SWOOP",
+      "provider_website": "https://swoop.com.au/",
+      "plan_name": "nbn® 100/40",
+      "monthly_price": 104.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 100,
+      "upload_speed": 40,
+      "speed_tier": "100/40",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 22.0,
+      "promo_duration": 6,
+      "promo_details": "$22.00 off 6mo",
       "last_updated": null
     },
     {
@@ -4282,25 +4282,6 @@
       "last_updated": null
     },
     {
-      "id": 114697,
-      "provider_id": 128,
-      "provider_name": "SWOOP",
-      "provider_website": "https://swoop.com.au/",
-      "plan_name": "nbn® 750/50",
-      "monthly_price": 109.0,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 750,
-      "upload_speed": 50,
-      "speed_tier": "750/50",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 24.0,
-      "promo_duration": 6,
-      "promo_details": "$24.00 off 6mo",
-      "last_updated": null
-    },
-    {
       "id": 114923,
       "provider_id": 55,
       "provider_name": "FANTEL",
@@ -4396,6 +4377,25 @@
       "last_updated": null
     },
     {
+      "id": 115543,
+      "provider_id": 128,
+      "provider_name": "SWOOP",
+      "provider_website": "https://swoop.com.au/",
+      "plan_name": "nbn® 750/50",
+      "monthly_price": 109.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 750,
+      "upload_speed": 50,
+      "speed_tier": "750/50",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 24.0,
+      "promo_duration": 6,
+      "promo_details": "$24.00 off 6mo",
+      "last_updated": null
+    },
+    {
       "id": 95122,
       "provider_id": 155,
       "provider_name": "TELSIM",
@@ -4434,7 +4434,7 @@
       "last_updated": null
     },
     {
-      "id": 114692,
+      "id": 115539,
       "provider_id": 120,
       "provider_name": "SKYMESH",
       "provider_website": "https://www.skymesh.net.au/",
@@ -4890,25 +4890,6 @@
       "last_updated": null
     },
     {
-      "id": 114740,
-      "provider_id": 128,
-      "provider_name": "SWOOP",
-      "provider_website": "https://swoop.com.au/",
-      "plan_name": "Swoop Fixed Wireless 250/100",
-      "monthly_price": 119.0,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 250,
-      "upload_speed": 100,
-      "speed_tier": "250/100",
-      "fixed_wireless": true,
-      "promo_type": "discount",
-      "promo_value": 25.0,
-      "promo_duration": 6,
-      "promo_details": "$25.00 off 6mo",
-      "last_updated": null
-    },
-    {
       "id": 115305,
       "provider_id": 85,
       "provider_name": "LEAPTEL",
@@ -4944,6 +4925,25 @@
       "promo_value": 20.0,
       "promo_duration": 12,
       "promo_details": "$20.00 off 12mo",
+      "last_updated": null
+    },
+    {
+      "id": 115578,
+      "provider_id": 128,
+      "provider_name": "SWOOP",
+      "provider_website": "https://swoop.com.au/",
+      "plan_name": "Swoop Fixed Wireless 250/100",
+      "monthly_price": 119.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 250,
+      "upload_speed": 100,
+      "speed_tier": "250/100",
+      "fixed_wireless": true,
+      "promo_type": "discount",
+      "promo_value": 25.0,
+      "promo_duration": 6,
+      "promo_details": "$25.00 off 6mo",
       "last_updated": null
     },
     {
@@ -5213,25 +5213,6 @@
       "last_updated": null
     },
     {
-      "id": 114701,
-      "provider_id": 128,
-      "provider_name": "SWOOP",
-      "provider_website": "https://swoop.com.au/",
-      "plan_name": "Opticomm Fibre 250/25",
-      "monthly_price": 129.0,
-      "setup_fee": 99,
-      "contract_length": 0,
-      "download_speed": 250,
-      "upload_speed": 25,
-      "speed_tier": "250/25",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 15.0,
-      "promo_duration": 6,
-      "promo_details": "$15.00 off 6mo",
-      "last_updated": null
-    },
-    {
       "id": 115279,
       "provider_id": 110,
       "provider_name": "OPTUS",
@@ -5286,6 +5267,25 @@
       "promo_value": 30.0,
       "promo_duration": 6,
       "promo_details": "$30.00 off 6mo",
+      "last_updated": null
+    },
+    {
+      "id": 115547,
+      "provider_id": 128,
+      "provider_name": "SWOOP",
+      "provider_website": "https://swoop.com.au/",
+      "plan_name": "Opticomm Fibre 250/25",
+      "monthly_price": 129.0,
+      "setup_fee": 99,
+      "contract_length": 0,
+      "download_speed": 250,
+      "upload_speed": 25,
+      "speed_tier": "250/25",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 15.0,
+      "promo_duration": 6,
+      "promo_details": "$15.00 off 6mo",
       "last_updated": null
     },
     {
@@ -5745,7 +5745,7 @@
       "last_updated": null
     },
     {
-      "id": 114718,
+      "id": 115556,
       "provider_id": 142,
       "provider_name": "URL NETWORKS",
       "provider_website": "http://www.url.net.au/",
@@ -5897,7 +5897,7 @@
       "last_updated": null
     },
     {
-      "id": 114719,
+      "id": 115557,
       "provider_id": 142,
       "provider_name": "URL NETWORKS",
       "provider_website": "http://www.url.net.au/",
@@ -5916,7 +5916,7 @@
       "last_updated": null
     },
     {
-      "id": 114720,
+      "id": 115558,
       "provider_id": 142,
       "provider_name": "URL NETWORKS",
       "provider_website": "http://www.url.net.au/",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-08-05T11:00:15.814298",
+    "generated_at": "2026-08-06T11:00:16.210104",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 90
@@ -152,16 +152,6 @@
       "website": "http://www.i.net.au/"
     },
     {
-      "id": 128,
-      "name": "SWOOP",
-      "website": "https://swoop.com.au/"
-    },
-    {
-      "id": 142,
-      "name": "URL NETWORKS",
-      "website": "http://www.url.net.au/"
-    },
-    {
       "id": 74,
       "name": "INSPIRED BROADBAND",
       "website": "http://www.inspiredbroadband.com.au/"
@@ -170,6 +160,16 @@
       "id": 158,
       "name": "MAXO TELECOMMUNICATIONS",
       "website": "https://www.maxo.com.au/"
+    },
+    {
+      "id": 128,
+      "name": "SWOOP",
+      "website": "https://swoop.com.au/"
+    },
+    {
+      "id": 142,
+      "name": "URL NETWORKS",
+      "website": "http://www.url.net.au/"
     },
     {
       "id": 163,
@@ -372,11 +372,6 @@
       "website": "https://www.telstra.com.au/"
     },
     {
-      "id": 124,
-      "name": "STEELE TECHNOLOGY",
-      "website": "https://www.stech.com.au/"
-    },
-    {
       "id": 170,
       "name": "BROADCONNECT",
       "website": "https://broadconnect.com.au"
@@ -390,6 +385,11 @@
       "id": 178,
       "name": "PEAK CONNECT",
       "website": "https://peakconnect.com.au/"
+    },
+    {
+      "id": 124,
+      "name": "STEELE TECHNOLOGY",
+      "website": "https://www.stech.com.au/"
     },
     {
       "id": 3,

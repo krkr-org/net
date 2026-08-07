@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-08-06T11:00:16.210104",
+    "generated_at": "2026-08-07T11:00:16.303227",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 90
@@ -297,11 +297,6 @@
       "website": "https://rwts.com.au/"
     },
     {
-      "id": 15,
-      "name": "AQUA MOBILE",
-      "website": "https://www.aquamobile.net.au/"
-    },
-    {
       "id": 18,
       "name": "AUS INTERNET",
       "website": "https://ausinternet.com.au/"
@@ -315,6 +310,11 @@
       "id": 103,
       "name": "NEW SPROUT",
       "website": "https://www.newsprout.com.au/"
+    },
+    {
+      "id": 15,
+      "name": "AQUA MOBILE",
+      "website": "https://www.aquamobile.net.au/"
     },
     {
       "id": 164,

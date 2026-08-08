@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-08-07T11:00:16.303227",
+    "generated_at": "2026-08-08T11:00:16.634886",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 90
@@ -67,11 +67,6 @@
       "website": "https://www.southernphone.com.au/"
     },
     {
-      "id": 156,
-      "name": "8NETWORKS",
-      "website": "https://8networks.com.au/"
-    },
-    {
       "id": 60,
       "name": "FUTURE BROADBAND",
       "website": "https://futurebroadband.com.au/"
@@ -85,6 +80,11 @@
       "id": 88,
       "name": "LIZZY INTERNET",
       "website": "https://www.lizzy.com.au/"
+    },
+    {
+      "id": 156,
+      "name": "8NETWORKS",
+      "website": "https://8networks.com.au/"
     },
     {
       "id": 52,
@@ -297,14 +297,14 @@
       "website": "https://rwts.com.au/"
     },
     {
-      "id": 18,
-      "name": "AUS INTERNET",
-      "website": "https://ausinternet.com.au/"
-    },
-    {
       "id": 55,
       "name": "FANTEL",
       "website": "http://fantel.com.au/"
+    },
+    {
+      "id": 18,
+      "name": "AUS INTERNET",
+      "website": "https://ausinternet.com.au/"
     },
     {
       "id": 103,
@@ -372,11 +372,6 @@
       "website": "https://www.telstra.com.au/"
     },
     {
-      "id": 170,
-      "name": "BROADCONNECT",
-      "website": "https://broadconnect.com.au"
-    },
-    {
       "id": 172,
       "name": "ZIPFIBRE",
       "website": "https://www.zipfibre.com.au"
@@ -390,6 +385,11 @@
       "id": 124,
       "name": "STEELE TECHNOLOGY",
       "website": "https://www.stech.com.au/"
+    },
+    {
+      "id": 170,
+      "name": "BROADCONNECT",
+      "website": "https://broadconnect.com.au"
     },
     {
       "id": 3,

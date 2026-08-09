@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-08-08T11:00:16.634886",
+    "generated_at": "2026-08-09T11:00:16.547897",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 90
@@ -67,11 +67,6 @@
       "website": "https://www.southernphone.com.au/"
     },
     {
-      "id": 60,
-      "name": "FUTURE BROADBAND",
-      "website": "https://futurebroadband.com.au/"
-    },
-    {
       "id": 42,
       "name": "CMOBILE",
       "website": "https://www.cmobile.com.au/"
@@ -87,6 +82,11 @@
       "website": "https://8networks.com.au/"
     },
     {
+      "id": 60,
+      "name": "FUTURE BROADBAND",
+      "website": "https://futurebroadband.com.au/"
+    },
+    {
       "id": 52,
       "name": "ESCAPENET",
       "website": "https://www.esc.net.au/"
@@ -97,11 +97,6 @@
       "website": "https://mphone.com.au/"
     },
     {
-      "id": 59,
-      "name": "FRANKSTON INTERNET",
-      "website": "http://franktel.com.au/"
-    },
-    {
       "id": 82,
       "name": "KLOUDPHONE",
       "website": "https://kloudphone.com.au/"
@@ -110,6 +105,11 @@
       "id": 153,
       "name": "NEPTUNE",
       "website": "https://www.neptune.net.au/"
+    },
+    {
+      "id": 59,
+      "name": "FRANKSTON INTERNET",
+      "website": "http://franktel.com.au/"
     },
     {
       "id": 166,
@@ -172,11 +172,6 @@
       "website": "http://www.url.net.au/"
     },
     {
-      "id": 163,
-      "name": "UPLINK ME",
-      "website": "https://uplinkme.com.au/"
-    },
-    {
       "id": 122,
       "name": "SPINTEL",
       "website": "https://www.spintel.net.au/"
@@ -235,6 +230,11 @@
       "id": 146,
       "name": "VODAFONE",
       "website": "https://www.vodafone.com.au/"
+    },
+    {
+      "id": 163,
+      "name": "UPLINK ME",
+      "website": "https://uplinkme.com.au/"
     },
     {
       "id": 120,
@@ -297,11 +297,6 @@
       "website": "https://rwts.com.au/"
     },
     {
-      "id": 55,
-      "name": "FANTEL",
-      "website": "http://fantel.com.au/"
-    },
-    {
       "id": 18,
       "name": "AUS INTERNET",
       "website": "https://ausinternet.com.au/"
@@ -315,6 +310,11 @@
       "id": 15,
       "name": "AQUA MOBILE",
       "website": "https://www.aquamobile.net.au/"
+    },
+    {
+      "id": 55,
+      "name": "FANTEL",
+      "website": "http://fantel.com.au/"
     },
     {
       "id": 164,
@@ -402,11 +402,6 @@
       "website": "https://www.matilda.net.au/"
     },
     {
-      "id": 27,
-      "name": "BELONG",
-      "website": "https://www.belong.com.au/"
-    },
-    {
       "id": 81,
       "name": "KINETIX",
       "website": "http://kinetix.net.au"
@@ -415,6 +410,11 @@
       "id": 113,
       "name": "PENTANET",
       "website": "https://pentanet.com.au/"
+    },
+    {
+      "id": 27,
+      "name": "BELONG",
+      "website": "https://www.belong.com.au/"
     },
     {
       "id": 51,

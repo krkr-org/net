@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-08-11T11:00:16.865968",
+    "generated_at": "2026-08-12T11:00:16.440053",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
-    "count": 318
+    "count": 315
   },
   "data": [
     {
@@ -23,25 +23,6 @@
       "promo_value": 16.95,
       "promo_duration": 3,
       "promo_details": "$16.95 off 3mo",
-      "last_updated": null
-    },
-    {
-      "id": 115179,
-      "provider_id": 153,
-      "provider_name": "NEPTUNE",
-      "provider_website": "https://www.neptune.net.au/",
-      "plan_name": "25mbps Download | 10mbps Upload",
-      "monthly_price": 60.0,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 25,
-      "upload_speed": 10,
-      "speed_tier": "25/10",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 1.0,
-      "promo_duration": 12,
-      "promo_details": "$1.00 off 12mo",
       "last_updated": null
     },
     {
@@ -102,7 +83,7 @@
       "last_updated": null
     },
     {
-      "id": 115166,
+      "id": 116055,
       "provider_id": 96,
       "provider_name": "MOOSE MOBILE",
       "provider_website": "https://moosemobile.com.au/",
@@ -349,11 +330,11 @@
       "last_updated": null
     },
     {
-      "id": 115160,
+      "id": 115423,
       "provider_id": 73,
       "provider_name": "INFINET BROADBAND",
       "provider_website": "https://www.infinetbroadband.com.au/",
-      "plan_name": "Basic",
+      "plan_name": "Opticomm 25/10",
       "monthly_price": 69.99,
       "setup_fee": 0,
       "contract_length": 0,
@@ -368,11 +349,11 @@
       "last_updated": null
     },
     {
-      "id": 115423,
+      "id": 116049,
       "provider_id": 73,
       "provider_name": "INFINET BROADBAND",
       "provider_website": "https://www.infinetbroadband.com.au/",
-      "plan_name": "Opticomm 25/10",
+      "plan_name": "Basic",
       "monthly_price": 69.99,
       "setup_fee": 0,
       "contract_length": 0,
@@ -672,25 +653,6 @@
       "last_updated": null
     },
     {
-      "id": 115222,
-      "provider_id": 126,
-      "provider_name": "SUPERLOOP",
-      "provider_website": "https://superloop.com/",
-      "plan_name": "Everyday",
-      "monthly_price": 78.0,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 25,
-      "upload_speed": 10,
-      "speed_tier": "25/10",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 20.0,
-      "promo_duration": 6,
-      "promo_details": "$20.00 off 6mo",
-      "last_updated": null
-    },
-    {
       "id": 115514,
       "provider_id": 166,
       "provider_name": "QUOKKA NET",
@@ -707,6 +669,25 @@
       "promo_value": 9.0,
       "promo_duration": 6,
       "promo_details": "$9.00 off 6mo",
+      "last_updated": null
+    },
+    {
+      "id": 116111,
+      "provider_id": 126,
+      "provider_name": "SUPERLOOP",
+      "provider_website": "https://superloop.com/",
+      "plan_name": "Everyday",
+      "monthly_price": 78.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 25,
+      "upload_speed": 10,
+      "speed_tier": "25/10",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 20.0,
+      "promo_duration": 6,
+      "promo_details": "$20.00 off 6mo",
       "last_updated": null
     },
     {
@@ -938,7 +919,7 @@
       "last_updated": null
     },
     {
-      "id": 115161,
+      "id": 116050,
       "provider_id": 73,
       "provider_name": "INFINET BROADBAND",
       "provider_website": "https://www.infinetbroadband.com.au/",
@@ -1033,7 +1014,7 @@
       "last_updated": null
     },
     {
-      "id": 115167,
+      "id": 116056,
       "provider_id": 96,
       "provider_name": "MOOSE MOBILE",
       "provider_website": "https://moosemobile.com.au/",
@@ -1356,7 +1337,7 @@
       "last_updated": null
     },
     {
-      "id": 115168,
+      "id": 116057,
       "provider_id": 96,
       "provider_name": "MOOSE MOBILE",
       "provider_website": "https://moosemobile.com.au/",
@@ -1375,7 +1356,7 @@
       "last_updated": null
     },
     {
-      "id": 115169,
+      "id": 116058,
       "provider_id": 96,
       "provider_name": "MOOSE MOBILE",
       "provider_website": "https://moosemobile.com.au/",
@@ -1584,25 +1565,6 @@
       "last_updated": null
     },
     {
-      "id": 115223,
-      "provider_id": 126,
-      "provider_name": "SUPERLOOP",
-      "provider_website": "https://superloop.com/",
-      "plan_name": "Extra Value",
-      "monthly_price": 89.0,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 50,
-      "upload_speed": 20,
-      "speed_tier": "50/20",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 20.0,
-      "promo_duration": 6,
-      "promo_details": "$20.00 off 6mo",
-      "last_updated": null
-    },
-    {
       "id": 115276,
       "provider_id": 110,
       "provider_name": "OPTUS",
@@ -1676,6 +1638,25 @@
       "promo_value": 10.0,
       "promo_duration": 6,
       "promo_details": "$10.00 off 6mo",
+      "last_updated": null
+    },
+    {
+      "id": 116112,
+      "provider_id": 126,
+      "provider_name": "SUPERLOOP",
+      "provider_website": "https://superloop.com/",
+      "plan_name": "Extra Value",
+      "monthly_price": 89.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 50,
+      "upload_speed": 20,
+      "speed_tier": "50/20",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 20.0,
+      "promo_duration": 6,
+      "promo_details": "$20.00 off 6mo",
       "last_updated": null
     },
     {
@@ -1831,44 +1812,6 @@
       "last_updated": null
     },
     {
-      "id": 115162,
-      "provider_id": 73,
-      "provider_name": "INFINET BROADBAND",
-      "provider_website": "https://www.infinetbroadband.com.au/",
-      "plan_name": "Fast",
-      "monthly_price": 89.99,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 100,
-      "upload_speed": 20,
-      "speed_tier": "100/20",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 10.0,
-      "promo_duration": 6,
-      "promo_details": "$10.00 off 6mo",
-      "last_updated": null
-    },
-    {
-      "id": 115163,
-      "provider_id": 73,
-      "provider_name": "INFINET BROADBAND",
-      "provider_website": "https://www.infinetbroadband.com.au/",
-      "plan_name": "Faster",
-      "monthly_price": 89.99,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 500,
-      "upload_speed": 50,
-      "speed_tier": "500/50",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 10.0,
-      "promo_duration": 6,
-      "promo_details": "$10.00 off 6mo",
-      "last_updated": null
-    },
-    {
       "id": 115371,
       "provider_id": 73,
       "provider_name": "INFINET BROADBAND",
@@ -1964,12 +1907,31 @@
       "last_updated": null
     },
     {
-      "id": 115187,
-      "provider_id": 153,
-      "provider_name": "NEPTUNE",
-      "provider_website": "https://www.neptune.net.au/",
-      "plan_name": "500mbps Download | 50mbps Upload",
-      "monthly_price": 90.0,
+      "id": 116051,
+      "provider_id": 73,
+      "provider_name": "INFINET BROADBAND",
+      "provider_website": "https://www.infinetbroadband.com.au/",
+      "plan_name": "Fast",
+      "monthly_price": 89.99,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 100,
+      "upload_speed": 20,
+      "speed_tier": "100/20",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 10.0,
+      "promo_duration": 6,
+      "promo_details": "$10.00 off 6mo",
+      "last_updated": null
+    },
+    {
+      "id": 116052,
+      "provider_id": 73,
+      "provider_name": "INFINET BROADBAND",
+      "provider_website": "https://www.infinetbroadband.com.au/",
+      "plan_name": "Faster",
+      "monthly_price": 89.99,
       "setup_fee": 0,
       "contract_length": 0,
       "download_speed": 500,
@@ -1977,9 +1939,9 @@
       "speed_tier": "500/50",
       "fixed_wireless": false,
       "promo_type": "discount",
-      "promo_value": 1.0,
-      "promo_duration": 3,
-      "promo_details": "$1.00 off 3mo",
+      "promo_value": 10.0,
+      "promo_duration": 6,
+      "promo_details": "$10.00 off 6mo",
       "last_updated": null
     },
     {
@@ -2097,7 +2059,7 @@
       "last_updated": null
     },
     {
-      "id": 115233,
+      "id": 116122,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/",
@@ -2458,25 +2420,6 @@
       "last_updated": null
     },
     {
-      "id": 115225,
-      "provider_id": 126,
-      "provider_name": "SUPERLOOP",
-      "provider_website": "https://superloop.com/",
-      "plan_name": "Family Max",
-      "monthly_price": 95.0,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 500,
-      "upload_speed": 50,
-      "speed_tier": "500/50",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 30.0,
-      "promo_duration": 6,
-      "promo_details": "$30.00 off 6mo",
-      "last_updated": null
-    },
-    {
       "id": 115339,
       "provider_id": 108,
       "provider_name": "OCCOM",
@@ -2781,6 +2724,25 @@
       "last_updated": null
     },
     {
+      "id": 116114,
+      "provider_id": 126,
+      "provider_name": "SUPERLOOP",
+      "provider_website": "https://superloop.com/",
+      "plan_name": "Family Max",
+      "monthly_price": 95.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 500,
+      "upload_speed": 50,
+      "speed_tier": "500/50",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 30.0,
+      "promo_duration": 6,
+      "promo_details": "$30.00 off 6mo",
+      "last_updated": null
+    },
+    {
       "id": 115468,
       "provider_id": 159,
       "provider_name": "OZOT",
@@ -2952,25 +2914,6 @@
       "last_updated": null
     },
     {
-      "id": 115234,
-      "provider_id": 126,
-      "provider_name": "SUPERLOOP",
-      "provider_website": "https://superloop.com/",
-      "plan_name": "Fixed Wireless Home Fast",
-      "monthly_price": 98.0,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 250,
-      "upload_speed": 20,
-      "speed_tier": "250/20",
-      "fixed_wireless": true,
-      "promo_type": "discount",
-      "promo_value": 15.0,
-      "promo_duration": 6,
-      "promo_details": "$15.00 off 6mo",
-      "last_updated": null
-    },
-    {
       "id": 115521,
       "provider_id": 166,
       "provider_name": "QUOKKA NET",
@@ -3006,6 +2949,25 @@
       "promo_value": 9.0,
       "promo_duration": 6,
       "promo_details": "$9.00 off 6mo",
+      "last_updated": null
+    },
+    {
+      "id": 116123,
+      "provider_id": 126,
+      "provider_name": "SUPERLOOP",
+      "provider_website": "https://superloop.com/",
+      "plan_name": "Fixed Wireless Home Fast",
+      "monthly_price": 98.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 250,
+      "upload_speed": 20,
+      "speed_tier": "250/20",
+      "fixed_wireless": true,
+      "promo_type": "discount",
+      "promo_value": 15.0,
+      "promo_duration": 6,
+      "promo_details": "$15.00 off 6mo",
       "last_updated": null
     },
     {
@@ -3427,25 +3389,6 @@
       "last_updated": null
     },
     {
-      "id": 115164,
-      "provider_id": 73,
-      "provider_name": "INFINET BROADBAND",
-      "provider_website": "https://www.infinetbroadband.com.au/",
-      "plan_name": "Superfast",
-      "monthly_price": 99.99,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 750,
-      "upload_speed": 50,
-      "speed_tier": "750/50",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 10.0,
-      "promo_duration": 6,
-      "promo_details": "$10.00 off 6mo",
-      "last_updated": null
-    },
-    {
       "id": 115427,
       "provider_id": 73,
       "provider_name": "INFINET BROADBAND",
@@ -3465,12 +3408,12 @@
       "last_updated": null
     },
     {
-      "id": 115189,
-      "provider_id": 153,
-      "provider_name": "NEPTUNE",
-      "provider_website": "https://www.neptune.net.au/",
-      "plan_name": "750mbps Download | 50mbps Upload",
-      "monthly_price": 100.0,
+      "id": 116053,
+      "provider_id": 73,
+      "provider_name": "INFINET BROADBAND",
+      "provider_website": "https://www.infinetbroadband.com.au/",
+      "plan_name": "Superfast",
+      "monthly_price": 99.99,
       "setup_fee": 0,
       "contract_length": 0,
       "download_speed": 750,
@@ -3478,9 +3421,9 @@
       "speed_tier": "750/50",
       "fixed_wireless": false,
       "promo_type": "discount",
-      "promo_value": 1.0,
-      "promo_duration": 3,
-      "promo_details": "$1.00 off 3mo",
+      "promo_value": 10.0,
+      "promo_duration": 6,
+      "promo_details": "$10.00 off 6mo",
       "last_updated": null
     },
     {
@@ -3598,7 +3541,7 @@
       "last_updated": null
     },
     {
-      "id": 115224,
+      "id": 116113,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/",
@@ -3652,25 +3595,6 @@
       "promo_value": 10.0,
       "promo_duration": 12,
       "promo_details": "$10.00 off 12mo",
-      "last_updated": null
-    },
-    {
-      "id": 115226,
-      "provider_id": 126,
-      "provider_name": "SUPERLOOP",
-      "provider_website": "https://superloop.com/",
-      "plan_name": "Megaspeed",
-      "monthly_price": 104.0,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 750,
-      "upload_speed": 50,
-      "speed_tier": "750/50",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 30.0,
-      "promo_duration": 6,
-      "promo_details": "$30.00 off 6mo",
       "last_updated": null
     },
     {
@@ -3785,6 +3709,25 @@
       "promo_value": 22.0,
       "promo_duration": 6,
       "promo_details": "$22.00 off 6mo",
+      "last_updated": null
+    },
+    {
+      "id": 116115,
+      "provider_id": 126,
+      "provider_name": "SUPERLOOP",
+      "provider_website": "https://superloop.com/",
+      "plan_name": "Megaspeed",
+      "monthly_price": 104.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 750,
+      "upload_speed": 50,
+      "speed_tier": "750/50",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 30.0,
+      "promo_duration": 6,
+      "promo_details": "$30.00 off 6mo",
       "last_updated": null
     },
     {
@@ -3997,7 +3940,7 @@
       "last_updated": null
     },
     {
-      "id": 115229,
+      "id": 116118,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/",
@@ -4013,25 +3956,6 @@
       "promo_value": 25.0,
       "promo_duration": 6,
       "promo_details": "$25.00 off 6mo",
-      "last_updated": null
-    },
-    {
-      "id": 115235,
-      "provider_id": 126,
-      "provider_name": "SUPERLOOP",
-      "provider_website": "https://superloop.com/",
-      "plan_name": "Fixed Wireless Super Fast",
-      "monthly_price": 108.0,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 400,
-      "upload_speed": 40,
-      "speed_tier": "400/40",
-      "fixed_wireless": true,
-      "promo_type": "discount",
-      "promo_value": 15.0,
-      "promo_duration": 6,
-      "promo_details": "$15.00 off 6mo",
       "last_updated": null
     },
     {
@@ -4184,6 +4108,25 @@
       "promo_value": 20.0,
       "promo_duration": 6,
       "promo_details": "$20.00 off 6mo",
+      "last_updated": null
+    },
+    {
+      "id": 116124,
+      "provider_id": 126,
+      "provider_name": "SUPERLOOP",
+      "provider_website": "https://superloop.com/",
+      "plan_name": "Fixed Wireless Super Fast",
+      "monthly_price": 108.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 400,
+      "upload_speed": 40,
+      "speed_tier": "400/40",
+      "fixed_wireless": true,
+      "promo_type": "discount",
+      "promo_value": 15.0,
+      "promo_duration": 6,
+      "promo_details": "$15.00 off 6mo",
       "last_updated": null
     },
     {
@@ -4434,11 +4377,11 @@
       "last_updated": null
     },
     {
-      "id": 115165,
+      "id": 115428,
       "provider_id": 73,
       "provider_name": "INFINET BROADBAND",
       "provider_website": "https://www.infinetbroadband.com.au/",
-      "plan_name": "Ultrafast",
+      "plan_name": "Opticomm 1000/100",
       "monthly_price": 109.99,
       "setup_fee": 0,
       "contract_length": 0,
@@ -4453,11 +4396,11 @@
       "last_updated": null
     },
     {
-      "id": 115428,
+      "id": 116054,
       "provider_id": 73,
       "provider_name": "INFINET BROADBAND",
       "provider_website": "https://www.infinetbroadband.com.au/",
-      "plan_name": "Opticomm 1000/100",
+      "plan_name": "Ultrafast",
       "monthly_price": 109.99,
       "setup_fee": 0,
       "contract_length": 0,
@@ -4662,25 +4605,6 @@
       "last_updated": null
     },
     {
-      "id": 115227,
-      "provider_id": 126,
-      "provider_name": "SUPERLOOP",
-      "provider_website": "https://superloop.com/",
-      "plan_name": "Lightspeed",
-      "monthly_price": 114.0,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 1000,
-      "upload_speed": 100,
-      "speed_tier": "1000/100",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 30.0,
-      "promo_duration": 6,
-      "promo_details": "$30.00 off 6mo",
-      "last_updated": null
-    },
-    {
       "id": 115491,
       "provider_id": 111,
       "provider_name": "ORIGIN BROADBAND",
@@ -4692,6 +4616,25 @@
       "download_speed": 500,
       "upload_speed": 50,
       "speed_tier": "500/50",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 30.0,
+      "promo_duration": 6,
+      "promo_details": "$30.00 off 6mo",
+      "last_updated": null
+    },
+    {
+      "id": 116116,
+      "provider_id": 126,
+      "provider_name": "SUPERLOOP",
+      "provider_website": "https://superloop.com/",
+      "plan_name": "Lightspeed",
+      "monthly_price": 114.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 1000,
+      "upload_speed": 100,
+      "speed_tier": "1000/100",
       "fixed_wireless": false,
       "promo_type": "discount",
       "promo_value": 30.0,
@@ -5118,25 +5061,6 @@
       "last_updated": null
     },
     {
-      "id": 115230,
-      "provider_id": 126,
-      "provider_name": "SUPERLOOP",
-      "provider_website": "https://superloop.com/",
-      "plan_name": "BUSINESS MAX 500/200",
-      "monthly_price": 128.0,
-      "setup_fee": 0,
-      "contract_length": 0,
-      "download_speed": 500,
-      "upload_speed": 200,
-      "speed_tier": "500/200",
-      "fixed_wireless": false,
-      "promo_type": "discount",
-      "promo_value": 25.0,
-      "promo_duration": 6,
-      "promo_details": "$25.00 off 6mo",
-      "last_updated": null
-    },
-    {
       "id": 115518,
       "provider_id": 166,
       "provider_name": "QUOKKA NET",
@@ -5153,6 +5077,25 @@
       "promo_value": 20.0,
       "promo_duration": 6,
       "promo_details": "$20.00 off 6mo",
+      "last_updated": null
+    },
+    {
+      "id": 116119,
+      "provider_id": 126,
+      "provider_name": "SUPERLOOP",
+      "provider_website": "https://superloop.com/",
+      "plan_name": "BUSINESS MAX 500/200",
+      "monthly_price": 128.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 500,
+      "upload_speed": 200,
+      "speed_tier": "500/200",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 25.0,
+      "promo_duration": 6,
+      "promo_details": "$25.00 off 6mo",
       "last_updated": null
     },
     {
@@ -5517,7 +5460,7 @@
       "last_updated": null
     },
     {
-      "id": 115231,
+      "id": 116120,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/",
@@ -5631,7 +5574,7 @@
       "last_updated": null
     },
     {
-      "id": 115228,
+      "id": 116117,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/",
@@ -5954,7 +5897,7 @@
       "last_updated": null
     },
     {
-      "id": 115232,
+      "id": 116121,
       "provider_id": 126,
       "provider_name": "SUPERLOOP",
       "provider_website": "https://superloop.com/",

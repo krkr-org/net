@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-08-19T11:00:16.459091",
+    "generated_at": "2026-08-22T11:00:15.970693",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 90
@@ -47,14 +47,14 @@
       "website": "https://carboncomms.com.au/"
     },
     {
-      "id": 177,
-      "name": "OCEANDIGI",
-      "website": "https://oceandigi.com.au/"
-    },
-    {
       "id": 108,
       "name": "OCCOM",
       "website": "http://occom.com.au/"
+    },
+    {
+      "id": 177,
+      "name": "OCEANDIGI",
+      "website": "https://oceandigi.com.au/"
     },
     {
       "id": 112,
@@ -72,11 +72,6 @@
       "website": "https://futurebroadband.com.au/"
     },
     {
-      "id": 42,
-      "name": "CMOBILE",
-      "website": "https://www.cmobile.com.au/"
-    },
-    {
       "id": 88,
       "name": "LIZZY INTERNET",
       "website": "https://www.lizzy.com.au/"
@@ -85,6 +80,11 @@
       "id": 156,
       "name": "8NETWORKS",
       "website": "https://8networks.com.au/"
+    },
+    {
+      "id": 42,
+      "name": "CMOBILE",
+      "website": "https://www.cmobile.com.au/"
     },
     {
       "id": 52,
@@ -97,6 +97,16 @@
       "website": "https://mphone.com.au/"
     },
     {
+      "id": 126,
+      "name": "SUPERLOOP",
+      "website": "https://superloop.com/"
+    },
+    {
+      "id": 59,
+      "name": "FRANKSTON INTERNET",
+      "website": "http://franktel.com.au/"
+    },
+    {
       "id": 82,
       "name": "KLOUDPHONE",
       "website": "https://kloudphone.com.au/"
@@ -105,11 +115,6 @@
       "id": 153,
       "name": "NEPTUNE",
       "website": "https://www.neptune.net.au/"
-    },
-    {
-      "id": 59,
-      "name": "FRANKSTON INTERNET",
-      "website": "http://franktel.com.au/"
     },
     {
       "id": 166,
@@ -152,16 +157,6 @@
       "website": "http://www.i.net.au/"
     },
     {
-      "id": 74,
-      "name": "INSPIRED BROADBAND",
-      "website": "http://www.inspiredbroadband.com.au/"
-    },
-    {
-      "id": 158,
-      "name": "MAXO TELECOMMUNICATIONS",
-      "website": "https://www.maxo.com.au/"
-    },
-    {
       "id": 128,
       "name": "SWOOP",
       "website": "https://swoop.com.au/"
@@ -172,9 +167,24 @@
       "website": "http://www.url.net.au/"
     },
     {
+      "id": 74,
+      "name": "INSPIRED BROADBAND",
+      "website": "http://www.inspiredbroadband.com.au/"
+    },
+    {
+      "id": 158,
+      "name": "MAXO TELECOMMUNICATIONS",
+      "website": "https://www.maxo.com.au/"
+    },
+    {
       "id": 122,
       "name": "SPINTEL",
       "website": "https://www.spintel.net.au/"
+    },
+    {
+      "id": 163,
+      "name": "UPLINK ME",
+      "website": "https://uplinkme.com.au/"
     },
     {
       "id": 135,
@@ -202,11 +212,6 @@
       "website": "https://www.koganinternet.com.au/"
     },
     {
-      "id": 65,
-      "name": "GOODTEL",
-      "website": "https://www.goodtel.com.au/"
-    },
-    {
       "id": 48,
       "name": "DODO",
       "website": "https://www.dodo.com/"
@@ -232,9 +237,9 @@
       "website": "https://www.vodafone.com.au/"
     },
     {
-      "id": 163,
-      "name": "UPLINK ME",
-      "website": "https://uplinkme.com.au/"
+      "id": 65,
+      "name": "GOODTEL",
+      "website": "https://www.goodtel.com.au/"
     },
     {
       "id": 120,
@@ -245,11 +250,6 @@
       "id": 1,
       "name": "10MATES",
       "website": "https://10mates.com.au/"
-    },
-    {
-      "id": 86,
-      "name": "LIGHTNING IP",
-      "website": "https://www.lightningip.com.au/"
     },
     {
       "id": 85,
@@ -267,6 +267,11 @@
       "website": "https://internet.mocs.com.au"
     },
     {
+      "id": 86,
+      "name": "LIGHTNING IP",
+      "website": "https://www.lightningip.com.au/"
+    },
+    {
       "id": 43,
       "name": "CONNECTED AUSTRALIA",
       "website": "https://www.connectedoz.com.au/"
@@ -275,11 +280,6 @@
       "id": 20,
       "name": "AUSSIE BROADBAND",
       "website": "https://www.aussiebroadband.com.au/"
-    },
-    {
-      "id": 126,
-      "name": "SUPERLOOP",
-      "website": "https://superloop.com/"
     },
     {
       "id": 10,
@@ -292,16 +292,6 @@
       "website": "https://rwts.com.au/"
     },
     {
-      "id": 18,
-      "name": "AUS INTERNET",
-      "website": "https://ausinternet.com.au/"
-    },
-    {
-      "id": 64,
-      "name": "GOINTERNET",
-      "website": "http://www.gointernet.net.au/"
-    },
-    {
       "id": 103,
       "name": "NEW SPROUT",
       "website": "https://www.newsprout.com.au/"
@@ -312,9 +302,19 @@
       "website": "https://www.aquamobile.net.au/"
     },
     {
+      "id": 18,
+      "name": "AUS INTERNET",
+      "website": "https://ausinternet.com.au/"
+    },
+    {
       "id": 55,
       "name": "FANTEL",
       "website": "http://fantel.com.au/"
+    },
+    {
+      "id": 64,
+      "name": "GOINTERNET",
+      "website": "http://www.gointernet.net.au/"
     },
     {
       "id": 164,
@@ -332,6 +332,11 @@
       "website": "https://www.tpg.com.au/"
     },
     {
+      "id": 97,
+      "name": "MORE",
+      "website": "https://www.more.com.au"
+    },
+    {
       "id": 53,
       "name": "EXETEL",
       "website": "http://www.exetel.com.au/"
@@ -345,11 +350,6 @@
       "id": 41,
       "name": "CLICK ACCESS",
       "website": "https://www.clickaccess.com.au/"
-    },
-    {
-      "id": 97,
-      "name": "MORE",
-      "website": "https://www.more.com.au"
     },
     {
       "id": 110,
@@ -367,11 +367,6 @@
       "website": "https://harbourisp.com.au"
     },
     {
-      "id": 172,
-      "name": "ZIPFIBRE",
-      "website": "https://www.zipfibre.com.au"
-    },
-    {
       "id": 178,
       "name": "PEAK CONNECT",
       "website": "https://peakconnect.com.au/"
@@ -387,14 +382,19 @@
       "website": "https://broadconnect.com.au"
     },
     {
-      "id": 133,
-      "name": "TELSTRA",
-      "website": "https://www.telstra.com.au/"
+      "id": 172,
+      "name": "ZIPFIBRE",
+      "website": "https://www.zipfibre.com.au"
     },
     {
       "id": 3,
       "name": "2IT TECHNOLOGY",
       "website": "https://www.2ittech.com.au/"
+    },
+    {
+      "id": 133,
+      "name": "TELSTRA",
+      "website": "https://www.telstra.com.au/"
     },
     {
       "id": 91,
@@ -407,14 +407,14 @@
       "website": "https://pentanet.com.au/"
     },
     {
-      "id": 81,
-      "name": "KINETIX",
-      "website": "http://kinetix.net.au"
-    },
-    {
       "id": 27,
       "name": "BELONG",
       "website": "https://www.belong.com.au/"
+    },
+    {
+      "id": 81,
+      "name": "KINETIX",
+      "website": "http://kinetix.net.au"
     },
     {
       "id": 51,

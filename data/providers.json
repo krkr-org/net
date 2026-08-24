@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-08-23T11:00:15.541272",
+    "generated_at": "2026-08-24T11:00:15.157868",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 90
@@ -92,14 +92,14 @@
       "website": "https://www.esc.net.au/"
     },
     {
-      "id": 168,
-      "name": "MPHONE",
-      "website": "https://mphone.com.au/"
-    },
-    {
       "id": 126,
       "name": "SUPERLOOP",
       "website": "https://superloop.com/"
+    },
+    {
+      "id": 168,
+      "name": "MPHONE",
+      "website": "https://mphone.com.au/"
     },
     {
       "id": 59,
@@ -292,11 +292,6 @@
       "website": "https://rwts.com.au/"
     },
     {
-      "id": 103,
-      "name": "NEW SPROUT",
-      "website": "https://www.newsprout.com.au/"
-    },
-    {
       "id": 15,
       "name": "AQUA MOBILE",
       "website": "https://www.aquamobile.net.au/"
@@ -317,6 +312,11 @@
       "website": "http://www.gointernet.net.au/"
     },
     {
+      "id": 103,
+      "name": "NEW SPROUT",
+      "website": "https://www.newsprout.com.au/"
+    },
+    {
       "id": 164,
       "name": "VALVE NETWORKS",
       "website": "https://valvenetworks.com.au/"
@@ -330,11 +330,6 @@
       "id": 138,
       "name": "TPG",
       "website": "https://www.tpg.com.au/"
-    },
-    {
-      "id": 97,
-      "name": "MORE",
-      "website": "https://www.more.com.au"
     },
     {
       "id": 53,
@@ -352,6 +347,11 @@
       "website": "https://www.clickaccess.com.au/"
     },
     {
+      "id": 97,
+      "name": "MORE",
+      "website": "https://www.more.com.au"
+    },
+    {
       "id": 110,
       "name": "OPTUS",
       "website": "https://www.optus.com.au/"
@@ -367,11 +367,6 @@
       "website": "https://harbourisp.com.au"
     },
     {
-      "id": 178,
-      "name": "PEAK CONNECT",
-      "website": "https://peakconnect.com.au/"
-    },
-    {
       "id": 124,
       "name": "STEELE TECHNOLOGY",
       "website": "https://www.stech.com.au/"
@@ -385,6 +380,11 @@
       "id": 172,
       "name": "ZIPFIBRE",
       "website": "https://www.zipfibre.com.au"
+    },
+    {
+      "id": 178,
+      "name": "PEAK CONNECT",
+      "website": "https://peakconnect.com.au/"
     },
     {
       "id": 3,
@@ -422,14 +422,14 @@
       "website": "https://www.ehw.net.au/"
     },
     {
-      "id": 101,
-      "name": "MYOWN TEL",
-      "website": "https://www.myowntel.net.au/"
-    },
-    {
       "id": 167,
       "name": "NATAN",
       "website": "https://natan.com.au/"
+    },
+    {
+      "id": 101,
+      "name": "MYOWN TEL",
+      "website": "https://www.myowntel.net.au/"
     },
     {
       "id": 131,

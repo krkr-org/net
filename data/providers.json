@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-08-24T11:00:15.157868",
+    "generated_at": "2026-08-25T11:00:15.044288",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 90
@@ -72,11 +72,6 @@
       "website": "https://futurebroadband.com.au/"
     },
     {
-      "id": 88,
-      "name": "LIZZY INTERNET",
-      "website": "https://www.lizzy.com.au/"
-    },
-    {
       "id": 156,
       "name": "8NETWORKS",
       "website": "https://8networks.com.au/"
@@ -85,6 +80,11 @@
       "id": 42,
       "name": "CMOBILE",
       "website": "https://www.cmobile.com.au/"
+    },
+    {
+      "id": 88,
+      "name": "LIZZY INTERNET",
+      "website": "https://www.lizzy.com.au/"
     },
     {
       "id": 52,
@@ -402,11 +402,6 @@
       "website": "https://www.matilda.net.au/"
     },
     {
-      "id": 113,
-      "name": "PENTANET",
-      "website": "https://pentanet.com.au/"
-    },
-    {
       "id": 27,
       "name": "BELONG",
       "website": "https://www.belong.com.au/"
@@ -415,6 +410,11 @@
       "id": 81,
       "name": "KINETIX",
       "website": "http://kinetix.net.au"
+    },
+    {
+      "id": 113,
+      "name": "PENTANET",
+      "website": "https://pentanet.com.au/"
     },
     {
       "id": 51,

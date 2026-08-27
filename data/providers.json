@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-08-25T11:00:15.044288",
+    "generated_at": "2026-08-27T18:19:45.182575",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 90
@@ -72,11 +72,6 @@
       "website": "https://futurebroadband.com.au/"
     },
     {
-      "id": 156,
-      "name": "8NETWORKS",
-      "website": "https://8networks.com.au/"
-    },
-    {
       "id": 42,
       "name": "CMOBILE",
       "website": "https://www.cmobile.com.au/"
@@ -85,6 +80,11 @@
       "id": 88,
       "name": "LIZZY INTERNET",
       "website": "https://www.lizzy.com.au/"
+    },
+    {
+      "id": 156,
+      "name": "8NETWORKS",
+      "website": "https://8networks.com.au/"
     },
     {
       "id": 52,
@@ -157,6 +157,16 @@
       "website": "http://www.i.net.au/"
     },
     {
+      "id": 74,
+      "name": "INSPIRED BROADBAND",
+      "website": "http://www.inspiredbroadband.com.au/"
+    },
+    {
+      "id": 158,
+      "name": "MAXO TELECOMMUNICATIONS",
+      "website": "https://www.maxo.com.au/"
+    },
+    {
       "id": 128,
       "name": "SWOOP",
       "website": "https://swoop.com.au/"
@@ -167,14 +177,9 @@
       "website": "http://www.url.net.au/"
     },
     {
-      "id": 74,
-      "name": "INSPIRED BROADBAND",
-      "website": "http://www.inspiredbroadband.com.au/"
-    },
-    {
-      "id": 158,
-      "name": "MAXO TELECOMMUNICATIONS",
-      "website": "https://www.maxo.com.au/"
+      "id": 113,
+      "name": "PENTANET",
+      "website": "https://pentanet.com.au/"
     },
     {
       "id": 163,
@@ -292,19 +297,14 @@
       "website": "https://rwts.com.au/"
     },
     {
-      "id": 15,
-      "name": "AQUA MOBILE",
-      "website": "https://www.aquamobile.net.au/"
+      "id": 55,
+      "name": "FANTEL",
+      "website": "http://fantel.com.au/"
     },
     {
       "id": 18,
       "name": "AUS INTERNET",
       "website": "https://ausinternet.com.au/"
-    },
-    {
-      "id": 55,
-      "name": "FANTEL",
-      "website": "http://fantel.com.au/"
     },
     {
       "id": 64,
@@ -315,6 +315,11 @@
       "id": 103,
       "name": "NEW SPROUT",
       "website": "https://www.newsprout.com.au/"
+    },
+    {
+      "id": 15,
+      "name": "AQUA MOBILE",
+      "website": "https://www.aquamobile.net.au/"
     },
     {
       "id": 164,
@@ -367,11 +372,6 @@
       "website": "https://harbourisp.com.au"
     },
     {
-      "id": 124,
-      "name": "STEELE TECHNOLOGY",
-      "website": "https://www.stech.com.au/"
-    },
-    {
       "id": 170,
       "name": "BROADCONNECT",
       "website": "https://broadconnect.com.au"
@@ -385,6 +385,11 @@
       "id": 178,
       "name": "PEAK CONNECT",
       "website": "https://peakconnect.com.au/"
+    },
+    {
+      "id": 124,
+      "name": "STEELE TECHNOLOGY",
+      "website": "https://www.stech.com.au/"
     },
     {
       "id": 3,
@@ -410,11 +415,6 @@
       "id": 81,
       "name": "KINETIX",
       "website": "http://kinetix.net.au"
-    },
-    {
-      "id": 113,
-      "name": "PENTANET",
-      "website": "https://pentanet.com.au/"
     },
     {
       "id": 51,

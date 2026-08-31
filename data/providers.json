@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-08-30T11:00:15.437120",
+    "generated_at": "2026-08-31T11:00:16.070826",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 90
@@ -72,11 +72,6 @@
       "website": "https://futurebroadband.com.au/"
     },
     {
-      "id": 42,
-      "name": "CMOBILE",
-      "website": "https://www.cmobile.com.au/"
-    },
-    {
       "id": 88,
       "name": "LIZZY INTERNET",
       "website": "https://www.lizzy.com.au/"
@@ -87,24 +82,19 @@
       "website": "https://8networks.com.au/"
     },
     {
+      "id": 42,
+      "name": "CMOBILE",
+      "website": "https://www.cmobile.com.au/"
+    },
+    {
       "id": 52,
       "name": "ESCAPENET",
       "website": "https://www.esc.net.au/"
     },
     {
-      "id": 126,
-      "name": "SUPERLOOP",
-      "website": "https://superloop.com/"
-    },
-    {
       "id": 168,
       "name": "MPHONE",
       "website": "https://mphone.com.au/"
-    },
-    {
-      "id": 153,
-      "name": "NEPTUNE",
-      "website": "https://www.neptune.net.au/"
     },
     {
       "id": 59,
@@ -115,6 +105,11 @@
       "id": 82,
       "name": "KLOUDPHONE",
       "website": "https://kloudphone.com.au/"
+    },
+    {
+      "id": 153,
+      "name": "NEPTUNE",
+      "website": "https://www.neptune.net.au/"
     },
     {
       "id": 166,
@@ -287,6 +282,11 @@
       "website": "https://www.aussiebroadband.com.au/"
     },
     {
+      "id": 126,
+      "name": "SUPERLOOP",
+      "website": "https://superloop.com/"
+    },
+    {
       "id": 10,
       "name": "AGL TELECOMMUNICATIONS",
       "website": "https://www.agl.com.au/"
@@ -295,11 +295,6 @@
       "id": 118,
       "name": "REAL WORLD TECHNOLOGY SOLUTIONS",
       "website": "https://rwts.com.au/"
-    },
-    {
-      "id": 64,
-      "name": "GOINTERNET",
-      "website": "http://www.gointernet.net.au/"
     },
     {
       "id": 103,
@@ -320,6 +315,11 @@
       "id": 55,
       "name": "FANTEL",
       "website": "http://fantel.com.au/"
+    },
+    {
+      "id": 64,
+      "name": "GOINTERNET",
+      "website": "http://www.gointernet.net.au/"
     },
     {
       "id": 164,
@@ -372,11 +372,6 @@
       "website": "https://harbourisp.com.au"
     },
     {
-      "id": 172,
-      "name": "ZIPFIBRE",
-      "website": "https://www.zipfibre.com.au"
-    },
-    {
       "id": 178,
       "name": "PEAK CONNECT",
       "website": "https://peakconnect.com.au/"
@@ -390,6 +385,11 @@
       "id": 170,
       "name": "BROADCONNECT",
       "website": "https://broadconnect.com.au"
+    },
+    {
+      "id": 172,
+      "name": "ZIPFIBRE",
+      "website": "https://www.zipfibre.com.au"
     },
     {
       "id": 3,

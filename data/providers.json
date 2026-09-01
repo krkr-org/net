@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-08-31T11:00:16.070826",
+    "generated_at": "2026-09-01T11:00:15.889246",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 90
@@ -47,14 +47,14 @@
       "website": "https://carboncomms.com.au/"
     },
     {
-      "id": 108,
-      "name": "OCCOM",
-      "website": "http://occom.com.au/"
-    },
-    {
       "id": 177,
       "name": "OCEANDIGI",
       "website": "https://oceandigi.com.au/"
+    },
+    {
+      "id": 108,
+      "name": "OCCOM",
+      "website": "http://occom.com.au/"
     },
     {
       "id": 112,
@@ -177,14 +177,14 @@
       "website": "https://www.maxo.com.au/"
     },
     {
-      "id": 122,
-      "name": "SPINTEL",
-      "website": "https://www.spintel.net.au/"
-    },
-    {
       "id": 163,
       "name": "UPLINK ME",
       "website": "https://uplinkme.com.au/"
+    },
+    {
+      "id": 122,
+      "name": "SPINTEL",
+      "website": "https://www.spintel.net.au/"
     },
     {
       "id": 135,
@@ -252,16 +252,6 @@
       "website": "https://10mates.com.au/"
     },
     {
-      "id": 85,
-      "name": "LEAPTEL",
-      "website": "https://leaptel.com.au/"
-    },
-    {
-      "id": 89,
-      "name": "MAD OVER TECH",
-      "website": "https://madovertech.com.au/"
-    },
-    {
       "id": 180,
       "name": "MOCS INTERNET",
       "website": "https://internet.mocs.com.au"
@@ -270,6 +260,16 @@
       "id": 86,
       "name": "LIGHTNING IP",
       "website": "https://www.lightningip.com.au/"
+    },
+    {
+      "id": 85,
+      "name": "LEAPTEL",
+      "website": "https://leaptel.com.au/"
+    },
+    {
+      "id": 89,
+      "name": "MAD OVER TECH",
+      "website": "https://madovertech.com.au/"
     },
     {
       "id": 43,
@@ -422,14 +422,14 @@
       "website": "https://www.ehw.net.au/"
     },
     {
-      "id": 167,
-      "name": "NATAN",
-      "website": "https://natan.com.au/"
-    },
-    {
       "id": 101,
       "name": "MYOWN TEL",
       "website": "https://www.myowntel.net.au/"
+    },
+    {
+      "id": 167,
+      "name": "NATAN",
+      "website": "https://natan.com.au/"
     },
     {
       "id": 131,

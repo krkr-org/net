@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-09-02T11:00:16.794302",
+    "generated_at": "2026-09-03T11:00:15.955856",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 90
@@ -72,11 +72,6 @@
       "website": "https://futurebroadband.com.au/"
     },
     {
-      "id": 88,
-      "name": "LIZZY INTERNET",
-      "website": "https://www.lizzy.com.au/"
-    },
-    {
       "id": 156,
       "name": "8NETWORKS",
       "website": "https://8networks.com.au/"
@@ -85,6 +80,11 @@
       "id": 42,
       "name": "CMOBILE",
       "website": "https://www.cmobile.com.au/"
+    },
+    {
+      "id": 88,
+      "name": "LIZZY INTERNET",
+      "website": "https://www.lizzy.com.au/"
     },
     {
       "id": 52,
@@ -152,11 +152,6 @@
       "website": "http://www.i.net.au/"
     },
     {
-      "id": 128,
-      "name": "SWOOP",
-      "website": "https://swoop.com.au/"
-    },
-    {
       "id": 142,
       "name": "URL NETWORKS",
       "website": "http://www.url.net.au/"
@@ -165,6 +160,11 @@
       "id": 113,
       "name": "PENTANET",
       "website": "https://pentanet.com.au/"
+    },
+    {
+      "id": 128,
+      "name": "SWOOP",
+      "website": "https://swoop.com.au/"
     },
     {
       "id": 74,
@@ -240,11 +240,6 @@
       "id": 65,
       "name": "GOODTEL",
       "website": "https://www.goodtel.com.au/"
-    },
-    {
-      "id": 120,
-      "name": "SKYMESH",
-      "website": "https://www.skymesh.net.au/"
     },
     {
       "id": 1,
@@ -325,6 +320,11 @@
       "id": 164,
       "name": "VALVE NETWORKS",
       "website": "https://valvenetworks.com.au/"
+    },
+    {
+      "id": 120,
+      "name": "SKYMESH",
+      "website": "https://www.skymesh.net.au/"
     },
     {
       "id": 72,

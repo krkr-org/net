@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-09-03T11:00:15.955856",
+    "generated_at": "2026-09-04T11:00:17.170606",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 90
@@ -152,21 +152,6 @@
       "website": "http://www.i.net.au/"
     },
     {
-      "id": 142,
-      "name": "URL NETWORKS",
-      "website": "http://www.url.net.au/"
-    },
-    {
-      "id": 113,
-      "name": "PENTANET",
-      "website": "https://pentanet.com.au/"
-    },
-    {
-      "id": 128,
-      "name": "SWOOP",
-      "website": "https://swoop.com.au/"
-    },
-    {
       "id": 74,
       "name": "INSPIRED BROADBAND",
       "website": "http://www.inspiredbroadband.com.au/"
@@ -175,6 +160,21 @@
       "id": 158,
       "name": "MAXO TELECOMMUNICATIONS",
       "website": "https://www.maxo.com.au/"
+    },
+    {
+      "id": 128,
+      "name": "SWOOP",
+      "website": "https://swoop.com.au/"
+    },
+    {
+      "id": 142,
+      "name": "URL NETWORKS",
+      "website": "http://www.url.net.au/"
+    },
+    {
+      "id": 113,
+      "name": "PENTANET",
+      "website": "https://pentanet.com.au/"
     },
     {
       "id": 163,
@@ -317,24 +317,24 @@
       "website": "https://www.newsprout.com.au/"
     },
     {
-      "id": 164,
-      "name": "VALVE NETWORKS",
-      "website": "https://valvenetworks.com.au/"
-    },
-    {
       "id": 120,
       "name": "SKYMESH",
       "website": "https://www.skymesh.net.au/"
     },
     {
-      "id": 72,
-      "name": "IINET",
-      "website": "https://www.iinet.net.au/"
+      "id": 164,
+      "name": "VALVE NETWORKS",
+      "website": "https://valvenetworks.com.au/"
     },
     {
       "id": 138,
       "name": "TPG",
       "website": "https://www.tpg.com.au/"
+    },
+    {
+      "id": 72,
+      "name": "IINET",
+      "website": "https://www.iinet.net.au/"
     },
     {
       "id": 53,
@@ -372,11 +372,6 @@
       "website": "https://harbourisp.com.au"
     },
     {
-      "id": 124,
-      "name": "STEELE TECHNOLOGY",
-      "website": "https://www.stech.com.au/"
-    },
-    {
       "id": 170,
       "name": "BROADCONNECT",
       "website": "https://broadconnect.com.au"
@@ -390,6 +385,11 @@
       "id": 178,
       "name": "PEAK CONNECT",
       "website": "https://peakconnect.com.au/"
+    },
+    {
+      "id": 124,
+      "name": "STEELE TECHNOLOGY",
+      "website": "https://www.stech.com.au/"
     },
     {
       "id": 3,

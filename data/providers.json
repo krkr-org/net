@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-09-04T11:00:17.170606",
+    "generated_at": "2026-09-05T11:00:16.085640",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 90
@@ -72,11 +72,6 @@
       "website": "https://futurebroadband.com.au/"
     },
     {
-      "id": 156,
-      "name": "8NETWORKS",
-      "website": "https://8networks.com.au/"
-    },
-    {
       "id": 42,
       "name": "CMOBILE",
       "website": "https://www.cmobile.com.au/"
@@ -85,6 +80,11 @@
       "id": 88,
       "name": "LIZZY INTERNET",
       "website": "https://www.lizzy.com.au/"
+    },
+    {
+      "id": 156,
+      "name": "8NETWORKS",
+      "website": "https://8networks.com.au/"
     },
     {
       "id": 52,
@@ -292,19 +292,14 @@
       "website": "https://rwts.com.au/"
     },
     {
-      "id": 15,
-      "name": "AQUA MOBILE",
-      "website": "https://www.aquamobile.net.au/"
+      "id": 55,
+      "name": "FANTEL",
+      "website": "http://fantel.com.au/"
     },
     {
       "id": 18,
       "name": "AUS INTERNET",
       "website": "https://ausinternet.com.au/"
-    },
-    {
-      "id": 55,
-      "name": "FANTEL",
-      "website": "http://fantel.com.au/"
     },
     {
       "id": 64,
@@ -317,6 +312,11 @@
       "website": "https://www.newsprout.com.au/"
     },
     {
+      "id": 15,
+      "name": "AQUA MOBILE",
+      "website": "https://www.aquamobile.net.au/"
+    },
+    {
       "id": 120,
       "name": "SKYMESH",
       "website": "https://www.skymesh.net.au/"
@@ -327,14 +327,14 @@
       "website": "https://valvenetworks.com.au/"
     },
     {
-      "id": 138,
-      "name": "TPG",
-      "website": "https://www.tpg.com.au/"
-    },
-    {
       "id": 72,
       "name": "IINET",
       "website": "https://www.iinet.net.au/"
+    },
+    {
+      "id": 138,
+      "name": "TPG",
+      "website": "https://www.tpg.com.au/"
     },
     {
       "id": 53,
@@ -372,11 +372,6 @@
       "website": "https://harbourisp.com.au"
     },
     {
-      "id": 170,
-      "name": "BROADCONNECT",
-      "website": "https://broadconnect.com.au"
-    },
-    {
       "id": 172,
       "name": "ZIPFIBRE",
       "website": "https://www.zipfibre.com.au"
@@ -390,6 +385,11 @@
       "id": 124,
       "name": "STEELE TECHNOLOGY",
       "website": "https://www.stech.com.au/"
+    },
+    {
+      "id": 170,
+      "name": "BROADCONNECT",
+      "website": "https://broadconnect.com.au"
     },
     {
       "id": 3,

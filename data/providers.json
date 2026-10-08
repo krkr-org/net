@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-10-07T12:00:19.268945",
+    "generated_at": "2026-10-08T12:00:18.136851",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 90
@@ -67,24 +67,19 @@
       "website": "https://oceandigi.com.au/"
     },
     {
-      "id": 42,
-      "name": "CMOBILE",
-      "website": "https://www.cmobile.com.au/"
-    },
-    {
       "id": 88,
       "name": "LIZZY INTERNET",
       "website": "https://www.lizzy.com.au/"
     },
     {
-      "id": 121,
-      "name": "SOUTHERN PHONE",
-      "website": "https://www.southernphone.com.au/"
-    },
-    {
       "id": 156,
       "name": "8NETWORKS",
       "website": "https://8networks.com.au/"
+    },
+    {
+      "id": 121,
+      "name": "SOUTHERN PHONE",
+      "website": "https://www.southernphone.com.au/"
     },
     {
       "id": 52,
@@ -155,6 +150,11 @@
       "id": 69,
       "name": "I.NET.AU",
       "website": "http://www.i.net.au/"
+    },
+    {
+      "id": 42,
+      "name": "CMOBILE",
+      "website": "https://www.cmobile.com.au/"
     },
     {
       "id": 74,
@@ -252,14 +252,14 @@
       "website": "https://madovertech.com.au/"
     },
     {
-      "id": 86,
-      "name": "LIGHTNING IP",
-      "website": "https://www.lightningip.com.au/"
-    },
-    {
       "id": 180,
       "name": "MOCS INTERNET",
       "website": "https://internet.mocs.com.au"
+    },
+    {
+      "id": 86,
+      "name": "LIGHTNING IP",
+      "website": "https://www.lightningip.com.au/"
     },
     {
       "id": 51,
@@ -322,14 +322,14 @@
       "website": "https://valvenetworks.com.au/"
     },
     {
-      "id": 138,
-      "name": "TPG",
-      "website": "https://www.tpg.com.au/"
-    },
-    {
       "id": 72,
       "name": "IINET",
       "website": "https://www.iinet.net.au/"
+    },
+    {
+      "id": 138,
+      "name": "TPG",
+      "website": "https://www.tpg.com.au/"
     },
     {
       "id": 41,

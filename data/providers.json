@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-10-11T12:00:18.564095",
+    "generated_at": "2026-10-13T12:00:18.065215",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 90
@@ -67,6 +67,11 @@
       "website": "https://oceandigi.com.au/"
     },
     {
+      "id": 42,
+      "name": "CMOBILE",
+      "website": "https://www.cmobile.com.au/"
+    },
+    {
       "id": 88,
       "name": "LIZZY INTERNET",
       "website": "https://www.lizzy.com.au/"
@@ -80,11 +85,6 @@
       "id": 156,
       "name": "8NETWORKS",
       "website": "https://8networks.com.au/"
-    },
-    {
-      "id": 42,
-      "name": "CMOBILE",
-      "website": "https://www.cmobile.com.au/"
     },
     {
       "id": 52,
@@ -167,14 +167,14 @@
       "website": "https://swoop.com.au/"
     },
     {
-      "id": 158,
-      "name": "MAXO TELECOMMUNICATIONS",
-      "website": "https://www.maxo.com.au/"
-    },
-    {
       "id": 142,
       "name": "URL NETWORKS",
       "website": "http://www.url.net.au/"
+    },
+    {
+      "id": 158,
+      "name": "MAXO TELECOMMUNICATIONS",
+      "website": "https://www.maxo.com.au/"
     },
     {
       "id": 122,
@@ -197,14 +197,14 @@
       "website": "https://www.iig.com.au/"
     },
     {
-      "id": 161,
-      "name": "AMAYSIM",
-      "website": "https://www.amaysim.com.au/"
-    },
-    {
       "id": 176,
       "name": "MULTIWAVE CONNECT",
       "website": "https://www.multiwaveconnect.com.au/"
+    },
+    {
+      "id": 161,
+      "name": "AMAYSIM",
+      "website": "https://www.amaysim.com.au/"
     },
     {
       "id": 83,
@@ -237,6 +237,11 @@
       "website": "https://10mates.com.au/"
     },
     {
+      "id": 27,
+      "name": "BELONG",
+      "website": "https://www.belong.com.au/"
+    },
+    {
       "id": 85,
       "name": "LEAPTEL",
       "website": "https://leaptel.com.au/"
@@ -257,11 +262,6 @@
       "website": "https://internet.mocs.com.au"
     },
     {
-      "id": 27,
-      "name": "BELONG",
-      "website": "https://www.belong.com.au/"
-    },
-    {
       "id": 51,
       "name": "EHW TECHNOLOGY",
       "website": "https://www.ehw.net.au/"
@@ -275,6 +275,16 @@
       "id": 20,
       "name": "AUSSIE BROADBAND",
       "website": "https://www.aussiebroadband.com.au/"
+    },
+    {
+      "id": 15,
+      "name": "AQUA MOBILE",
+      "website": "https://www.aquamobile.net.au/"
+    },
+    {
+      "id": 18,
+      "name": "AUS INTERNET",
+      "website": "https://ausinternet.com.au/"
     },
     {
       "id": 55,
@@ -302,16 +312,6 @@
       "website": "https://hyperconnect.au/"
     },
     {
-      "id": 18,
-      "name": "AUS INTERNET",
-      "website": "https://ausinternet.com.au/"
-    },
-    {
-      "id": 15,
-      "name": "AQUA MOBILE",
-      "website": "https://www.aquamobile.net.au/"
-    },
-    {
       "id": 120,
       "name": "SKYMESH",
       "website": "https://www.skymesh.net.au/"
@@ -330,6 +330,11 @@
       "id": 138,
       "name": "TPG",
       "website": "https://www.tpg.com.au/"
+    },
+    {
+      "id": 41,
+      "name": "CLICK ACCESS",
+      "website": "https://www.clickaccess.com.au/"
     },
     {
       "id": 53,
@@ -362,11 +367,6 @@
       "website": "https://natan.com.au/"
     },
     {
-      "id": 41,
-      "name": "CLICK ACCESS",
-      "website": "https://www.clickaccess.com.au/"
-    },
-    {
       "id": 110,
       "name": "OPTUS",
       "website": "https://www.optus.com.au/"
@@ -385,6 +385,11 @@
       "id": 5,
       "name": "ACE INTERNET",
       "website": "https://ace.com.au/"
+    },
+    {
+      "id": 10,
+      "name": "AGL TELECOMMUNICATIONS",
+      "website": "https://www.agl.com.au/"
     },
     {
       "id": 124,
@@ -407,19 +412,14 @@
       "website": "https://peakconnect.com.au/"
     },
     {
-      "id": 10,
-      "name": "AGL TELECOMMUNICATIONS",
-      "website": "https://www.agl.com.au/"
+      "id": 3,
+      "name": "2IT TECHNOLOGY",
+      "website": "https://www.2ittech.com.au/"
     },
     {
       "id": 133,
       "name": "TELSTRA",
       "website": "https://www.telstra.com.au/"
-    },
-    {
-      "id": 3,
-      "name": "2IT TECHNOLOGY",
-      "website": "https://www.2ittech.com.au/"
     },
     {
       "id": 91,

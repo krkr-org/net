@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-10-22T12:00:18.824069",
+    "generated_at": "2026-10-23T12:00:18.576585",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
-    "count": 1124
+    "count": 1134
   },
   "data": [
     {
@@ -1771,6 +1771,25 @@
       "promo_value": 20.0,
       "promo_duration": 6,
       "promo_details": "$20.00 off 6mo",
+      "last_updated": null
+    },
+    {
+      "id": 130218,
+      "provider_id": 182,
+      "provider_name": "PURPLE CONNECT",
+      "provider_website": "https://www.elgas.com.au/purple-connect/",
+      "plan_name": "NBN Essentials",
+      "monthly_price": 72.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 25,
+      "upload_speed": 10,
+      "speed_tier": "25/10",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 25.0,
+      "promo_duration": 6,
+      "promo_details": "$25.00 off 6mo",
       "last_updated": null
     },
     {
@@ -4548,6 +4567,25 @@
       "last_updated": null
     },
     {
+      "id": 130219,
+      "provider_id": 182,
+      "provider_name": "PURPLE CONNECT",
+      "provider_website": "https://www.elgas.com.au/purple-connect/",
+      "plan_name": "NBN Everyday",
+      "monthly_price": 85.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 50,
+      "upload_speed": 20,
+      "speed_tier": "50/20",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 31.0,
+      "promo_duration": 6,
+      "promo_details": "$31.00 off 6mo",
+      "last_updated": null
+    },
+    {
       "id": 129201,
       "provider_id": 83,
       "provider_name": "KOGAN",
@@ -4963,6 +5001,25 @@
       "promo_value": null,
       "promo_duration": null,
       "promo_details": null,
+      "last_updated": null
+    },
+    {
+      "id": 130213,
+      "provider_id": 181,
+      "provider_name": "1ST ENERGY",
+      "provider_website": "https://internet.1stenergy.com.au/",
+      "plan_name": "NBN Everyday",
+      "monthly_price": 88.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 50,
+      "upload_speed": 20,
+      "speed_tier": "50/20",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 38.0,
+      "promo_duration": 6,
+      "promo_details": "$38.00 off 6mo",
       "last_updated": null
     },
     {
@@ -8462,6 +8519,44 @@
       "last_updated": null
     },
     {
+      "id": 130220,
+      "provider_id": 182,
+      "provider_name": "PURPLE CONNECT",
+      "provider_website": "https://www.elgas.com.au/purple-connect/",
+      "plan_name": "NBN Superfast",
+      "monthly_price": 95.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 500,
+      "upload_speed": 50,
+      "speed_tier": "500/50",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 39.0,
+      "promo_duration": 6,
+      "promo_details": "$39.00 off 6mo",
+      "last_updated": null
+    },
+    {
+      "id": 130221,
+      "provider_id": 182,
+      "provider_name": "PURPLE CONNECT",
+      "provider_website": "https://www.elgas.com.au/purple-connect/",
+      "plan_name": "NBN Family",
+      "monthly_price": 95.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 100,
+      "upload_speed": 20,
+      "speed_tier": "100/20",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 39.0,
+      "promo_duration": 6,
+      "promo_details": "$39.00 off 6mo",
+      "last_updated": null
+    },
+    {
       "id": 129470,
       "provider_id": 154,
       "provider_name": "IT'S FUBAR",
@@ -8535,6 +8630,44 @@
       "promo_value": null,
       "promo_duration": null,
       "promo_details": null,
+      "last_updated": null
+    },
+    {
+      "id": 130214,
+      "provider_id": 181,
+      "provider_name": "1ST ENERGY",
+      "provider_website": "https://internet.1stenergy.com.au/",
+      "plan_name": "NBN Family",
+      "monthly_price": 96.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 100,
+      "upload_speed": 20,
+      "speed_tier": "100/20",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 44.0,
+      "promo_duration": 6,
+      "promo_details": "$44.00 off 6mo",
+      "last_updated": null
+    },
+    {
+      "id": 130215,
+      "provider_id": 181,
+      "provider_name": "1ST ENERGY",
+      "provider_website": "https://internet.1stenergy.com.au/",
+      "plan_name": "NBN Superfast 500/50",
+      "monthly_price": 96.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 500,
+      "upload_speed": 50,
+      "speed_tier": "500/50",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 44.0,
+      "promo_duration": 6,
+      "promo_details": "$44.00 off 6mo",
       "last_updated": null
     },
     {
@@ -12870,6 +13003,25 @@
       "last_updated": null
     },
     {
+      "id": 130222,
+      "provider_id": 182,
+      "provider_name": "PURPLE CONNECT",
+      "provider_website": "https://www.elgas.com.au/purple-connect/",
+      "plan_name": "NBN Ultrafast",
+      "monthly_price": 109.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 1000,
+      "upload_speed": 100,
+      "speed_tier": "1000/100",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 37.0,
+      "promo_duration": 6,
+      "promo_details": "$37.00 off 6mo",
+      "last_updated": null
+    },
+    {
       "id": 129205,
       "provider_id": 84,
       "provider_name": "LAUNTEL",
@@ -16005,6 +16157,25 @@
       "last_updated": null
     },
     {
+      "id": 130216,
+      "provider_id": 181,
+      "provider_name": "1ST ENERGY",
+      "provider_website": "https://internet.1stenergy.com.au/",
+      "plan_name": "NBN Superfast 750/50",
+      "monthly_price": 120.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 750,
+      "upload_speed": 50,
+      "speed_tier": "750/50",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 57.0,
+      "promo_duration": 6,
+      "promo_details": "$57.00 off 6mo",
+      "last_updated": null
+    },
+    {
       "id": 129807,
       "provider_id": 65,
       "provider_name": "GOODTEL",
@@ -17959,6 +18130,25 @@
       "promo_value": null,
       "promo_duration": null,
       "promo_details": null,
+      "last_updated": null
+    },
+    {
+      "id": 130217,
+      "provider_id": 181,
+      "provider_name": "1ST ENERGY",
+      "provider_website": "https://internet.1stenergy.com.au/",
+      "plan_name": "NBN Ultrafast",
+      "monthly_price": 136.0,
+      "setup_fee": 0,
+      "contract_length": 0,
+      "download_speed": 1000,
+      "upload_speed": 100,
+      "speed_tier": "1000/100",
+      "fixed_wireless": false,
+      "promo_type": "discount",
+      "promo_value": 66.0,
+      "promo_duration": 6,
+      "promo_details": "$66.00 off 6mo",
       "last_updated": null
     },
     {

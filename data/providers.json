@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-10-22T12:00:18.823485",
+    "generated_at": "2026-10-23T12:00:18.575975",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
-    "count": 90
+    "count": 92
   },
   "data": [
     {
@@ -212,6 +212,11 @@
       "website": "https://www.koganinternet.com.au/"
     },
     {
+      "id": 182,
+      "name": "PURPLE CONNECT",
+      "website": "https://www.elgas.com.au/purple-connect/"
+    },
+    {
       "id": 159,
       "name": "OZOT",
       "website": "https://ozot.com.au/"
@@ -410,6 +415,11 @@
       "id": 178,
       "name": "PEAK CONNECT",
       "website": "https://peakconnect.com.au/"
+    },
+    {
+      "id": 181,
+      "name": "1ST ENERGY",
+      "website": "https://internet.1stenergy.com.au/"
     },
     {
       "id": 3,

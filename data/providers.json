@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-10-25T12:00:18.912307",
+    "generated_at": "2026-10-26T12:00:18.675354",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 92
@@ -157,14 +157,14 @@
       "website": "http://www.i.net.au/"
     },
     {
-      "id": 128,
-      "name": "SWOOP",
-      "website": "https://swoop.com.au/"
-    },
-    {
       "id": 74,
       "name": "INSPIRED BROADBAND",
       "website": "http://www.inspiredbroadband.com.au/"
+    },
+    {
+      "id": 128,
+      "name": "SWOOP",
+      "website": "https://swoop.com.au/"
     },
     {
       "id": 158,

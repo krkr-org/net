@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-06T12:00:18.922972",
+    "generated_at": "2026-11-07T12:00:19.080562",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 92
@@ -37,14 +37,14 @@
       "website": "https://solitarytech.com.au/"
     },
     {
-      "id": 179,
-      "name": "SIPTALK",
-      "website": "https://www.siptalk.com.au/"
-    },
-    {
       "id": 60,
       "name": "FUTURE BROADBAND",
       "website": "https://futurebroadband.com.au/"
+    },
+    {
+      "id": 179,
+      "name": "SIPTALK",
+      "website": "https://www.siptalk.com.au/"
     },
     {
       "id": 37,
@@ -55,6 +55,11 @@
       "id": 108,
       "name": "OCCOM",
       "website": "http://occom.com.au/"
+    },
+    {
+      "id": 177,
+      "name": "OCEANDIGI",
+      "website": "https://oceandigi.com.au/"
     },
     {
       "id": 42,
@@ -112,11 +117,6 @@
       "website": "https://www.neptune.net.au/"
     },
     {
-      "id": 144,
-      "name": "VEETEL",
-      "website": "http://www.veetel.com.au/"
-    },
-    {
       "id": 96,
       "name": "MOOSE MOBILE",
       "website": "https://moosemobile.com.au/"
@@ -140,6 +140,11 @@
       "id": 147,
       "name": "VOIPEX",
       "website": "https://www.voipex.com.au/"
+    },
+    {
+      "id": 144,
+      "name": "VEETEL",
+      "website": "http://www.veetel.com.au/"
     },
     {
       "id": 117,
@@ -205,11 +210,6 @@
       "id": 83,
       "name": "KOGAN",
       "website": "https://www.koganinternet.com.au/"
-    },
-    {
-      "id": 177,
-      "name": "OCEANDIGI",
-      "website": "https://oceandigi.com.au/"
     },
     {
       "id": 182,
@@ -347,11 +347,6 @@
       "website": "https://nexee.au"
     },
     {
-      "id": 77,
-      "name": "IPRIMUS - 1300 FIBRE 1",
-      "website": "https://www.iprimus.com.au/"
-    },
-    {
       "id": 90,
       "name": "MATE",
       "website": "https://www.letsbemates.com.au"
@@ -365,6 +360,11 @@
       "id": 167,
       "name": "NATAN",
       "website": "https://natan.com.au/"
+    },
+    {
+      "id": 77,
+      "name": "IPRIMUS - 1300 FIBRE 1",
+      "website": "https://www.iprimus.com.au/"
     },
     {
       "id": 110,

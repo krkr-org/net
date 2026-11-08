@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-07T12:00:19.080562",
+    "generated_at": "2026-11-08T12:00:18.320942",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 92
@@ -117,6 +117,11 @@
       "website": "https://www.neptune.net.au/"
     },
     {
+      "id": 144,
+      "name": "VEETEL",
+      "website": "http://www.veetel.com.au/"
+    },
+    {
       "id": 96,
       "name": "MOOSE MOBILE",
       "website": "https://moosemobile.com.au/"
@@ -142,11 +147,6 @@
       "website": "https://www.voipex.com.au/"
     },
     {
-      "id": 144,
-      "name": "VEETEL",
-      "website": "http://www.veetel.com.au/"
-    },
-    {
       "id": 117,
       "name": "QURED",
       "website": "http://www.qured.com.au/"
@@ -157,14 +157,14 @@
       "website": "http://www.i.net.au/"
     },
     {
-      "id": 74,
-      "name": "INSPIRED BROADBAND",
-      "website": "http://www.inspiredbroadband.com.au/"
-    },
-    {
       "id": 128,
       "name": "SWOOP",
       "website": "https://swoop.com.au/"
+    },
+    {
+      "id": 74,
+      "name": "INSPIRED BROADBAND",
+      "website": "http://www.inspiredbroadband.com.au/"
     },
     {
       "id": 158,

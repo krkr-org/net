@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-12T12:00:19.157968",
+    "generated_at": "2026-11-13T12:00:18.992148",
     "generator": "Interactive Internet Plan Advisor Data Fetcher",
     "version": "1.0",
     "count": 92
@@ -57,6 +57,11 @@
       "website": "http://occom.com.au/"
     },
     {
+      "id": 177,
+      "name": "OCEANDIGI",
+      "website": "https://oceandigi.com.au/"
+    },
+    {
       "id": 42,
       "name": "CMOBILE",
       "website": "https://www.cmobile.com.au/"
@@ -77,14 +82,14 @@
       "website": "https://8networks.com.au/"
     },
     {
-      "id": 52,
-      "name": "ESCAPENET",
-      "website": "https://www.esc.net.au/"
-    },
-    {
       "id": 57,
       "name": "FLIP",
       "website": "https://www.flipconnect.com.au"
+    },
+    {
+      "id": 52,
+      "name": "ESCAPENET",
+      "website": "https://www.esc.net.au/"
     },
     {
       "id": 168,
@@ -157,11 +162,6 @@
       "website": "http://www.inspiredbroadband.com.au/"
     },
     {
-      "id": 110,
-      "name": "OPTUS",
-      "website": "https://www.optus.com.au/"
-    },
-    {
       "id": 128,
       "name": "SWOOP",
       "website": "https://swoop.com.au/"
@@ -212,11 +212,6 @@
       "website": "https://www.koganinternet.com.au/"
     },
     {
-      "id": 177,
-      "name": "OCEANDIGI",
-      "website": "https://oceandigi.com.au/"
-    },
-    {
       "id": 182,
       "name": "PURPLE CONNECT",
       "website": "https://www.elgas.com.au/purple-connect/"
@@ -247,6 +242,11 @@
       "website": "https://10mates.com.au/"
     },
     {
+      "id": 180,
+      "name": "MOCS INTERNET",
+      "website": "https://internet.mocs.com.au"
+    },
+    {
       "id": 27,
       "name": "BELONG",
       "website": "https://www.belong.com.au/"
@@ -265,11 +265,6 @@
       "id": 86,
       "name": "LIGHTNING IP",
       "website": "https://www.lightningip.com.au/"
-    },
-    {
-      "id": 180,
-      "name": "MOCS INTERNET",
-      "website": "https://internet.mocs.com.au"
     },
     {
       "id": 51,
@@ -370,6 +365,11 @@
       "id": 77,
       "name": "IPRIMUS - 1300 FIBRE 1",
       "website": "https://www.iprimus.com.au/"
+    },
+    {
+      "id": 110,
+      "name": "OPTUS",
+      "website": "https://www.optus.com.au/"
     },
     {
       "id": 113,
